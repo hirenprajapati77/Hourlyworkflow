@@ -92,10 +92,24 @@ def fetch_json(session: requests.Session, url: str) -> dict:
         try:
             resp = session.get(url, timeout=12)
             if resp.status_code == 200:
-                return resp.json()
-            last_err = f"HTTP {resp.status_code}"
-        except (requests.RequestException, json.JSONDecodeError) as e:
-            last_err = str(e)
+                try:
+                    return resp.json()
+                except json.JSONDecodeError:
+                    # NSE returned 200 but not JSON - almost always a block/challenge
+                    # page (HTML) rather than the API payload. Surface the actual
+                    # body so we can see what NSE is sending instead of guessing.
+                    snippet = resp.text[:500].replace("\n", " ")
+                    last_err = (
+                        f"HTTP 200 but non-JSON body (likely a bot-block page). "
+                        f"Content-Type: {resp.headers.get('Content-Type')}. "
+                        f"First 500 chars: {snippet!r}"
+                    )
+            else:
+                snippet = resp.text[:500].replace("\n", " ")
+                last_err = f"HTTP {resp.status_code}. First 500 chars: {snippet!r}"
+        except requests.RequestException as e:
+            last_err = f"Request exception: {e}"
+        print(f"[attempt {attempt}/{MAX_RETRIES}] {url} -> {last_err}", file=sys.stderr)
         # bot-check cookies can expire mid-retry; rebuild session before next try
         time.sleep(RETRY_DELAY_SEC)
         session = build_session()

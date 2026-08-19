@@ -1,0 +1,4 @@
+requests>=2.31.0
+# Optional, only needed if you enable --screenshot. Adds ~300MB+ RAM
+# footprint while running - see README before installing on the 1GB VM.
+# playwright>=1.44.0

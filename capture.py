@@ -65,7 +65,7 @@ HEADERS = {
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     ),
     "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Encoding": "gzip, deflate",
     "Accept": "application/json, text/plain, */*",
     "Referer": "https://www.nseindia.com/market-data/top-gainers-losers",
     "Connection": "keep-alive",

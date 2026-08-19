@@ -1,0 +1,59 @@
+name: NSE F&O Gainers/Losers
+
+on:
+  schedule:
+    # All times UTC. IST = UTC + 5:30.
+    # 09:30 IST -> 04:00 UTC
+    - cron: "0 4 * * 1-5"
+    # 10:00 IST -> 04:30 UTC
+    - cron: "30 4 * * 1-5"
+    # 10:30 IST -> 05:00 UTC
+    - cron: "0 5 * * 1-5"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab, for testing
+
+permissions:
+  contents: write   # needed to commit snapshots/reports back to the repo
+
+jobs:
+  capture-and-analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Capture snapshot
+        id: capture
+        run: python3 capture.py --debug
+        continue-on-error: true   # don't fail the whole job on a transient NSE/holiday issue
+
+      - name: Analyze (compare against today's earlier snapshots)
+        if: steps.capture.outcome == 'success'
+        run: python3 analyze.py
+
+      - name: Commit results back to repo
+        if: steps.capture.outcome == 'success'
+        run: |
+          git config user.name "nse-fo-movers-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add snapshots/ reports/
+          git diff --cached --quiet || git commit -m "F&O snapshot + report $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Upload run artifacts (backup, even on failure)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nse-fo-run-${{ github.run_id }}
+          path: |
+            snapshots/
+            reports/
+          retention-days: 14

@@ -305,11 +305,15 @@ def main():
 
     out_path = root / "reports" / f"report_{current['label']}.md"
     out_path.write_text(report, encoding="utf-8")
+    
+    latest_report_path = root / "reports" / "latest_report.md"
+    latest_report_path.write_text(report, encoding="utf-8")
+    
     try:
         sys.stdout.buffer.write((report + "\n").encode("utf-8"))
     except Exception:
         print(report.encode("ascii", errors="replace").decode("ascii"))
-    print(f"\n[Saved to {out_path}]")
+    print(f"\n[Saved to {out_path} and {latest_report_path}]")
 
 
 if __name__ == "__main__":

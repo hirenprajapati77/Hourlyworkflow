@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NSE F&O Gainers & Losers Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>body { font-family: "Inter", sans-serif; }</style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen pb-12">
+    <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-50 px-6 py-4 flex justify-between items-center">
+        <div>
+            <h1 class="text-xl font-bold bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 bg-clip-text text-transparent">
+                NSE F&O Live Workflow Dashboard
+            </h1>
+            <p class="text-xs text-slate-400 mt-0.5" id="last-updated">Loading latest snapshot...</p>
+        </div>
+        <div class="flex items-center gap-3">
+            <button id="refresh-btn" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-xs font-medium rounded-lg border border-slate-700 transition">
+                Refresh Data
+            </button>
+            <a href="https://github.com/hirenprajapati77/Hourlyworkflow" target="_blank" class="px-3 py-1.5 bg-cyan-600 hover:bg-cyan-500 text-xs font-semibold rounded-lg text-white transition">
+                GitHub Repo
+            </a>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 mt-6 space-y-6">
+        <div class="bg-slate-900/80 border border-slate-800 rounded-xl p-5 shadow-xl">
+            <h2 class="text-xs font-semibold uppercase tracking-wider text-teal-400">Latest Market Conclusion</h2>
+            <div id="conclusion-text" class="mt-2 text-sm text-slate-200 leading-relaxed font-medium">Loading conclusion...</div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="bg-slate-900/80 border border-emerald-900/40 rounded-xl p-5 shadow-lg">
+                <h3 class="text-base font-bold text-emerald-400 mb-4">Top 10 Gainers</h3>
+                <table class="w-full text-left text-sm font-mono">
+                    <thead>
+                        <tr class="text-slate-400 border-b border-slate-800 text-xs uppercase">
+                            <th class="py-2">#</th>
+                            <th class="py-2">Symbol</th>
+                            <th class="py-2 text-right">LTP</th>
+                            <th class="py-2 text-right">Change %</th>
+                        </tr>
+                    </thead>
+                    <tbody id="gainers-body" class="divide-y divide-slate-800/60"></tbody>
+                </table>
+            </div>
+
+            <div class="bg-slate-900/80 border border-rose-900/40 rounded-xl p-5 shadow-lg">
+                <h3 class="text-base font-bold text-rose-400 mb-4">Top 10 Losers</h3>
+                <table class="w-full text-left text-sm font-mono">
+                    <thead>
+                        <tr class="text-slate-400 border-b border-slate-800 text-xs uppercase">
+                            <th class="py-2">#</th>
+                            <th class="py-2">Symbol</th>
+                            <th class="py-2 text-right">LTP</th>
+                            <th class="py-2 text-right">Change %</th>
+                        </tr>
+                    </thead>
+                    <tbody id="losers-body" class="divide-y divide-slate-800/60"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="bg-slate-900/80 border border-slate-800 rounded-xl p-5 shadow-lg">
+            <h3 class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-3">Full Markdown Report</h3>
+            <pre id="raw-report" class="whitespace-pre-wrap text-xs text-slate-300 font-mono bg-slate-950 p-4 rounded-lg border border-slate-800 max-h-96 overflow-y-auto"></pre>
+        </div>
+    </main>
+
+    <script>
+        async function fetchData() {
+            try {
+                const snapRes = await fetch("snapshots/latest.json?t=" + Date.now());
+                const reportRes = await fetch("reports/latest_report.md?t=" + Date.now());
+
+                if (snapRes.ok) {
+                    const snap = await snapRes.json();
+                    document.getElementById("last-updated").innerText = "Last Snapshot: " + snap.captured_at_ist;
+                    document.getElementById("gainers-body").innerHTML = (snap.gainers || []).slice(0, 10).map(r => `
+                        <tr>
+                            <td class="py-2 text-slate-500">#` + r.rank + `</td>
+                            <td class="py-2 font-semibold text-slate-200">` + r.symbol + `</td>
+                            <td class="py-2 text-right text-slate-300">₹` + Number(r.ltp).toFixed(2) + `</td>
+                            <td class="py-2 text-right font-bold text-emerald-400">+` + Number(r.pct_change).toFixed(2) + `%</td>
+                        </tr>
+                    `).join("");
+
+                    document.getElementById("losers-body").innerHTML = (snap.losers || []).slice(0, 10).map(r => `
+                        <tr>
+                            <td class="py-2 text-slate-500">#` + r.rank + `</td>
+                            <td class="py-2 font-semibold text-slate-200">` + r.symbol + `</td>
+                            <td class="py-2 text-right text-slate-300">₹` + Number(r.ltp).toFixed(2) + `</td>
+                            <td class="py-2 text-right font-bold text-rose-400">` + Number(r.pct_change).toFixed(2) + `%</td>
+                        </tr>
+                    `).join("");
+                }
+
+                if (reportRes.ok) {
+                    const reportText = await reportRes.text();
+                    document.getElementById("raw-report").innerText = reportText;
+                    const match = reportText.match(/## 📊 Final Market Conclusion\s*\n+([\s\S]*?)(?=\n\n\*|\n#|$)/);
+                    if (match && match[1]) {
+                        document.getElementById("conclusion-text").innerText = match[1].trim();
+                    }
+                }
+            } catch (e) {
+                console.error(e);
+            }
+        }
+        document.getElementById("refresh-btn").addEventListener("click", fetchData);
+        fetchData();
+    </script>
+</body>
+</html>

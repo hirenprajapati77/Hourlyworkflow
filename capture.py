@@ -235,7 +235,11 @@ def main():
     }
 
     out_path = root / "snapshots" / f"FO_{stamp}.json"
-    out_path.write_text(json.dumps(snapshot, indent=2))
+    out_path.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
+    
+    latest_path = root / "snapshots" / "latest.json"
+    latest_path.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
+    
     print(f"Saved snapshot: {out_path} ({len(gainers)} gainers, {len(losers)} losers)")
 
     if args.screenshot:

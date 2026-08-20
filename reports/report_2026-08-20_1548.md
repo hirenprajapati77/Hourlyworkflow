@@ -1,0 +1,69 @@
+# NSE F&O Gainers/Losers - 2026-08-20 1548 IST
+
+## 📈 Gainers Analysis
+**Current Top 10:**
+- #1 MCX (+5.15%)
+- #2 MUTHOOTFIN (+3.88%)
+- #3 GLENMARK (+3.85%)
+- #4 COFORGE (+3.80%)
+- #5 PREMIERENE (+3.79%)
+- #6 SBICARD (+3.75%)
+- #7 MOTILALOFS (+3.32%)
+- #8 ABCAPITAL (+3.28%)
+- #9 HINDZINC (+3.03%)
+- #10 PERSISTENT (+2.98%)
+
+**Consistent top-5 leaders across all snapshots:** MUTHOOTFIN, COFORGE
+
+## 📉 Losers Analysis
+**Current Top 10:**
+- #1 PFC (-2.84%)
+- #2 RECLTD (-2.64%)
+- #3 BDL (-2.37%)
+- #4 GMRAIRPORT (-2.04%)
+- #5 BSE (-1.82%)
+- #6 BHEL (-1.50%)
+- #7 NAUKRI (-1.27%)
+- #8 GVT&D (-1.22%)
+- #9 UNIONBANK (-1.19%)
+- #10 TATACONSUM (-1.10%)
+
+**Consistent bottom-5 laggards across all snapshots:** PFC, RECLTD, BDL
+
+## 🚀 Direct High Rank Entries
+- None this session - all current top ranks were already present in earlier snapshots.
+
+## 🔄 Sector Rotation
+**Gainer-side sector concentration (top 15):**
+- NBFC/Finance: MUTHOOTFIN, SBICARD, MOTILALOFS, ABCAPITAL, HDFCAMC, MANAPPURAM
+- IT: COFORGE, PERSISTENT
+- Banking: BANDHANBNK, RBLBANK
+- Exchanges/Finance: MCX
+- Pharma: GLENMARK
+- Clean Energy: PREMIERENE
+- Metal: HINDZINC
+- Consumer Durables: DIXON
+
+**Loser-side sector concentration (top 15):**
+- NBFC/Finance: PFC, RECLTD
+- Capital Goods: BHEL, GVT&D
+- Banking: UNIONBANK, FEDERALBNK
+- Pharma: LUPIN, AUROPHARMA
+- Defense: BDL
+- Infrastructure: GMRAIRPORT
+- Exchanges/Finance: BSE
+- Tech/Internet: NAUKRI
+- FMCG: TATACONSUM
+- Auto Ancillary: TIINDIA
+- Telecom: INDUSTOWER
+
+## 🟢 Strongest Bullish Theme
+**NBFC/Finance** leads gainers with 6 names in the top 15: MUTHOOTFIN, SBICARD, MOTILALOFS, ABCAPITAL, HDFCAMC, MANAPPURAM
+
+## 🔴 Weakest Bearish Theme
+**NBFC/Finance** leads losers with 2 names in the top 15: PFC, RECLTD
+
+## 📊 Final Market Conclusion
+Session theme: sustained strength in MUTHOOTFIN, COFORGE; NBFC/Finance sector rotation on the buy side; pressure building in NBFC/Finance.
+
+*Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

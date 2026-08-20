@@ -3,12 +3,22 @@ name: NSE F&O Gainers/Losers
 on:
   schedule:
     # All times UTC. IST = UTC + 5:30.
-    # 09:30 IST -> 04:00 UTC
+    # 09:30 IST -> 04:00 UTC (Opening Momentum)
     - cron: "0 4 * * 1-5"
     # 10:00 IST -> 04:30 UTC
     - cron: "30 4 * * 1-5"
     # 10:30 IST -> 05:00 UTC
     - cron: "0 5 * * 1-5"
+    # 11:30 IST -> 06:00 UTC (Mid-morning Session)
+    - cron: "0 6 * * 1-5"
+    # 13:00 IST -> 07:30 UTC (Afternoon Shift)
+    - cron: "30 7 * * 1-5"
+    # 14:30 IST -> 09:00 UTC (Pre-closing Momentum)
+    - cron: "0 9 * * 1-5"
+    # 15:00 IST -> 09:30 UTC (Final Hour)
+    - cron: "30 9 * * 1-5"
+    # 15:30 IST -> 10:00 UTC (Market Close Summary)
+    - cron: "0 10 * * 1-5"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab, for testing
 
 permissions:
@@ -21,6 +31,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -45,8 +57,11 @@ jobs:
           git config user.name "nse-fo-movers-bot"
           git config user.email "actions@users.noreply.github.com"
           git add snapshots/ reports/
-          git diff --cached --quiet || git commit -m "F&O snapshot + report $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "F&O snapshot + report $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main || true
+            git push
+          fi
 
       - name: Upload run artifacts (backup, even on failure)
         if: always()

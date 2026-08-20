@@ -46,17 +46,19 @@ LOSERS_URL = f"{BASE}/api/live-analysis-variations?index=loosers"  # NSE's own (
 FO_BUCKET_KEY = "FOSec"
 
 # ---- Field mapping -----------------------------------------------------
-# If NSE tweaks field names, adjust ONLY this dict - nothing else in the
-# script needs to change. Run with --debug once to see the real raw keys
-# in snapshots/raw_debug_*.json and fix these if a KeyError shows up.
+# Supports multiple candidate key names for each target field to handle
+# schema variations (snake_case vs camelCase) robustly.
 FIELD_MAP = {
-    "symbol": "symbol",
-    "series": "series",
-    "ltp": "ltp",
-    "pct_change": "netPrice",       # % change field
-    "prev_close": "previousPrice",
-    "volume": "tradedQuantity",
-    "value": "turnoverInLakhs",
+    "symbol": ["symbol"],
+    "series": ["series"],
+    "ltp": ["ltp", "lastPrice"],
+    "pct_change": ["net_price", "perChange", "netPrice", "pChange", "percentChange"],
+    "prev_close": ["prev_price", "previousPrice", "prevClose"],
+    "volume": ["trade_quantity", "tradedQuantity", "totalTradedVolume"],
+    "value": ["turnover", "turnoverInLakhs", "totalTradedValue"],
+    "open_price": ["open_price", "openPrice", "open"],
+    "high_price": ["high_price", "highPrice", "high"],
+    "low_price": ["low_price", "lowPrice", "low"],
 }
 
 HEADERS = {
@@ -130,9 +132,23 @@ def extract_fo_rows(raw: dict) -> list[dict]:
     rows = []
     for item in bucket:
         row = {}
-        for out_key, src_key in FIELD_MAP.items():
-            row[out_key] = item.get(src_key)
+        for out_key, candidate_keys in FIELD_MAP.items():
+            if isinstance(candidate_keys, str):
+                candidate_keys = [candidate_keys]
+            val = None
+            for k in candidate_keys:
+                if k in item and item[k] is not None:
+                    val = item[k]
+                    break
+            row[out_key] = val
         rows.append(row)
+
+    if rows and all(r.get("pct_change") is None for r in rows):
+        sample_keys = list(bucket[0].keys()) if bucket and isinstance(bucket[0], dict) else []
+        raise KeyError(
+            f"Failed to map 'pct_change' for any row in '{FO_BUCKET_KEY}'. "
+            f"Sample item keys were: {sample_keys}"
+        )
     return rows
 
 

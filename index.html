@@ -33,7 +33,7 @@
             <div id="conclusion-text" class="mt-2 text-sm text-slate-200 leading-relaxed font-medium">Loading conclusion...</div>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
             <div class="bg-slate-900/80 border border-emerald-900/40 rounded-xl p-5 shadow-lg">
                 <h3 class="text-base font-bold text-emerald-400 mb-4">Top 10 Gainers</h3>
                 <table class="w-full text-left text-sm font-mono">
@@ -63,6 +63,19 @@
                     <tbody id="losers-body" class="divide-y divide-slate-800/60"></tbody>
                 </table>
             </div>
+
+            <div class="bg-slate-900/80 border border-sky-900/40 rounded-xl p-5 shadow-lg">
+                <h3 class="text-base font-bold text-sky-400 mb-4">Ranking Change</h3>
+                <table class="w-full text-left text-sm font-mono">
+                    <thead>
+                        <tr class="text-slate-400 border-b border-slate-800 text-xs uppercase">
+                            <th class="py-2 text-center">Rank Change</th>
+                            <th class="py-2">Stock Name</th>
+                        </tr>
+                    </thead>
+                    <tbody id="rank-change-body" class="divide-y divide-slate-800/60"></tbody>
+                </table>
+            </div>
         </div>
 
         <div class="bg-slate-900/80 border border-slate-800 rounded-xl p-5 shadow-lg">
@@ -80,7 +93,11 @@
                 if (snapRes.ok) {
                     const snap = await snapRes.json();
                     document.getElementById("last-updated").innerText = "Last Snapshot: " + snap.captured_at_ist;
-                    document.getElementById("gainers-body").innerHTML = (snap.gainers || []).slice(0, 10).map(r => `
+                    
+                    const gainers = (snap.gainers || []).slice(0, 10);
+                    const losers = (snap.losers || []).slice(0, 10);
+
+                    document.getElementById("gainers-body").innerHTML = gainers.map(r => `
                         <tr>
                             <td class="py-2 text-slate-500">#` + r.rank + `</td>
                             <td class="py-2 font-semibold text-slate-200">` + r.symbol + `</td>
@@ -89,7 +106,7 @@
                         </tr>
                     `).join("");
 
-                    document.getElementById("losers-body").innerHTML = (snap.losers || []).slice(0, 10).map(r => `
+                    document.getElementById("losers-body").innerHTML = losers.map(r => `
                         <tr>
                             <td class="py-2 text-slate-500">#` + r.rank + `</td>
                             <td class="py-2 font-semibold text-slate-200">` + r.symbol + `</td>
@@ -97,6 +114,22 @@
                             <td class="py-2 text-right font-bold text-rose-400">` + Number(r.pct_change).toFixed(2) + `%</td>
                         </tr>
                     `).join("");
+
+                    const combined = [...gainers, ...losers];
+                    document.getElementById("rank-change-body").innerHTML = combined.map(r => {
+                        let str = r.rank_change_str || "- 0";
+                        if (str === "0" || str === "- 0") str = "- 0";
+                        let colorClass = "text-slate-400";
+                        if (str.includes("▲") || str.includes("+")) colorClass = "text-emerald-400 font-bold";
+                        else if (str.includes("▼")) colorClass = "text-rose-400 font-bold";
+
+                        return `
+                            <tr>
+                                <td class="py-2 text-center ` + colorClass + `">` + str + `</td>
+                                <td class="py-2 font-semibold text-slate-200">` + r.symbol + `</td>
+                            </tr>
+                        `;
+                    }).join("");
                 }
 
                 if (reportRes.ok) {

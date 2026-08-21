@@ -297,6 +297,52 @@ def main():
     current = snaps[-1]
     previous = snaps[:-1]
 
+    # Calculate rank_change_str for every symbol vs immediately previous snapshot
+    if previous:
+        last_snap = previous[-1]
+        last_g = index_by_symbol(last_snap.get("gainers", []))
+        last_l = index_by_symbol(last_snap.get("losers", []))
+        
+        for r in current.get("gainers", []):
+            sym = r["symbol"]
+            if sym in last_g:
+                delta = last_g[sym]["rank"] - r["rank"]
+                if delta > 0:
+                    r["rank_change_str"] = f"▲ +{delta}"
+                elif delta < 0:
+                    r["rank_change_str"] = f"▼ {delta}"
+                else:
+                    r["rank_change_str"] = "- 0"
+                r["rank_change"] = delta
+            else:
+                r["rank_change_str"] = "NEW"
+                r["rank_change"] = 0
+
+        for r in current.get("losers", []):
+            sym = r["symbol"]
+            if sym in last_l:
+                delta = last_l[sym]["rank"] - r["rank"]
+                if delta > 0:
+                    r["rank_change_str"] = f"▲ +{delta}"
+                elif delta < 0:
+                    r["rank_change_str"] = f"▼ {delta}"
+                else:
+                    r["rank_change_str"] = "- 0"
+                r["rank_change"] = delta
+            else:
+                r["rank_change_str"] = "NEW"
+                r["rank_change"] = 0
+    else:
+        for r in current.get("gainers", []):
+            r["rank_change_str"] = "- 0"
+            r["rank_change"] = 0
+        for r in current.get("losers", []):
+            r["rank_change_str"] = "- 0"
+            r["rank_change"] = 0
+
+    latest_json_path = root / "snapshots" / "latest.json"
+    latest_json_path.write_text(json.dumps(current, indent=2), encoding="utf-8")
+
     g = analyze_side("gainers", current["gainers"], previous)
     l = analyze_side("losers", current["losers"], previous)
     rot = sector_rotation(current["gainers"], current["losers"])

@@ -33,7 +33,7 @@ SECTOR_MAP = {
     "SBILIFE": "Insurance", "HDFCLIFE": "Insurance", "ICICIPRULI": "Insurance", "ICICIGI": "Insurance", "POLICYBZR": "Fintech/Insurance",
     "PAYTM": "Fintech/Tech", "KFINTECH": "Fintech/Tech",
     # IT & Tech
-    "TCS": "IT", "INFY": "IT", "WIPRO": "IT", "HCLTECH": "IT", "TECHM": "IT", "LTIM": "IT",
+    "TCS": "IT", "INFY": "IT", "WIPRO": "IT", "HCLTECH": "IT", "TECHM": "IT", "LTIM": "IT", "LTM": "IT",
     "PERSISTENT": "IT", "COFORGE": "IT", "MPHASIS": "IT", "OFSS": "IT", "LTTS": "IT",
     "NAUKRI": "Tech/Internet", "SWIGGY": "Tech/Internet", "ETERNAL": "Tech/Internet", "NYKAA": "Tech/Retail",
     # Pharma & Healthcare
@@ -44,7 +44,7 @@ SECTOR_MAP = {
     "TATAMOTORS": "Auto", "MARUTI": "Auto", "M&M": "Auto", "BAJAJ-AUTO": "Auto", "EICHERMOT": "Auto",
     "HEROMOTOCO": "Auto", "TVSMOTOR": "Auto", "FORCEMOT": "Auto", "HYUNDAI": "Auto",
     "BHARATFORG": "Auto Ancillary", "BOSCHLTD": "Auto Ancillary", "BALKRISIND": "Auto Ancillary", "MRF": "Auto Ancillary",
-    "MOTHERSON": "Auto Ancillary", "APOLLOTYRE": "Auto Ancillary", "TIINDIA": "Auto Ancillary", "UNOMINDA": "Auto Ancillary",
+    "MOTHERSON": "Auto Ancillary", "APOLLOTYRE": "Auto Ancillary", "TIINDIA": "Auto Ancillary", "UNOMINDA": "Auto Ancillary", "SONACOMS": "Auto Ancillary",
     # Metals & Mining
     "TATASTEEL": "Metal", "JSWSTEEL": "Metal", "HINDALCO": "Metal", "VEDL": "Metal", "SAIL": "Metal",
     "NMDC": "Metal", "JINDALSTEL": "Metal", "NATIONALUM": "Metal", "HINDCOPPER": "Metal", "HINDZINC": "Metal", "COALINDIA": "Mining",
@@ -55,13 +55,13 @@ SECTOR_MAP = {
     "GVT&D": "Capital Goods", "POWERINDIA": "Capital Goods", "SOLARINDS": "Defense", "KAYNES": "Capital Goods",
     "GMRAIRPORT": "Infrastructure",
     # Realty
-    "DLF": "Realty", "GODREJPROP": "Realty", "OBEROIRLTY": "Realty", "PHOENIXLTD": "Realty", "LODHA": "Realty",
+    "DLF": "Realty", "GODREJPROP": "Realty", "OBEROIRLTY": "Realty", "PHOENIXLTD": "Realty", "LODHA": "Realty", "PRESTIGE": "Realty",
     # Adani Group
     "ADANIENT": "Adani Group", "ADANIPORTS": "Adani Group", "ADANIGREEN": "Adani Group", "ATGL": "Adani Group", "ADANIENSOL": "Adani Group",
-    # FMCG & Consumer Durables
+    # FMCG & Consumer Durables & Retail
     "ITC": "FMCG", "HINDUNILVR": "FMCG", "NESTLEIND": "FMCG", "BRITANNIA": "FMCG", "TATACONSUM": "FMCG",
     "DABUR": "FMCG", "MARICO": "FMCG", "GODREJCP": "FMCG", "COLPAL": "FMCG", "VBL": "FMCG", "GODFRYPHLP": "FMCG", "RADICO": "FMCG", "VMM": "FMCG",
-    "TITAN": "Consumer Durables", "TRENT": "Retail", "CROMPTON": "Consumer Durables", "DIXON": "Consumer Durables", "HAVELLS": "Consumer Durables", "VOLTAS": "Consumer Durables",
+    "TITAN": "Consumer Durables", "TRENT": "Retail", "DMART": "Retail", "CROMPTON": "Consumer Durables", "DIXON": "Consumer Durables", "HAVELLS": "Consumer Durables", "VOLTAS": "Consumer Durables",
     # Telecom & Logistics & Chemicals
     "BHARTIARTL": "Telecom", "IDEA": "Telecom", "INDUSTOWER": "Telecom", "INDIGO": "Aviation", "CONCOR": "Logistics", "DELHIVERY": "Logistics",
     "ULTRACEMCO": "Cement", "SHREECEM": "Cement", "AMBUJACEM": "Cement", "ACC": "Cement", "DALBHARAT": "Cement",

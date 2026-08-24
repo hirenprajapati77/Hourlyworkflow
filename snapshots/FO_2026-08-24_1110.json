@@ -13,9 +13,7 @@
       "open_price": 109.2,
       "high_price": 115.4,
       "low_price": 109,
-      "rank": 1,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 1
     },
     {
       "symbol": "MUTHOOTFIN",
@@ -28,9 +26,7 @@
       "open_price": 3056,
       "high_price": 3181,
       "low_price": 3049.8,
-      "rank": 2,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 2
     },
     {
       "symbol": "SIEMENS",
@@ -43,9 +39,7 @@
       "open_price": 3920,
       "high_price": 4110,
       "low_price": 3903.3,
-      "rank": 3,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank": 3
     },
     {
       "symbol": "SAIL",
@@ -58,9 +52,7 @@
       "open_price": 174.8,
       "high_price": 180.96,
       "low_price": 174.71,
-      "rank": 4,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank": 4
     },
     {
       "symbol": "BSE",
@@ -73,9 +65,7 @@
       "open_price": 3250,
       "high_price": 3346.5,
       "low_price": 3242.5,
-      "rank": 5,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 5
     },
     {
       "symbol": "NATIONALUM",
@@ -88,9 +78,7 @@
       "open_price": 398.45,
       "high_price": 403.2,
       "low_price": 397.5,
-      "rank": 6,
-      "rank_change_str": "\u25b2 +7",
-      "rank_change": 7
+      "rank": 6
     },
     {
       "symbol": "HINDALCO",
@@ -103,9 +91,7 @@
       "open_price": 1047.95,
       "high_price": 1058.5,
       "low_price": 1043.3,
-      "rank": 7,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank": 7
     },
     {
       "symbol": "MANAPPURAM",
@@ -118,9 +104,7 @@
       "open_price": 359.25,
       "high_price": 369.9,
       "low_price": 358.3,
-      "rank": 8,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank": 8
     },
     {
       "symbol": "GVT&D",
@@ -133,9 +117,7 @@
       "open_price": 4139.4,
       "high_price": 4249,
       "low_price": 4112.7,
-      "rank": 9,
-      "rank_change_str": "\u25bc -3",
-      "rank_change": -3
+      "rank": 9
     },
     {
       "symbol": "MCX",
@@ -148,9 +130,7 @@
       "open_price": 3200,
       "high_price": 3259.8,
       "low_price": 3180.1,
-      "rank": 10,
-      "rank_change_str": "\u25b2 +4",
-      "rank_change": 4
+      "rank": 10
     },
     {
       "symbol": "HINDPETRO",
@@ -163,9 +143,7 @@
       "open_price": 365,
       "high_price": 372.6,
       "low_price": 364.3,
-      "rank": 11,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank": 11
     },
     {
       "symbol": "MOTILALOFS",
@@ -178,9 +156,7 @@
       "open_price": 990,
       "high_price": 1015,
       "low_price": 988.3,
-      "rank": 12,
-      "rank_change_str": "\u25bc -3",
-      "rank_change": -3
+      "rank": 12
     },
     {
       "symbol": "TATASTEEL",
@@ -193,9 +169,7 @@
       "open_price": 184.15,
       "high_price": 186.04,
       "low_price": 183.06,
-      "rank": 13,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 13
     },
     {
       "symbol": "GLENMARK",
@@ -208,9 +182,7 @@
       "open_price": 2315.1,
       "high_price": 2361,
       "low_price": 2295.3,
-      "rank": 14,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank": 14
     },
     {
       "symbol": "JSWSTEEL",
@@ -223,9 +195,7 @@
       "open_price": 1298,
       "high_price": 1314.9,
       "low_price": 1295.3,
-      "rank": 15,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 15
     },
     {
       "symbol": "LTM",
@@ -238,9 +208,7 @@
       "open_price": 4487.8,
       "high_price": 4552,
       "low_price": 4467.9,
-      "rank": 16,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 16
     },
     {
       "symbol": "HCLTECH",
@@ -253,9 +221,7 @@
       "open_price": 1302.5,
       "high_price": 1325.8,
       "low_price": 1301,
-      "rank": 17,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank": 17
     },
     {
       "symbol": "ABB",
@@ -268,9 +234,7 @@
       "open_price": 7460,
       "high_price": 7566.5,
       "low_price": 7429.5,
-      "rank": 18,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 18
     },
     {
       "symbol": "NMDC",
@@ -283,9 +247,7 @@
       "open_price": 84.65,
       "high_price": 85.94,
       "low_price": 84.51,
-      "rank": 19,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 19
     },
     {
       "symbol": "JINDALSTEL",
@@ -298,9 +260,7 @@
       "open_price": 1135,
       "high_price": 1142.3,
       "low_price": 1130.1,
-      "rank": 20,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 20
     }
   ],
   "losers": [
@@ -315,9 +275,7 @@
       "open_price": 15000,
       "high_price": 15000,
       "low_price": 14484,
-      "rank": 1,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 1
     },
     {
       "symbol": "BANKBARODA",
@@ -330,9 +288,7 @@
       "open_price": 245.55,
       "high_price": 246.12,
       "low_price": 241.06,
-      "rank": 2,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank": 2
     },
     {
       "symbol": "CANBK",
@@ -345,9 +301,7 @@
       "open_price": 129.62,
       "high_price": 129.87,
       "low_price": 127.41,
-      "rank": 3,
-      "rank_change_str": "\u25b2 +3",
-      "rank_change": 3
+      "rank": 3
     },
     {
       "symbol": "HAL",
@@ -360,9 +314,7 @@
       "open_price": 4990,
       "high_price": 4990,
       "low_price": 4904.1,
-      "rank": 4,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 4
     },
     {
       "symbol": "CROMPTON",
@@ -375,9 +327,7 @@
       "open_price": 251.95,
       "high_price": 251.95,
       "low_price": 247.2,
-      "rank": 5,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 5
     },
     {
       "symbol": "VEDL",
@@ -390,9 +340,7 @@
       "open_price": 280.05,
       "high_price": 281.45,
       "low_price": 272.4,
-      "rank": 6,
-      "rank_change_str": "\u25bc -4",
-      "rank_change": -4
+      "rank": 6
     },
     {
       "symbol": "AMBUJACEM",
@@ -405,9 +353,7 @@
       "open_price": 414.5,
       "high_price": 415.3,
       "low_price": 409.1,
-      "rank": 7,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 7
     },
     {
       "symbol": "BEL",
@@ -420,9 +366,7 @@
       "open_price": 414.3,
       "high_price": 414.6,
       "low_price": 408.8,
-      "rank": 8,
-      "rank_change_str": "\u25b2 +3",
-      "rank_change": 3
+      "rank": 8
     },
     {
       "symbol": "IDFCFIRSTB",
@@ -435,9 +379,7 @@
       "open_price": 86.91,
       "high_price": 86.94,
       "low_price": 85.7,
-      "rank": 9,
-      "rank_change_str": "\u25b2 +3",
-      "rank_change": 3
+      "rank": 9
     },
     {
       "symbol": "UNOMINDA",
@@ -450,9 +392,7 @@
       "open_price": 1261.6,
       "high_price": 1261.6,
       "low_price": 1247.7,
-      "rank": 10,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank": 10
     },
     {
       "symbol": "BIOCON",
@@ -465,9 +405,7 @@
       "open_price": 414.55,
       "high_price": 414.55,
       "low_price": 409.1,
-      "rank": 11,
-      "rank_change_str": "\u25b2 +3",
-      "rank_change": 3
+      "rank": 11
     },
     {
       "symbol": "RADICO",
@@ -480,9 +418,7 @@
       "open_price": 4632,
       "high_price": 4634.9,
       "low_price": 4587,
-      "rank": 12,
-      "rank_change_str": "\u25bc -2",
-      "rank_change": -2
+      "rank": 12
     },
     {
       "symbol": "BRITANNIA",
@@ -495,9 +431,7 @@
       "open_price": 5385,
       "high_price": 5385,
       "low_price": 5299.5,
-      "rank": 13,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 13
     },
     {
       "symbol": "SBIN",
@@ -510,9 +444,7 @@
       "open_price": 1047.9,
       "high_price": 1047.9,
       "low_price": 1038.2,
-      "rank": 14,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 14
     },
     {
       "symbol": "POWERGRID",
@@ -525,9 +457,7 @@
       "open_price": 274,
       "high_price": 274.35,
       "low_price": 269.45,
-      "rank": 15,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 15
     },
     {
       "symbol": "RVNL",
@@ -540,9 +470,7 @@
       "open_price": 225.3,
       "high_price": 227.89,
       "low_price": 223,
-      "rank": 16,
-      "rank_change_str": "\u25b2 +3",
-      "rank_change": 3
+      "rank": 16
     },
     {
       "symbol": "RBLBANK",
@@ -555,9 +483,7 @@
       "open_price": 394,
       "high_price": 394.5,
       "low_price": 388.6,
-      "rank": 17,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 17
     },
     {
       "symbol": "ADANIGREEN",
@@ -570,9 +496,7 @@
       "open_price": 1319.9,
       "high_price": 1319.9,
       "low_price": 1307.3,
-      "rank": 18,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank": 18
     },
     {
       "symbol": "VBL",
@@ -585,9 +509,7 @@
       "open_price": 431.5,
       "high_price": 434.5,
       "low_price": 424.7,
-      "rank": 19,
-      "rank_change_str": "\u25bc -2",
-      "rank_change": -2
+      "rank": 19
     },
     {
       "symbol": "DIVISLAB",
@@ -600,9 +522,7 @@
       "open_price": 8558.5,
       "high_price": 8563.5,
       "low_price": 8457.5,
-      "rank": 20,
-      "rank_change_str": "\u25bc -13",
-      "rank_change": -13
+      "rank": 20
     }
   ]
 }

@@ -13,9 +13,7 @@
       "open_price": 532.9,
       "high_price": 560.95,
       "low_price": 529.95,
-      "rank": 1,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 1
     },
     {
       "symbol": "BHEL",
@@ -28,9 +26,7 @@
       "open_price": 411.55,
       "high_price": 430.75,
       "low_price": 410.8,
-      "rank": 2,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 2
     },
     {
       "symbol": "TMPV",
@@ -43,9 +39,7 @@
       "open_price": 301,
       "high_price": 319.8,
       "low_price": 299.75,
-      "rank": 3,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 3
     },
     {
       "symbol": "MFSL",
@@ -58,9 +52,7 @@
       "open_price": 1480.1,
       "high_price": 1569.5,
       "low_price": 1473.6,
-      "rank": 4,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 4
     },
     {
       "symbol": "ICICIPRULI",
@@ -73,9 +65,7 @@
       "open_price": 470,
       "high_price": 496.9,
       "low_price": 468.75,
-      "rank": 5,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 5
     },
     {
       "symbol": "SBILIFE",
@@ -88,9 +78,7 @@
       "open_price": 1693,
       "high_price": 1771.1,
       "low_price": 1689,
-      "rank": 6,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 6
     },
     {
       "symbol": "KAYNES",
@@ -103,9 +91,7 @@
       "open_price": 3402,
       "high_price": 3562,
       "low_price": 3395,
-      "rank": 7,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 7
     },
     {
       "symbol": "CDSL",
@@ -118,9 +104,7 @@
       "open_price": 1299,
       "high_price": 1357.5,
       "low_price": 1296.3,
-      "rank": 8,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 8
     },
     {
       "symbol": "POWERINDIA",
@@ -133,9 +117,7 @@
       "open_price": 30435,
       "high_price": 31325,
       "low_price": 30380,
-      "rank": 9,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 9
     },
     {
       "symbol": "ALKEM",
@@ -148,9 +130,7 @@
       "open_price": 5175,
       "high_price": 5361,
       "low_price": 5161.5,
-      "rank": 10,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 10
     },
     {
       "symbol": "CGPOWER",
@@ -163,9 +143,7 @@
       "open_price": 859,
       "high_price": 883.4,
       "low_price": 856.3,
-      "rank": 11,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 11
     },
     {
       "symbol": "BLUESTARCO",
@@ -178,9 +156,7 @@
       "open_price": 1499.9,
       "high_price": 1558,
       "low_price": 1492,
-      "rank": 12,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 12
     },
     {
       "symbol": "ICICIGI",
@@ -193,9 +169,7 @@
       "open_price": 1440,
       "high_price": 1498.1,
       "low_price": 1435.5,
-      "rank": 13,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 13
     },
     {
       "symbol": "DRREDDY",
@@ -208,9 +182,7 @@
       "open_price": 1140,
       "high_price": 1189.8,
       "low_price": 1140,
-      "rank": 14,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 14
     },
     {
       "symbol": "SBICARD",
@@ -223,9 +195,7 @@
       "open_price": 616,
       "high_price": 641.55,
       "low_price": 616,
-      "rank": 15,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 15
     },
     {
       "symbol": "AUROPHARMA",
@@ -238,9 +208,7 @@
       "open_price": 1634,
       "high_price": 1692.3,
       "low_price": 1634,
-      "rank": 16,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 16
     },
     {
       "symbol": "ADANIENSOL",
@@ -253,9 +221,7 @@
       "open_price": 1346,
       "high_price": 1386.8,
       "low_price": 1336.5,
-      "rank": 17,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 17
     },
     {
       "symbol": "GMRAIRPORT",
@@ -268,9 +234,7 @@
       "open_price": 92.46,
       "high_price": 95.72,
       "low_price": 92.46,
-      "rank": 18,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 18
     },
     {
       "symbol": "DLF",
@@ -283,9 +247,7 @@
       "open_price": 623.05,
       "high_price": 644.55,
       "low_price": 622,
-      "rank": 19,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 19
     },
     {
       "symbol": "LUPIN",
@@ -298,9 +260,7 @@
       "open_price": 2052.6,
       "high_price": 2098.1,
       "low_price": 2046.3,
-      "rank": 20,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 20
     }
   ],
   "losers": [
@@ -315,9 +275,7 @@
       "open_price": 1839,
       "high_price": 1845,
       "low_price": 1718.1,
-      "rank": 1,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 1
     },
     {
       "symbol": "PATANJALI",
@@ -330,9 +288,7 @@
       "open_price": 362.55,
       "high_price": 364.9,
       "low_price": 354,
-      "rank": 2,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 2
     },
     {
       "symbol": "PNBHOUSING",
@@ -345,9 +301,7 @@
       "open_price": 1122.1,
       "high_price": 1147.9,
       "low_price": 1098.4,
-      "rank": 3,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 3
     },
     {
       "symbol": "FEDERALBNK",
@@ -360,9 +314,7 @@
       "open_price": 342,
       "high_price": 343.75,
       "low_price": 332.45,
-      "rank": 4,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 4
     },
     {
       "symbol": "PREMIERENE",
@@ -375,9 +327,7 @@
       "open_price": 885.9,
       "high_price": 904.3,
       "low_price": 880,
-      "rank": 5,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 5
     },
     {
       "symbol": "OIL",
@@ -390,9 +340,7 @@
       "open_price": 485,
       "high_price": 491,
       "low_price": 474.25,
-      "rank": 6,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 6
     },
     {
       "symbol": "RADICO",
@@ -405,9 +353,7 @@
       "open_price": 4450,
       "high_price": 4469.8,
       "low_price": 4380,
-      "rank": 7,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 7
     },
     {
       "symbol": "ONGC",
@@ -420,9 +366,7 @@
       "open_price": 235.1,
       "high_price": 235.65,
       "low_price": 231.25,
-      "rank": 8,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 8
     },
     {
       "symbol": "PAYTM",
@@ -435,9 +379,7 @@
       "open_price": 1795,
       "high_price": 1816.3,
       "low_price": 1752.7,
-      "rank": 9,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 9
     },
     {
       "symbol": "TITAN",
@@ -450,9 +392,7 @@
       "open_price": 4895,
       "high_price": 4915.5,
       "low_price": 4838.5,
-      "rank": 10,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 10
     },
     {
       "symbol": "MANAPPURAM",
@@ -465,9 +405,7 @@
       "open_price": 318.85,
       "high_price": 322.15,
       "low_price": 315,
-      "rank": 11,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 11
     },
     {
       "symbol": "HDFCBANK",
@@ -480,9 +418,7 @@
       "open_price": 717.5,
       "high_price": 719.4,
       "low_price": 713,
-      "rank": 12,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 12
     },
     {
       "symbol": "YESBANK",
@@ -495,9 +431,7 @@
       "open_price": 23.32,
       "high_price": 23.38,
       "low_price": 22.91,
-      "rank": 13,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 13
     },
     {
       "symbol": "BANKBARODA",
@@ -510,9 +444,7 @@
       "open_price": 233.6,
       "high_price": 236.46,
       "low_price": 232.1,
-      "rank": 14,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 14
     },
     {
       "symbol": "WAAREEENER",
@@ -525,9 +457,7 @@
       "open_price": 2499,
       "high_price": 2516,
       "low_price": 2470,
-      "rank": 15,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 15
     },
     {
       "symbol": "ATHERENERG",
@@ -540,9 +470,7 @@
       "open_price": 1550,
       "high_price": 1567.4,
       "low_price": 1528,
-      "rank": 16,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 16
     },
     {
       "symbol": "COLPAL",
@@ -555,9 +483,7 @@
       "open_price": 1861,
       "high_price": 1886,
       "low_price": 1840,
-      "rank": 17,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 17
     },
     {
       "symbol": "SAGILITY",
@@ -570,9 +496,7 @@
       "open_price": 45.02,
       "high_price": 45.38,
       "low_price": 44.45,
-      "rank": 18,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 18
     },
     {
       "symbol": "COALINDIA",
@@ -585,9 +509,7 @@
       "open_price": 421.1,
       "high_price": 422.8,
       "low_price": 416.55,
-      "rank": 19,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 19
     },
     {
       "symbol": "HINDUNILVR",
@@ -600,9 +522,7 @@
       "open_price": 1962,
       "high_price": 1968.9,
       "low_price": 1942.2,
-      "rank": 20,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank": 20
     }
   ]
 }

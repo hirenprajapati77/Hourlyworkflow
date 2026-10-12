@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-12T18:23:32.826628+05:30",
-  "label": "2026-10-12_1823",
+  "captured_at_ist": "2026-10-12T20:17:56.310732+05:30",
+  "label": "2026-10-12_2017",
   "gainers": [
     {
       "symbol": "UPL",
@@ -601,7 +601,7 @@
       "high_price": 190.99,
       "low_price": 185.31,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ]

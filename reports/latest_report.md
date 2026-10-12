@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-12 1718 IST
+# NSE F&O Gainers/Losers - 2026-10-12 1746 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 PAYTM (+3.30%)
 - #10 PFC (+3.08%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** UPL, ATHERENERG, SUZLON, TATAELXSI, IRFC
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 IDEA (-2.54%)
 - #10 LT (-2.05%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** DMART, FORTIS, DABUR, APOLLOHOSP, ITC
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -62,6 +62,6 @@
 **FMCG** leads losers with 4 names in the top 15: DABUR, ITC, COLPAL, HINDUNILVR
 
 ## 📊 Final Market Conclusion
-Session theme: NBFC/Finance sector rotation on the buy side; pressure building in FMCG.
+Session theme: sustained strength in UPL, ATHERENERG, SUZLON; NBFC/Finance sector rotation on the buy side; pressure building in FMCG.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

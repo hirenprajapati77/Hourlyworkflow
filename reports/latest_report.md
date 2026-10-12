@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-12 1746 IST
+# NSE F&O Gainers/Losers - 2026-10-12 1823 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -27,6 +27,8 @@
 - #8 COLPAL (-2.79%)
 - #9 IDEA (-2.54%)
 - #10 LT (-2.05%)
+
+**New weak entrants this session:** ADANIPOWER
 
 **Consistent bottom-5 laggards across all snapshots:** DMART, FORTIS, DABUR, APOLLOHOSP, ITC
 

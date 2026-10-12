@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-12T17:46:55.575428+05:30",
-  "label": "2026-10-12_1746",
+  "captured_at_ist": "2026-10-12T18:23:32.826628+05:30",
+  "label": "2026-10-12_1823",
   "gainers": [
     {
       "symbol": "UPL",
@@ -590,18 +590,18 @@
       "rank_change": 0
     },
     {
-      "symbol": "COALINDIA",
+      "symbol": "ADANIPOWER",
       "series": "EQ",
-      "ltp": 404.8,
+      "ltp": 185.9,
       "pct_change": -1.64,
-      "prev_close": 411.55,
-      "volume": 10160155,
-      "value": 41131.355486500004,
-      "open_price": 413.05,
-      "high_price": 413.5,
-      "low_price": 402.1,
+      "prev_close": 189,
+      "volume": 13331869,
+      "value": 25010.586244000002,
+      "open_price": 189.75,
+      "high_price": 190.99,
+      "low_price": 185.31,
       "rank": 20,
-      "rank_change_str": "- 0",
+      "rank_change_str": "NEW",
       "rank_change": 0
     }
   ]

@@ -1,67 +1,67 @@
-# NSE F&O Gainers/Losers - 2026-10-09 2217 IST
+# NSE F&O Gainers/Losers - 2026-10-12 1718 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 INOXWIND (+6.76%)
-- #2 PERSISTENT (+5.52%)
-- #3 GMRAIRPORT (+5.17%)
-- #4 COLPAL (+4.73%)
-- #5 APOLLOHOSP (+4.72%)
-- #6 GLENMARK (+4.60%)
-- #7 TATAELXSI (+4.47%)
-- #8 RBLBANK (+4.32%)
-- #9 ITC (+4.31%)
-- #10 VEDL (+4.31%)
+- #1 UPL (+5.40%)
+- #2 ATHERENERG (+5.34%)
+- #3 SUZLON (+5.24%)
+- #4 TATAELXSI (+4.06%)
+- #5 IRFC (+3.75%)
+- #6 PNBHOUSING (+3.63%)
+- #7 ANGELONE (+3.51%)
+- #8 POLICYBZR (+3.46%)
+- #9 PAYTM (+3.30%)
+- #10 PFC (+3.08%)
 
-**Consistent top-5 leaders across all snapshots:** INOXWIND, PERSISTENT, GMRAIRPORT, COLPAL, APOLLOHOSP
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 ANANDRATHI (-4.68%)
-- #2 ENRIN (-2.48%)
-- #3 DMART (-1.90%)
-- #4 AMBER (-1.68%)
-- #5 BSE (-1.43%)
-- #6 UJJIVANSFB (-1.36%)
-- #7 TIINDIA (-1.25%)
-- #8 SONACOMS (-1.22%)
-- #9 SIEMENS (-1.21%)
-- #10 JUBLFOOD (-1.13%)
+- #1 DMART (-4.32%)
+- #2 FORTIS (-3.69%)
+- #3 DABUR (-3.18%)
+- #4 APOLLOHOSP (-3.15%)
+- #5 ITC (-3.05%)
+- #6 GMRAIRPORT (-3.04%)
+- #7 TECHM (-2.85%)
+- #8 COLPAL (-2.79%)
+- #9 IDEA (-2.54%)
+- #10 LT (-2.05%)
 
-**Consistent bottom-5 laggards across all snapshots:** ANANDRATHI, ENRIN, DMART, AMBER, BSE
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: INOXWIND, TATAELXSI, LICI
-- IT: PERSISTENT, LTM, TCS
-- FMCG: COLPAL, ITC
-- Infrastructure: GMRAIRPORT
-- Healthcare: APOLLOHOSP
-- Pharma: GLENMARK
-- Banking: RBLBANK
-- Metal: VEDL
-- Auto: EICHERMOT
-- Insurance: ICICIGI
+- Other/Unmapped: ATHERENERG, SUZLON, TATAELXSI, IRFC
+- NBFC/Finance: PNBHOUSING, ANGELONE, PFC, LICHSGFIN
+- Fintech/Tech: PAYTM, KFINTECH
+- Chemicals: UPL
+- Fintech/Insurance: POLICYBZR
+- Logistics: DELHIVERY
+- Pharma: DRREDDY
+- Auto: BAJAJ-AUTO
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: ANANDRATHI, ENRIN, AMBER, UJJIVANSFB, JUBLFOOD, JSWENERGY, MFSL
-- Auto Ancillary: TIINDIA, SONACOMS
-- Capital Goods: SIEMENS, POWERINDIA
+- FMCG: DABUR, ITC, COLPAL, HINDUNILVR
+- Other/Unmapped: FORTIS, INDIANB
+- Healthcare: APOLLOHOSP, MAXHEALTH
+- Metal: NMDC, HINDALCO
 - Retail: DMART
-- Exchanges/Finance: BSE
-- NBFC/Finance: ANGELONE
-- Energy: OIL
+- Infrastructure: GMRAIRPORT
+- IT: TECHM
+- Telecom: IDEA
+- Capital Goods: LT
 
 ## 🟢 Strongest Bullish Theme
-**IT** leads gainers with 3 names in the top 15: PERSISTENT, LTM, TCS
+**NBFC/Finance** leads gainers with 4 names in the top 15: PNBHOUSING, ANGELONE, PFC, LICHSGFIN
 
 ## 🔴 Weakest Bearish Theme
-**Auto Ancillary** leads losers with 2 names in the top 15: TIINDIA, SONACOMS
+**FMCG** leads losers with 4 names in the top 15: DABUR, ITC, COLPAL, HINDUNILVR
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in INOXWIND, PERSISTENT, GMRAIRPORT; IT sector rotation on the buy side; pressure building in Auto Ancillary.
+Session theme: NBFC/Finance sector rotation on the buy side; pressure building in FMCG.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

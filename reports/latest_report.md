@@ -1,67 +1,81 @@
-# NSE F&O Gainers/Losers - 2026-10-12 2222 IST
+# NSE F&O Gainers/Losers - 2026-10-13 1706 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 UPL (+5.40%)
-- #2 ATHERENERG (+5.34%)
-- #3 SUZLON (+5.24%)
-- #4 TATAELXSI (+4.06%)
-- #5 IRFC (+3.75%)
-- #6 PNBHOUSING (+3.63%)
-- #7 ANGELONE (+3.51%)
-- #8 POLICYBZR (+3.46%)
-- #9 PAYTM (+3.30%)
-- #10 PFC (+3.08%)
+- #1 BANDHANBNK (+9.21%)
+- #2 HCLTECH (+8.42%)
+- #3 KPITTECH (+6.81%)
+- #4 TCS (+6.79%)
+- #5 SHRIRAMFIN (+6.31%)
+- #6 TATAELXSI (+5.21%)
+- #7 TECHM (+4.93%)
+- #8 LTM (+4.88%)
+- #9 MPHASIS (+4.79%)
+- #10 UJJIVANSFB (+4.65%)
 
-**Consistent top-5 leaders across all snapshots:** UPL, ATHERENERG, SUZLON, TATAELXSI, IRFC
+**New entrants this session:** BANDHANBNK, HCLTECH, KPITTECH, TCS, SHRIRAMFIN, TECHM, LTM, MPHASIS, UJJIVANSFB, MAZDOCK, WAAREEENER, COFORGE, WIPRO, CROMPTON, INFY, INOXWIND, PRESTIGE, IREDA, PERSISTENT
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 DMART (-4.32%)
-- #2 FORTIS (-3.69%)
-- #3 DABUR (-3.18%)
-- #4 APOLLOHOSP (-3.15%)
-- #5 ITC (-3.05%)
-- #6 GMRAIRPORT (-3.04%)
-- #7 TECHM (-2.85%)
-- #8 COLPAL (-2.79%)
-- #9 IDEA (-2.54%)
-- #10 LT (-2.05%)
+- #1 RBLBANK (-7.10%)
+- #2 ICICIPRULI (-3.54%)
+- #3 POWERINDIA (-3.32%)
+- #4 VEDL (-3.25%)
+- #5 MCX (-2.42%)
+- #6 CGPOWER (-1.56%)
+- #7 DIVISLAB (-1.50%)
+- #8 GVT&D (-1.48%)
+- #9 JSWENERGY (-1.47%)
+- #10 POLYCAB (-1.37%)
 
-**Consistent bottom-5 laggards across all snapshots:** DMART, FORTIS, DABUR, APOLLOHOSP, ITC
+**New weak entrants this session:** RBLBANK, ICICIPRULI, POWERINDIA, VEDL, MCX, CGPOWER, DIVISLAB, GVT&D, JSWENERGY, POLYCAB, AUROPHARMA, SOLARINDS, MANKIND, ATHERENERG, KOTAKBANK, HINDPETRO, TIINDIA, TORNTPHARM, ETERNAL, GLENMARK
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- BANDHANBNK: entered directly at rank #1 (Gainer, +9.21%) - no earlier presence
+- HCLTECH: entered directly at rank #2 (Gainer, +8.42%) - no earlier presence
+- KPITTECH: entered directly at rank #3 (Gainer, +6.81%) - no earlier presence
+- TCS: entered directly at rank #4 (Gainer, +6.79%) - no earlier presence
+- SHRIRAMFIN: entered directly at rank #5 (Gainer, +6.31%) - no earlier presence
+- TECHM: entered directly at rank #7 (Gainer, +4.93%) - no earlier presence
+- LTM: entered directly at rank #8 (Gainer, +4.88%) - no earlier presence
+- MPHASIS: entered directly at rank #9 (Gainer, +4.79%) - no earlier presence
+- UJJIVANSFB: entered directly at rank #10 (Gainer, +4.65%) - no earlier presence
+- RBLBANK: entered directly at rank #1 (Loser, -7.10%) - no earlier presence
+- ICICIPRULI: entered directly at rank #2 (Loser, -3.54%) - no earlier presence
+- POWERINDIA: entered directly at rank #3 (Loser, -3.32%) - no earlier presence
+- VEDL: entered directly at rank #4 (Loser, -3.25%) - no earlier presence
+- MCX: entered directly at rank #5 (Loser, -2.42%) - no earlier presence
+- CGPOWER: entered directly at rank #6 (Loser, -1.56%) - no earlier presence
+- DIVISLAB: entered directly at rank #7 (Loser, -1.50%) - no earlier presence
+- GVT&D: entered directly at rank #8 (Loser, -1.48%) - no earlier presence
+- JSWENERGY: entered directly at rank #9 (Loser, -1.47%) - no earlier presence
+- POLYCAB: entered directly at rank #10 (Loser, -1.37%) - no earlier presence
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: ATHERENERG, SUZLON, TATAELXSI, IRFC
-- NBFC/Finance: PNBHOUSING, ANGELONE, PFC, LICHSGFIN
-- Fintech/Tech: PAYTM, KFINTECH
-- Chemicals: UPL
-- Fintech/Insurance: POLICYBZR
-- Logistics: DELHIVERY
-- Pharma: DRREDDY
-- Auto: BAJAJ-AUTO
+- IT: HCLTECH, TCS, TECHM, LTM, MPHASIS, COFORGE, WIPRO
+- Other/Unmapped: KPITTECH, TATAELXSI, UJJIVANSFB, MAZDOCK, WAAREEENER
+- Banking: BANDHANBNK
+- NBFC/Finance: SHRIRAMFIN
+- Consumer Durables: CROMPTON
 
 **Loser-side sector concentration (top 15):**
-- FMCG: DABUR, ITC, COLPAL, HINDUNILVR
-- Other/Unmapped: FORTIS, INDIANB
-- Healthcare: APOLLOHOSP, MAXHEALTH
-- Metal: NMDC, HINDALCO
-- Retail: DMART
-- Infrastructure: GMRAIRPORT
-- IT: TECHM
-- Telecom: IDEA
-- Capital Goods: LT
+- Capital Goods: POWERINDIA, CGPOWER, GVT&D, POLYCAB
+- Other/Unmapped: JSWENERGY, MANKIND, ATHERENERG
+- Banking: RBLBANK, KOTAKBANK
+- Pharma: DIVISLAB, AUROPHARMA
+- Insurance: ICICIPRULI
+- Metal: VEDL
+- Exchanges/Finance: MCX
+- Defense: SOLARINDS
 
 ## 🟢 Strongest Bullish Theme
-**NBFC/Finance** leads gainers with 4 names in the top 15: PNBHOUSING, ANGELONE, PFC, LICHSGFIN
+**IT** leads gainers with 7 names in the top 15: HCLTECH, TCS, TECHM, LTM, MPHASIS, COFORGE, WIPRO
 
 ## 🔴 Weakest Bearish Theme
-**FMCG** leads losers with 4 names in the top 15: DABUR, ITC, COLPAL, HINDUNILVR
+**Capital Goods** leads losers with 4 names in the top 15: POWERINDIA, CGPOWER, GVT&D, POLYCAB
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in UPL, ATHERENERG, SUZLON; NBFC/Finance sector rotation on the buy side; pressure building in FMCG.
+Session theme: fresh momentum bursts in BANDHANBNK, HCLTECH, KPITTECH; IT sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-14 1656 IST
+# NSE F&O Gainers/Losers - 2026-10-14 1827 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -12,15 +12,6 @@
 - #8 CANBK (+3.59%)
 - #9 HAVELLS (+3.50%)
 - #10 UPL (+3.23%)
-
-**New entrants this session:** BRITANNIA, DABUR
-
-**Sharp rank climbs:**
-- NESTLEIND: rank 12 → 7 (+5)
-- TATACONSUM: rank 16 → 11 (+5)
-
-**Fading gainers (dropping ranks):**
-- WAAREEENER: rank 9 → 14 (-5)
 
 **Consistent top-5 leaders across all snapshots:** JSWENERGY, TATAELXSI, ADANIENSOL, ADANIPOWER, BHEL
 
@@ -36,15 +27,6 @@
 - #8 HDFCLIFE (-2.85%)
 - #9 DIVISLAB (-2.82%)
 - #10 MOTILALOFS (-2.75%)
-
-**New weak entrants this session:** OFSS, BANDHANBNK, ATHERENERG
-
-**Sharp downside acceleration (worsening rank):**
-- HINDALCO: rank 20 → 14
-
-**Recovering losers (climbing out of bottom ranks):**
-- BAJAJFINSV: rank 12 → 19
-- DRREDDY: rank 13 → 18
 
 **Consistent bottom-5 laggards across all snapshots:** LICHSGFIN, BANKBARODA, SHRIRAMFIN, CHOLAFIN
 

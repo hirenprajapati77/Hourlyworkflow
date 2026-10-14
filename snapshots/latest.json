@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-14T18:27:53.138574+05:30",
-  "label": "2026-10-14_1827",
+  "captured_at_ist": "2026-10-14T19:51:19.957266+05:30",
+  "label": "2026-10-14_1951",
   "gainers": [
     {
       "symbol": "JSWENERGY",
@@ -243,21 +243,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "INFY",
-      "series": "EQ",
-      "ltp": 1088,
-      "pct_change": 2.44,
-      "prev_close": 1062.1,
-      "volume": 22113407,
-      "value": 240052.08968849998,
-      "open_price": 1073.7,
-      "high_price": 1096.4,
-      "low_price": 1069.45,
-      "rank": 17,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "ADANIGREEN",
       "series": "EQ",
       "ltp": 1318.4,
@@ -268,9 +253,24 @@
       "open_price": 1281,
       "high_price": 1324.9,
       "low_price": 1274.3,
+      "rank": 17,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "INFY",
+      "series": "EQ",
+      "ltp": 1088,
+      "pct_change": 2.44,
+      "prev_close": 1062.1,
+      "volume": 22113407,
+      "value": 240052.08968849998,
+      "open_price": 1073.7,
+      "high_price": 1096.4,
+      "low_price": 1069.45,
       "rank": 18,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "TATAPOWER",

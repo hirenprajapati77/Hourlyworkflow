@@ -1,67 +1,74 @@
-# NSE F&O Gainers/Losers - 2026-10-14 1454 IST
+# NSE F&O Gainers/Losers - 2026-10-14 1508 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 JSWENERGY (+6.11%)
-- #2 TATAELXSI (+5.98%)
-- #3 ADANIENSOL (+5.09%)
-- #4 ADANIPOWER (+4.86%)
-- #5 BHEL (+4.32%)
-- #6 PIIND (+3.94%)
-- #7 WAAREEENER (+3.33%)
-- #8 INFY (+3.15%)
-- #9 CANBK (+3.12%)
-- #10 UPL (+2.99%)
+- #1 JSWENERGY (+6.09%)
+- #2 TATAELXSI (+6.07%)
+- #3 ADANIENSOL (+4.79%)
+- #4 ADANIPOWER (+4.69%)
+- #5 BHEL (+4.63%)
+- #6 PIIND (+3.90%)
+- #7 CANBK (+3.28%)
+- #8 WAAREEENER (+3.22%)
+- #9 UPL (+3.21%)
+- #10 HAVELLS (+2.99%)
 
-*Initial session baseline captured.*
+**New entrants this session:** CROMPTON
+
+**Fading gainers (dropping ranks):**
+- ADANIGREEN: rank 14 → 20 (-6)
+
+**Consistent top-5 leaders across all snapshots:** JSWENERGY, TATAELXSI, ADANIENSOL, ADANIPOWER, BHEL
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 LICHSGFIN (-4.95%)
-- #2 SHRIRAMFIN (-3.88%)
-- #3 BANKBARODA (-3.81%)
-- #4 CHOLAFIN (-3.76%)
-- #5 DIVISLAB (-3.69%)
-- #6 HDFCLIFE (-3.34%)
-- #7 MFSL (-3.13%)
-- #8 LTF (-3.10%)
-- #9 LODHA (-2.92%)
-- #10 MOTILALOFS (-2.64%)
+- #1 LICHSGFIN (-5.12%)
+- #2 SHRIRAMFIN (-3.99%)
+- #3 BANKBARODA (-3.85%)
+- #4 CHOLAFIN (-3.56%)
+- #5 HDFCLIFE (-3.40%)
+- #6 DIVISLAB (-3.39%)
+- #7 LTF (-3.18%)
+- #8 MFSL (-3.03%)
+- #9 LODHA (-2.94%)
+- #10 MOTILALOFS (-2.56%)
 
-*Initial session baseline captured.*
+**New weak entrants this session:** MCX, HINDALCO
+
+**Consistent bottom-5 laggards across all snapshots:** LICHSGFIN, SHRIRAMFIN, BANKBARODA, CHOLAFIN
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
 - Other/Unmapped: JSWENERGY, TATAELXSI, WAAREEENER, SAGILITY
-- Adani Group: ADANIENSOL, ADANIGREEN
 - Chemicals: PIIND, UPL
+- IT: INFY, TECHM
+- Adani Group: ADANIENSOL
 - Power: ADANIPOWER
 - Capital Goods: BHEL
-- IT: INFY
 - Banking: CANBK
 - Consumer Durables: HAVELLS
-- FMCG: NESTLEIND
 - Clean Energy: PREMIERENE
+- FMCG: NESTLEIND
 
 **Loser-side sector concentration (top 15):**
 - NBFC/Finance: LICHSGFIN, SHRIRAMFIN, CHOLAFIN, LTF, MOTILALOFS, BAJFINANCE, BAJAJFINSV
-- Pharma: DIVISLAB, SUNPHARMA, DRREDDY
+- Insurance: HDFCLIFE, SBILIFE
+- Pharma: DIVISLAB, DRREDDY
 - Banking: BANKBARODA
-- Insurance: HDFCLIFE
 - Other/Unmapped: MFSL
 - Realty: LODHA
-- Aviation: INDIGO
+- Exchanges/Finance: MCX
 
 ## 🟢 Strongest Bullish Theme
-**Adani Group** leads gainers with 2 names in the top 15: ADANIENSOL, ADANIGREEN
+**Chemicals** leads gainers with 2 names in the top 15: PIIND, UPL
 
 ## 🔴 Weakest Bearish Theme
 **NBFC/Finance** leads losers with 7 names in the top 15: LICHSGFIN, SHRIRAMFIN, CHOLAFIN, LTF, MOTILALOFS, BAJFINANCE, BAJAJFINSV
 
 ## 📊 Final Market Conclusion
-Session theme: Adani Group sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: sustained strength in JSWENERGY, TATAELXSI, ADANIENSOL; Chemicals sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

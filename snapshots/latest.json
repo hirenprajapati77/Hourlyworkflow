@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-14T20:05:46.414428+05:30",
-  "label": "2026-10-14_2005",
+  "captured_at_ist": "2026-10-14T20:21:48.712466+05:30",
+  "label": "2026-10-14_2021",
   "gainers": [
     {
       "symbol": "JSWENERGY",
@@ -254,8 +254,8 @@
       "high_price": 1096.4,
       "low_price": 1069.45,
       "rank": 17,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ADANIGREEN",
@@ -269,8 +269,8 @@
       "high_price": 1324.9,
       "low_price": 1274.3,
       "rank": 18,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "TATAPOWER",

@@ -1,59 +1,67 @@
-# NSE F&O Gainers/Losers - 2026-10-13 2249 IST
+# NSE F&O Gainers/Losers - 2026-10-14 1454 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 BANDHANBNK (+9.21%)
-- #2 HCLTECH (+8.42%)
-- #3 KPITTECH (+6.81%)
-- #4 TCS (+6.79%)
-- #5 SHRIRAMFIN (+6.31%)
-- #6 TATAELXSI (+5.21%)
-- #7 TECHM (+4.93%)
-- #8 LTM (+4.88%)
-- #9 MPHASIS (+4.79%)
-- #10 UJJIVANSFB (+4.65%)
+- #1 JSWENERGY (+6.11%)
+- #2 TATAELXSI (+5.98%)
+- #3 ADANIENSOL (+5.09%)
+- #4 ADANIPOWER (+4.86%)
+- #5 BHEL (+4.32%)
+- #6 PIIND (+3.94%)
+- #7 WAAREEENER (+3.33%)
+- #8 INFY (+3.15%)
+- #9 CANBK (+3.12%)
+- #10 UPL (+2.99%)
+
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 RBLBANK (-7.10%)
-- #2 ICICIPRULI (-3.54%)
-- #3 POWERINDIA (-3.32%)
-- #4 VEDL (-3.25%)
-- #5 MCX (-2.42%)
-- #6 CGPOWER (-1.56%)
-- #7 DIVISLAB (-1.50%)
-- #8 GVT&D (-1.48%)
-- #9 JSWENERGY (-1.47%)
-- #10 POLYCAB (-1.37%)
+- #1 LICHSGFIN (-4.95%)
+- #2 SHRIRAMFIN (-3.88%)
+- #3 BANKBARODA (-3.81%)
+- #4 CHOLAFIN (-3.76%)
+- #5 DIVISLAB (-3.69%)
+- #6 HDFCLIFE (-3.34%)
+- #7 MFSL (-3.13%)
+- #8 LTF (-3.10%)
+- #9 LODHA (-2.92%)
+- #10 MOTILALOFS (-2.64%)
+
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- IT: HCLTECH, TCS, TECHM, LTM, MPHASIS, COFORGE, WIPRO
-- Other/Unmapped: KPITTECH, TATAELXSI, UJJIVANSFB, MAZDOCK, WAAREEENER
-- Banking: BANDHANBNK
-- NBFC/Finance: SHRIRAMFIN
-- Consumer Durables: CROMPTON
+- Other/Unmapped: JSWENERGY, TATAELXSI, WAAREEENER, SAGILITY
+- Adani Group: ADANIENSOL, ADANIGREEN
+- Chemicals: PIIND, UPL
+- Power: ADANIPOWER
+- Capital Goods: BHEL
+- IT: INFY
+- Banking: CANBK
+- Consumer Durables: HAVELLS
+- FMCG: NESTLEIND
+- Clean Energy: PREMIERENE
 
 **Loser-side sector concentration (top 15):**
-- Capital Goods: POWERINDIA, CGPOWER, GVT&D, POLYCAB
-- Other/Unmapped: JSWENERGY, MANKIND, ATHERENERG
-- Banking: RBLBANK, KOTAKBANK
-- Pharma: DIVISLAB, AUROPHARMA
-- Insurance: ICICIPRULI
-- Metal: VEDL
-- Exchanges/Finance: MCX
-- Defense: SOLARINDS
+- NBFC/Finance: LICHSGFIN, SHRIRAMFIN, CHOLAFIN, LTF, MOTILALOFS, BAJFINANCE, BAJAJFINSV
+- Pharma: DIVISLAB, SUNPHARMA, DRREDDY
+- Banking: BANKBARODA
+- Insurance: HDFCLIFE
+- Other/Unmapped: MFSL
+- Realty: LODHA
+- Aviation: INDIGO
 
 ## 🟢 Strongest Bullish Theme
-**IT** leads gainers with 7 names in the top 15: HCLTECH, TCS, TECHM, LTM, MPHASIS, COFORGE, WIPRO
+**Adani Group** leads gainers with 2 names in the top 15: ADANIENSOL, ADANIGREEN
 
 ## 🔴 Weakest Bearish Theme
-**Capital Goods** leads losers with 4 names in the top 15: POWERINDIA, CGPOWER, GVT&D, POLYCAB
+**NBFC/Finance** leads losers with 7 names in the top 15: LICHSGFIN, SHRIRAMFIN, CHOLAFIN, LTF, MOTILALOFS, BAJFINANCE, BAJAJFINSV
 
 ## 📊 Final Market Conclusion
-Session theme: IT sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: Adani Group sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

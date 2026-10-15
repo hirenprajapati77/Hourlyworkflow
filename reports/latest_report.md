@@ -1,71 +1,71 @@
-# NSE F&O Gainers/Losers - 2026-10-15 1447 IST
+# NSE F&O Gainers/Losers - 2026-10-15 1510 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 HDFCAMC (+4.85%)
-- #2 HINDPETRO (+4.79%)
-- #3 TECHM (+3.80%)
-- #4 BAJAJHLDNG (+3.70%)
-- #5 ICICIBANK (+3.44%)
-- #6 HCLTECH (+3.13%)
-- #7 BHARTIARTL (+3.13%)
-- #8 RELIANCE (+3.11%)
-- #9 HEROMOTOCO (+2.90%)
-- #10 NAM-INDIA (+2.73%)
+- #1 HINDPETRO (+5.17%)
+- #2 HDFCAMC (+5.05%)
+- #3 TECHM (+4.57%)
+- #4 BAJAJHLDNG (+4.00%)
+- #5 ICICIBANK (+3.47%)
+- #6 BHARTIARTL (+3.00%)
+- #7 NAM-INDIA (+2.94%)
+- #8 HCLTECH (+2.93%)
+- #9 HEROMOTOCO (+2.88%)
+- #10 BSE (+2.68%)
 
-**New entrants this session:** HDFCBANK
+**New entrants this session:** INDUSINDBK
 
 **Sharp rank climbs:**
-- HDFCAMC: rank 11 → 1 (+10)
-
-**Fading gainers (dropping ranks):**
-- BSE: rank 10 → 15 (-5)
+- BSE: rank 15 → 10 (+5)
 
 **Consistent top-5 leaders across all snapshots:** HINDPETRO, TECHM, BAJAJHLDNG
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 YESBANK (-12.50%)
-- #2 NESTLEIND (-6.77%)
-- #3 ENRIN (-6.42%)
-- #4 CANBK (-6.10%)
-- #5 BHEL (-5.80%)
-- #6 CGPOWER (-5.39%)
-- #7 GVT&D (-5.13%)
-- #8 POWERINDIA (-4.89%)
-- #9 MAHABANK (-3.55%)
-- #10 CUMMINSIND (-3.38%)
+- #1 YESBANK (-13.63%)
+- #2 NESTLEIND (-7.20%)
+- #3 ENRIN (-6.73%)
+- #4 BHEL (-6.43%)
+- #5 CANBK (-6.04%)
+- #6 GVT&D (-5.83%)
+- #7 CGPOWER (-5.12%)
+- #8 POWERINDIA (-4.90%)
+- #9 CUMMINSIND (-3.35%)
+- #10 MAHABANK (-3.26%)
 
-**New weak entrants this session:** HINDZINC
+**New weak entrants this session:** RADICO
 
-**Consistent bottom-5 laggards across all snapshots:** YESBANK, NESTLEIND, ENRIN, CANBK, BHEL
+**Recovering losers (climbing out of bottom ranks):**
+- RBLBANK: rank 12 → 18
+
+**Consistent bottom-5 laggards across all snapshots:** YESBANK, NESTLEIND, ENRIN, BHEL, CANBK
 
 ## 🚀 Direct High Rank Entries
 - None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: BAJAJHLDNG, INDHOTEL, ASHOKLEY
-- NBFC/Finance: HDFCAMC, NAM-INDIA
+- NBFC/Finance: HDFCAMC, NAM-INDIA, ANGELONE
+- Other/Unmapped: BAJAJHLDNG, ASHOKLEY, INDHOTEL
 - Energy: HINDPETRO, RELIANCE
 - IT: TECHM, HCLTECH
-- Auto: HEROMOTOCO, MARUTI
 - Banking: ICICIBANK
 - Telecom: BHARTIARTL
-- Realty: GODREJPROP
+- Auto: HEROMOTOCO
 - Exchanges/Finance: BSE
+- Realty: GODREJPROP
 
 **Loser-side sector concentration (top 15):**
-- Capital Goods: BHEL, CGPOWER, GVT&D, POWERINDIA, CUMMINSIND, SIEMENS, ABB
-- Other/Unmapped: YESBANK, ENRIN, MAHABANK
-- FMCG: NESTLEIND, VBL, COLPAL
-- Banking: CANBK, RBLBANK
+- Capital Goods: BHEL, GVT&D, CGPOWER, POWERINDIA, CUMMINSIND, SIEMENS, ABB
+- Other/Unmapped: YESBANK, ENRIN, MAHABANK, BANKINDIA
+- FMCG: NESTLEIND, COLPAL, VBL
+- Banking: CANBK
 
 ## 🟢 Strongest Bullish Theme
-**NBFC/Finance** leads gainers with 2 names in the top 15: HDFCAMC, NAM-INDIA
+**NBFC/Finance** leads gainers with 3 names in the top 15: HDFCAMC, NAM-INDIA, ANGELONE
 
 ## 🔴 Weakest Bearish Theme
-**Capital Goods** leads losers with 7 names in the top 15: BHEL, CGPOWER, GVT&D, POWERINDIA, CUMMINSIND, SIEMENS, ABB
+**Capital Goods** leads losers with 7 names in the top 15: BHEL, GVT&D, CGPOWER, POWERINDIA, CUMMINSIND, SIEMENS, ABB
 
 ## 📊 Final Market Conclusion
 Session theme: sustained strength in HINDPETRO, TECHM, BAJAJHLDNG; NBFC/Finance sector rotation on the buy side; pressure building in Capital Goods.

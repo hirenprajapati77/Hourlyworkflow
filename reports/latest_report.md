@@ -1,67 +1,62 @@
-# NSE F&O Gainers/Losers - 2026-10-14 2021 IST
+# NSE F&O Gainers/Losers - 2026-10-15 1432 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 JSWENERGY (+6.47%)
-- #2 TATAELXSI (+5.73%)
-- #3 ADANIENSOL (+5.17%)
-- #4 ADANIPOWER (+4.94%)
-- #5 BHEL (+4.89%)
-- #6 PIIND (+4.17%)
-- #7 NESTLEIND (+3.69%)
-- #8 CANBK (+3.59%)
-- #9 HAVELLS (+3.50%)
-- #10 UPL (+3.23%)
+- #1 HINDPETRO (+4.73%)
+- #2 BAJAJHLDNG (+3.77%)
+- #3 TECHM (+3.70%)
+- #4 BHARTIARTL (+3.39%)
+- #5 RELIANCE (+3.33%)
+- #6 NAM-INDIA (+3.23%)
+- #7 ICICIBANK (+3.22%)
+- #8 HEROMOTOCO (+3.16%)
+- #9 HCLTECH (+3.09%)
+- #10 BSE (+3.06%)
 
-**Consistent top-5 leaders across all snapshots:** JSWENERGY, TATAELXSI, ADANIENSOL, ADANIPOWER, BHEL
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 LICHSGFIN (-5.14%)
-- #2 BANKBARODA (-3.96%)
-- #3 SHRIRAMFIN (-3.85%)
-- #4 CHOLAFIN (-3.56%)
-- #5 LTF (-3.29%)
-- #6 MFSL (-3.12%)
-- #7 LODHA (-2.92%)
-- #8 HDFCLIFE (-2.85%)
-- #9 DIVISLAB (-2.82%)
-- #10 MOTILALOFS (-2.75%)
+- #1 YESBANK (-10.00%)
+- #2 CANBK (-6.12%)
+- #3 NESTLEIND (-5.91%)
+- #4 ENRIN (-5.85%)
+- #5 BHEL (-5.48%)
+- #6 CGPOWER (-5.22%)
+- #7 GVT&D (-5.00%)
+- #8 POWERINDIA (-4.74%)
+- #9 MAHABANK (-3.50%)
+- #10 CUMMINSIND (-3.36%)
 
-**Consistent bottom-5 laggards across all snapshots:** LICHSGFIN, BANKBARODA, SHRIRAMFIN, CHOLAFIN
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: JSWENERGY, TATAELXSI, SUPREMEIND, SAGILITY, WAAREEENER
-- FMCG: NESTLEIND, TATACONSUM, BRITANNIA
-- Chemicals: PIIND, UPL
-- Adani Group: ADANIENSOL
-- Power: ADANIPOWER
-- Capital Goods: BHEL
-- Banking: CANBK
-- Consumer Durables: HAVELLS
+- NBFC/Finance: NAM-INDIA, HDFCAMC, MOTILALOFS, ANGELONE
+- Other/Unmapped: BAJAJHLDNG, INDHOTEL, ASHOKLEY
+- Energy: HINDPETRO, RELIANCE
+- IT: TECHM, HCLTECH
+- Telecom: BHARTIARTL
+- Banking: ICICIBANK
+- Auto: HEROMOTOCO
+- Exchanges/Finance: BSE
 
 **Loser-side sector concentration (top 15):**
-- NBFC/Finance: LICHSGFIN, SHRIRAMFIN, CHOLAFIN, LTF, MOTILALOFS, BAJFINANCE
-- Insurance: HDFCLIFE, SBILIFE
-- Banking: BANKBARODA
-- Other/Unmapped: MFSL
-- Realty: LODHA
-- Pharma: DIVISLAB
-- Auto: M&M
-- Metal: HINDALCO
-- IT: OFSS
+- Capital Goods: BHEL, CGPOWER, GVT&D, POWERINDIA, CUMMINSIND, SIEMENS, ABB
+- Other/Unmapped: YESBANK, ENRIN, MAHABANK
+- FMCG: NESTLEIND, VBL, COLPAL
+- Banking: CANBK, PNB
 
 ## 🟢 Strongest Bullish Theme
-**FMCG** leads gainers with 3 names in the top 15: NESTLEIND, TATACONSUM, BRITANNIA
+**NBFC/Finance** leads gainers with 4 names in the top 15: NAM-INDIA, HDFCAMC, MOTILALOFS, ANGELONE
 
 ## 🔴 Weakest Bearish Theme
-**NBFC/Finance** leads losers with 6 names in the top 15: LICHSGFIN, SHRIRAMFIN, CHOLAFIN, LTF, MOTILALOFS, BAJFINANCE
+**Capital Goods** leads losers with 7 names in the top 15: BHEL, CGPOWER, GVT&D, POWERINDIA, CUMMINSIND, SIEMENS, ABB
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in JSWENERGY, TATAELXSI, ADANIENSOL; FMCG sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: NBFC/Finance sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

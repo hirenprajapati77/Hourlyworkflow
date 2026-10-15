@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-15T18:15:01.773938+05:30",
-  "label": "2026-10-15_1815",
+  "captured_at_ist": "2026-10-15T19:29:17.636652+05:30",
+  "label": "2026-10-15_1929",
   "gainers": [
     {
       "symbol": "HINDPETRO",
@@ -224,8 +224,8 @@
       "high_price": 728,
       "low_price": 710.7,
       "rank": 15,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ANGELONE",
@@ -239,23 +239,8 @@
       "high_price": 315.55,
       "low_price": 306.35,
       "rank": 16,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "series": "EQ",
-      "ltp": 447.95,
-      "pct_change": 2.26,
-      "prev_close": 438.05,
-      "volume": 32710771,
-      "value": 145248.9075484,
-      "open_price": 439.65,
-      "high_price": 447.95,
-      "low_price": 437.6,
-      "rank": 17,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "MOTILALOFS",
@@ -268,6 +253,21 @@
       "open_price": 1044.9,
       "high_price": 1072.2,
       "low_price": 1033.45,
+      "rank": 17,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "series": "EQ",
+      "ltp": 447.95,
+      "pct_change": 2.26,
+      "prev_close": 438.05,
+      "volume": 32710771,
+      "value": 145248.9075484,
+      "open_price": 439.65,
+      "high_price": 447.95,
+      "low_price": 437.6,
       "rank": 18,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1
@@ -481,8 +481,8 @@
       "high_price": 444.35,
       "low_price": 429.15,
       "rank": 12,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "BANKINDIA",
@@ -496,8 +496,8 @@
       "high_price": 134.78,
       "low_price": 128.67,
       "rank": 13,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "PNB",
@@ -560,21 +560,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "JSWENERGY",
-      "series": "EQ",
-      "ltp": 478.95,
-      "pct_change": -2.31,
-      "prev_close": 490.3,
-      "volume": 2548651,
-      "value": 12281.184573699999,
-      "open_price": 490,
-      "high_price": 490,
-      "low_price": 476.2,
-      "rank": 18,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "RADICO",
       "series": "EQ",
       "ltp": 4449,
@@ -585,9 +570,24 @@
       "open_price": 4557,
       "high_price": 4607.7,
       "low_price": 4319.1,
+      "rank": 18,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "JSWENERGY",
+      "series": "EQ",
+      "ltp": 478.95,
+      "pct_change": -2.31,
+      "prev_close": 490.3,
+      "volume": 2548651,
+      "value": 12281.184573699999,
+      "open_price": 490,
+      "high_price": 490,
+      "low_price": 476.2,
       "rank": 19,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "INOXWIND",

@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-15T16:32:38.207983+05:30",
-  "label": "2026-10-15_1632",
+  "captured_at_ist": "2026-10-15T18:15:01.773938+05:30",
+  "label": "2026-10-15_1815",
   "gainers": [
     {
       "symbol": "HINDPETRO",
@@ -74,8 +74,8 @@
       "high_price": 5210,
       "low_price": 5035.5,
       "rank": 5,
-      "rank_change_str": "\u25b2 +4",
-      "rank_change": 4
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ICICIBANK",
@@ -89,8 +89,8 @@
       "high_price": 1389.4,
       "low_price": 1342.1,
       "rank": 6,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "RELIANCE",
@@ -104,8 +104,8 @@
       "high_price": 1218.8,
       "low_price": 1177.2,
       "rank": 7,
-      "rank_change_str": "\u25b2 +5",
-      "rank_change": 5
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "BHARTIARTL",
@@ -119,8 +119,8 @@
       "high_price": 1871.1,
       "low_price": 1795.1,
       "rank": 8,
-      "rank_change_str": "\u25bc -2",
-      "rank_change": -2
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "NAM-INDIA",
@@ -134,8 +134,8 @@
       "high_price": 1094,
       "low_price": 1055,
       "rank": 9,
-      "rank_change_str": "\u25bc -2",
-      "rank_change": -2
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "GODREJPROP",
@@ -149,8 +149,8 @@
       "high_price": 1635,
       "low_price": 1575,
       "rank": 10,
-      "rank_change_str": "\u25b2 +5",
-      "rank_change": 5
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "BSE",
@@ -164,8 +164,8 @@
       "high_price": 3445,
       "low_price": 3315.2,
       "rank": 11,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HCLTECH",
@@ -179,8 +179,8 @@
       "high_price": 1375.9,
       "low_price": 1328.3,
       "rank": 12,
-      "rank_change_str": "\u25bc -4",
-      "rank_change": -4
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "M&M",
@@ -194,7 +194,7 @@
       "high_price": 2868.2,
       "low_price": 2798.4,
       "rank": 13,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -209,23 +209,8 @@
       "high_price": 11549,
       "low_price": 11136,
       "rank": 14,
-      "rank_change_str": "\u25b2 +4",
-      "rank_change": 4
-    },
-    {
-      "symbol": "ANGELONE",
-      "series": "EQ",
-      "ltp": 313,
-      "pct_change": 2.27,
-      "prev_close": 306.05,
-      "volume": 11641856,
-      "value": 36279.5158528,
-      "open_price": 306.8,
-      "high_price": 315.55,
-      "low_price": 306.35,
-      "rank": 15,
-      "rank_change_str": "\u25bc -2",
-      "rank_change": -2
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HDFCBANK",
@@ -238,22 +223,22 @@
       "open_price": 715,
       "high_price": 728,
       "low_price": 710.7,
-      "rank": 16,
-      "rank_change_str": "\u25b2 +4",
-      "rank_change": 4
+      "rank": 15,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
     },
     {
-      "symbol": "MOTILALOFS",
+      "symbol": "ANGELONE",
       "series": "EQ",
-      "ltp": 1062.95,
-      "pct_change": 2.26,
-      "prev_close": 1039.5,
-      "volume": 855706,
-      "value": 9042.9298668,
-      "open_price": 1044.9,
-      "high_price": 1072.2,
-      "low_price": 1033.45,
-      "rank": 17,
+      "ltp": 313,
+      "pct_change": 2.27,
+      "prev_close": 306.05,
+      "volume": 11641856,
+      "value": 36279.5158528,
+      "open_price": 306.8,
+      "high_price": 315.55,
+      "low_price": 306.35,
+      "rank": 16,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1
     },
@@ -268,9 +253,24 @@
       "open_price": 439.65,
       "high_price": 447.95,
       "low_price": 437.6,
+      "rank": 17,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "series": "EQ",
+      "ltp": 1062.95,
+      "pct_change": 2.26,
+      "prev_close": 1039.5,
+      "volume": 855706,
+      "value": 9042.9298668,
+      "open_price": 1044.9,
+      "high_price": 1072.2,
+      "low_price": 1033.45,
       "rank": 18,
-      "rank_change_str": "NEW",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "INDUSINDBK",
@@ -293,13 +293,13 @@
       "ltp": 323,
       "pct_change": 2.22,
       "prev_close": 316,
-      "volume": 18503817,
+      "volume": 23841401,
       "value": 58925.405236499995,
       "open_price": 315.2,
       "high_price": 323,
       "low_price": 313.6,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ],
@@ -406,8 +406,8 @@
       "high_price": 29680,
       "low_price": 28630,
       "rank": 7,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "CGPOWER",
@@ -421,8 +421,8 @@
       "high_price": 846.05,
       "low_price": 815.35,
       "rank": 8,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "MAHABANK",
@@ -436,8 +436,8 @@
       "high_price": 83,
       "low_price": 78.66,
       "rank": 9,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "CUMMINSIND",
@@ -451,8 +451,8 @@
       "high_price": 4734.8,
       "low_price": 4620.1,
       "rank": 10,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "RBLBANK",
@@ -466,23 +466,8 @@
       "high_price": 389.5,
       "low_price": 373.35,
       "rank": 11,
-      "rank_change_str": "\u25b2 +7",
-      "rank_change": 7
-    },
-    {
-      "symbol": "BANKINDIA",
-      "series": "EQ",
-      "ltp": 130.4,
-      "pct_change": -3.03,
-      "prev_close": 134.48,
-      "volume": 11525125,
-      "value": 15097.91375,
-      "open_price": 134.48,
-      "high_price": 134.78,
-      "low_price": 128.67,
-      "rank": 12,
-      "rank_change_str": "\u25b2 +2",
-      "rank_change": 2
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "VBL",
@@ -495,6 +480,21 @@
       "open_price": 442.75,
       "high_price": 444.35,
       "low_price": 429.15,
+      "rank": 12,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "BANKINDIA",
+      "series": "EQ",
+      "ltp": 130.4,
+      "pct_change": -3.03,
+      "prev_close": 134.48,
+      "volume": 11525125,
+      "value": 15097.91375,
+      "open_price": 134.48,
+      "high_price": 134.78,
+      "low_price": 128.67,
       "rank": 13,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1
@@ -511,8 +511,8 @@
       "high_price": 118.79,
       "low_price": 114.63,
       "rank": 14,
-      "rank_change_str": "\u25b2 +3",
-      "rank_change": 3
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ABB",
@@ -541,8 +541,8 @@
       "high_price": 3740,
       "low_price": 3644.4,
       "rank": 16,
-      "rank_change_str": "\u25bc -3",
-      "rank_change": -3
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "COLPAL",
@@ -556,8 +556,8 @@
       "high_price": 1836.6,
       "low_price": 1764,
       "rank": 17,
-      "rank_change_str": "\u25bc -6",
-      "rank_change": -6
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "JSWENERGY",
@@ -571,8 +571,8 @@
       "high_price": 490,
       "low_price": 476.2,
       "rank": 18,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "RADICO",
@@ -586,8 +586,8 @@
       "high_price": 4607.7,
       "low_price": 4319.1,
       "rank": 19,
-      "rank_change_str": "\u25bc -3",
-      "rank_change": -3
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "INOXWIND",
@@ -601,7 +601,7 @@
       "high_price": 70,
       "low_price": 68.31,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ]

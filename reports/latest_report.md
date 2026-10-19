@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-19 1537 IST
+# NSE F&O Gainers/Losers - 2026-10-19 1605 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -12,11 +12,6 @@
 - #8 JSWSTEEL (+2.06%)
 - #9 MAHABANK (+1.47%)
 - #10 ONGC (+1.35%)
-
-**New entrants this session:** MCX
-
-**Fading gainers (dropping ranks):**
-- EICHERMOT: rank 9 → 16 (-7)
 
 **Consistent top-5 leaders across all snapshots:** UNIONBANK, PNB, BANKBARODA, BANKINDIA
 
@@ -32,11 +27,6 @@
 - #8 POLICYBZR (-3.27%)
 - #9 KPITTECH (-3.25%)
 - #10 TMPV (-3.09%)
-
-**New weak entrants this session:** BIOCON, IEX, NAM-INDIA, BAJFINANCE, PGEL
-
-**Sharp downside acceleration (worsening rank):**
-- NAUKRI: rank 9 → 4
 
 **Consistent bottom-5 laggards across all snapshots:** AXISBANK, INOXWIND, SUZLON, YESBANK
 

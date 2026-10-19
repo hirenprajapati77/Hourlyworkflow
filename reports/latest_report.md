@@ -1,66 +1,75 @@
-# NSE F&O Gainers/Losers - 2026-10-19 1515 IST
+# NSE F&O Gainers/Losers - 2026-10-19 1537 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 UNIONBANK (+5.54%)
-- #2 PNB (+4.73%)
-- #3 BANKBARODA (+3.30%)
-- #4 BANKINDIA (+2.83%)
-- #5 CANBK (+2.71%)
-- #6 FEDERALBNK (+2.66%)
-- #7 ABB (+2.59%)
-- #8 JSWSTEEL (+1.36%)
-- #9 EICHERMOT (+1.16%)
-- #10 SBIN (+1.14%)
+- #1 UNIONBANK (+5.25%)
+- #2 PNB (+4.82%)
+- #3 BANKBARODA (+3.39%)
+- #4 BANKINDIA (+3.34%)
+- #5 FEDERALBNK (+3.21%)
+- #6 CANBK (+3.14%)
+- #7 ABB (+2.54%)
+- #8 JSWSTEEL (+2.06%)
+- #9 MAHABANK (+1.47%)
+- #10 ONGC (+1.35%)
 
-*Initial session baseline captured.*
+**New entrants this session:** MCX
+
+**Fading gainers (dropping ranks):**
+- EICHERMOT: rank 9 → 16 (-7)
+
+**Consistent top-5 leaders across all snapshots:** UNIONBANK, PNB, BANKBARODA, BANKINDIA
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 AXISBANK (-4.16%)
-- #2 INOXWIND (-3.93%)
-- #3 SUZLON (-3.90%)
-- #4 YESBANK (-3.71%)
-- #5 KPITTECH (-3.47%)
-- #6 MOTILALOFS (-3.31%)
-- #7 POLICYBZR (-3.23%)
-- #8 CROMPTON (-3.19%)
-- #9 NAUKRI (-3.18%)
-- #10 TMPV (-2.98%)
+- #1 AXISBANK (-4.19%)
+- #2 INOXWIND (-4.05%)
+- #3 SUZLON (-3.86%)
+- #4 NAUKRI (-3.56%)
+- #5 YESBANK (-3.54%)
+- #6 MOTILALOFS (-3.46%)
+- #7 CROMPTON (-3.27%)
+- #8 POLICYBZR (-3.27%)
+- #9 KPITTECH (-3.25%)
+- #10 TMPV (-3.09%)
 
-*Initial session baseline captured.*
+**New weak entrants this session:** BIOCON, IEX, NAM-INDIA, BAJFINANCE, PGEL
+
+**Sharp downside acceleration (worsening rank):**
+- NAUKRI: rank 9 → 4
+
+**Consistent bottom-5 laggards across all snapshots:** AXISBANK, INOXWIND, SUZLON, YESBANK
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Banking: UNIONBANK, PNB, BANKBARODA, CANBK, FEDERALBNK, SBIN
+- Banking: UNIONBANK, PNB, BANKBARODA, FEDERALBNK, CANBK, SBIN
+- Capital Goods: ABB, CGPOWER, LT
 - Other/Unmapped: BANKINDIA, MAHABANK
-- Capital Goods: ABB, CGPOWER
 - Energy: ONGC, OIL
 - Metal: JSWSTEEL
-- Auto: EICHERMOT
 - NBFC/Finance: ANGELONE
 
 **Loser-side sector concentration (top 15):**
 - Other/Unmapped: INOXWIND, SUZLON, YESBANK, KPITTECH, TMPV, SAGILITY
-- IT: LTM, INFY
+- Pharma: AUROPHARMA, BIOCON
 - Banking: AXISBANK
-- NBFC/Finance: MOTILALOFS
-- Fintech/Insurance: POLICYBZR
-- Consumer Durables: CROMPTON
 - Tech/Internet: NAUKRI
-- Pharma: AUROPHARMA
-- Cement: ULTRACEMCO
+- NBFC/Finance: MOTILALOFS
+- Consumer Durables: CROMPTON
+- Fintech/Insurance: POLICYBZR
+- IT: LTM
+- Realty: LODHA
 
 ## 🟢 Strongest Bullish Theme
-**Banking** leads gainers with 6 names in the top 15: UNIONBANK, PNB, BANKBARODA, CANBK, FEDERALBNK, SBIN
+**Banking** leads gainers with 6 names in the top 15: UNIONBANK, PNB, BANKBARODA, FEDERALBNK, CANBK, SBIN
 
 ## 🔴 Weakest Bearish Theme
-**IT** leads losers with 2 names in the top 15: LTM, INFY
+**Pharma** leads losers with 2 names in the top 15: AUROPHARMA, BIOCON
 
 ## 📊 Final Market Conclusion
-Session theme: Banking sector rotation on the buy side; pressure building in IT.
+Session theme: sustained strength in UNIONBANK, PNB, BANKBARODA; Banking sector rotation on the buy side; pressure building in Pharma.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

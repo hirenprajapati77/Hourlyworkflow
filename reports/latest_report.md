@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-20 1448 IST
+# NSE F&O Gainers/Losers - 2026-10-20 1503 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 MAHABANK (+1.47%)
 - #10 ONGC (+1.35%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** UNIONBANK, PNB, BANKBARODA, BANKINDIA, FEDERALBNK
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 KPITTECH (-3.25%)
 - #10 TMPV (-3.09%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** AXISBANK, INOXWIND, SUZLON, NAUKRI, YESBANK
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -60,6 +60,6 @@
 **Pharma** leads losers with 2 names in the top 15: AUROPHARMA, BIOCON
 
 ## 📊 Final Market Conclusion
-Session theme: Banking sector rotation on the buy side; pressure building in Pharma.
+Session theme: sustained strength in UNIONBANK, PNB, BANKBARODA; Banking sector rotation on the buy side; pressure building in Pharma.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

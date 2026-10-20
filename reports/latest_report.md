@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-20 1819 IST
+# NSE F&O Gainers/Losers - 2026-10-20 1937 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -44,22 +44,22 @@
 
 **Loser-side sector concentration (top 15):**
 - Other/Unmapped: INOXWIND, SUZLON, YESBANK, KPITTECH, TMPV, SAGILITY
-- IT: LTM, INFY
+- Pharma: AUROPHARMA, BIOCON
 - Banking: AXISBANK
 - Tech/Internet: NAUKRI
 - NBFC/Finance: MOTILALOFS
 - Consumer Durables: CROMPTON
 - Fintech/Insurance: POLICYBZR
-- Pharma: AUROPHARMA
+- IT: LTM
 - Realty: LODHA
 
 ## 🟢 Strongest Bullish Theme
 **Banking** leads gainers with 6 names in the top 15: UNIONBANK, PNB, BANKBARODA, FEDERALBNK, CANBK, SBIN
 
 ## 🔴 Weakest Bearish Theme
-**IT** leads losers with 2 names in the top 15: LTM, INFY
+**Pharma** leads losers with 2 names in the top 15: AUROPHARMA, BIOCON
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in UNIONBANK, PNB, BANKBARODA; Banking sector rotation on the buy side; pressure building in IT.
+Session theme: sustained strength in UNIONBANK, PNB, BANKBARODA; Banking sector rotation on the buy side; pressure building in Pharma.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-20T16:37:11.392144+05:30",
-  "label": "2026-10-20_1637",
+  "captured_at_ist": "2026-10-20T18:19:43.675207+05:30",
+  "label": "2026-10-20_1819",
   "gainers": [
     {
       "symbol": "UNIONBANK",
@@ -526,8 +526,8 @@
       "high_price": 1156.95,
       "low_price": 1125.1,
       "rank": 15,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "BIOCON",
@@ -541,8 +541,8 @@
       "high_price": 349.9,
       "low_price": 340,
       "rank": 16,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "IEX",

@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-20T19:37:55.315310+05:30",
-  "label": "2026-10-20_1937",
+  "captured_at_ist": "2026-10-20T19:54:33.387231+05:30",
+  "label": "2026-10-20_1954",
   "gainers": [
     {
       "symbol": "UNIONBANK",
@@ -515,21 +515,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "BIOCON",
-      "series": "EQ",
-      "ltp": 340,
-      "pct_change": -2.63,
-      "prev_close": 349.2,
-      "volume": 3222416,
-      "value": 11090.911388800001,
-      "open_price": 349.2,
-      "high_price": 349.9,
-      "low_price": 340,
-      "rank": 15,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
-    },
-    {
       "symbol": "INFY",
       "series": "EQ",
       "ltp": 1130.7,
@@ -540,6 +525,21 @@
       "open_price": 1156.95,
       "high_price": 1156.95,
       "low_price": 1125.1,
+      "rank": 15,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "BIOCON",
+      "series": "EQ",
+      "ltp": 340,
+      "pct_change": -2.63,
+      "prev_close": 349.2,
+      "volume": 3222416,
+      "value": 11090.911388800001,
+      "open_price": 349.2,
+      "high_price": 349.9,
+      "low_price": 340,
       "rank": 16,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1

@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-21 1653 IST
+# NSE F&O Gainers/Losers - 2026-10-21 1832 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -12,15 +12,6 @@
 - #8 NHPC (+2.76%)
 - #9 ULTRACEMCO (+1.87%)
 - #10 ANANDRATHI (+1.67%)
-
-**New entrants this session:** LUPIN, NAUKRI, DIVISLAB
-
-**Sharp rank climbs:**
-- HCLTECH: rank 8 → 3 (+5)
-
-**Fading gainers (dropping ranks):**
-- COFORGE: rank 9 → 15 (-6)
-- KALYANKJIL: rank 15 → 20 (-5)
 
 **Consistent top-5 leaders across all snapshots:** WIPRO, INFY, TECHM, MPHASIS
 
@@ -36,14 +27,6 @@
 - #8 KEI (-4.76%)
 - #9 VMM (-4.70%)
 - #10 RBLBANK (-4.51%)
-
-**New weak entrants this session:** NAM-INDIA, CROMPTON
-
-**Sharp downside acceleration (worsening rank):**
-- BHEL: rank 19 → 12
-
-**Recovering losers (climbing out of bottom ranks):**
-- SONACOMS: rank 15 → 20
 
 **Consistent bottom-5 laggards across all snapshots:** ABB, MANAPPURAM
 

@@ -1,61 +1,73 @@
-# NSE F&O Gainers/Losers - 2026-10-21 1445 IST
+# NSE F&O Gainers/Losers - 2026-10-21 1459 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 WIPRO (+3.54%)
-- #2 INFY (+3.03%)
-- #3 TECHM (+2.71%)
-- #4 PERSISTENT (+2.49%)
-- #5 MPHASIS (+2.33%)
-- #6 KALYANKJIL (+2.22%)
-- #7 TCS (+2.13%)
-- #8 NHPC (+1.98%)
-- #9 HCLTECH (+1.88%)
-- #10 ULTRACEMCO (+1.51%)
+- #1 WIPRO (+3.26%)
+- #2 INFY (+2.83%)
+- #3 TECHM (+2.43%)
+- #4 MPHASIS (+2.26%)
+- #5 NHPC (+2.16%)
+- #6 PERSISTENT (+2.14%)
+- #7 TCS (+1.99%)
+- #8 KALYANKJIL (+1.63%)
+- #9 HCLTECH (+1.51%)
+- #10 ULTRACEMCO (+1.45%)
 
-*Initial session baseline captured.*
+**New entrants this session:** PETRONET, ICICIBANK
+
+**Consistent top-5 leaders across all snapshots:** WIPRO, INFY, TECHM, MPHASIS
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 ABB (-6.19%)
-- #2 MANAPPURAM (-6.16%)
-- #3 COCHINSHIP (-5.89%)
-- #4 RBLBANK (-5.39%)
-- #5 UNITDSPR (-5.36%)
-- #6 SIEMENS (-5.25%)
-- #7 UJJIVANSFB (-4.89%)
-- #8 CGPOWER (-4.67%)
-- #9 IDEA (-4.64%)
-- #10 KEI (-4.59%)
+- #1 MANAPPURAM (-6.42%)
+- #2 ABB (-5.99%)
+- #3 COCHINSHIP (-5.92%)
+- #4 UNITDSPR (-5.51%)
+- #5 RBLBANK (-5.48%)
+- #6 SRF (-5.46%)
+- #7 SIEMENS (-5.26%)
+- #8 VMM (-5.19%)
+- #9 KEI (-4.93%)
+- #10 UJJIVANSFB (-4.86%)
 
-*Initial session baseline captured.*
+**New weak entrants this session:** SRF
+
+**Sharp downside acceleration (worsening rank):**
+- VMM: rank 14 → 8
+- SWIGGY: rank 18 → 13
+
+**Recovering losers (climbing out of bottom ranks):**
+- GVT&D: rank 12 → 20
+
+**Consistent bottom-5 laggards across all snapshots:** MANAPPURAM, ABB, COCHINSHIP, UNITDSPR, RBLBANK
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- SRF: entered directly at rank #6 (Loser, -5.46%) - no earlier presence
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- IT: WIPRO, INFY, TECHM, PERSISTENT, MPHASIS, TCS, HCLTECH, COFORGE
-- Other/Unmapped: KALYANKJIL, NHPC, ANANDRATHI, TATAELXSI, KPITTECH
+- IT: WIPRO, INFY, TECHM, MPHASIS, PERSISTENT, TCS, HCLTECH, COFORGE
+- Other/Unmapped: NHPC, KALYANKJIL, TATAELXSI, ANANDRATHI, KPITTECH
 - Cement: ULTRACEMCO
 - FMCG: GODREJCP
 
 **Loser-side sector concentration (top 15):**
-- Capital Goods: ABB, SIEMENS, CGPOWER, KEI, GVT&D, CUMMINSIND
+- Capital Goods: ABB, SIEMENS, KEI, CGPOWER, CUMMINSIND
 - Other/Unmapped: COCHINSHIP, UNITDSPR, UJJIVANSFB
-- FMCG: VMM, VBL
+- Tech/Internet: SWIGGY, ETERNAL
 - NBFC/Finance: MANAPPURAM
 - Banking: RBLBANK
+- Chemicals: SRF
+- FMCG: VMM
 - Telecom: IDEA
-- Tech/Internet: ETERNAL
 
 ## 🟢 Strongest Bullish Theme
-**IT** leads gainers with 8 names in the top 15: WIPRO, INFY, TECHM, PERSISTENT, MPHASIS, TCS, HCLTECH, COFORGE
+**IT** leads gainers with 8 names in the top 15: WIPRO, INFY, TECHM, MPHASIS, PERSISTENT, TCS, HCLTECH, COFORGE
 
 ## 🔴 Weakest Bearish Theme
-**Capital Goods** leads losers with 6 names in the top 15: ABB, SIEMENS, CGPOWER, KEI, GVT&D, CUMMINSIND
+**Capital Goods** leads losers with 5 names in the top 15: ABB, SIEMENS, KEI, CGPOWER, CUMMINSIND
 
 ## 📊 Final Market Conclusion
-Session theme: IT sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in WIPRO, INFY, TECHM; IT sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

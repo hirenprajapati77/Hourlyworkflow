@@ -1,65 +1,61 @@
-# NSE F&O Gainers/Losers - 2026-10-20 2008 IST
+# NSE F&O Gainers/Losers - 2026-10-21 1445 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 UNIONBANK (+5.25%)
-- #2 PNB (+4.82%)
-- #3 BANKBARODA (+3.39%)
-- #4 BANKINDIA (+3.34%)
-- #5 FEDERALBNK (+3.21%)
-- #6 CANBK (+3.14%)
-- #7 ABB (+2.54%)
-- #8 JSWSTEEL (+2.06%)
-- #9 MAHABANK (+1.47%)
-- #10 ONGC (+1.35%)
+- #1 WIPRO (+3.54%)
+- #2 INFY (+3.03%)
+- #3 TECHM (+2.71%)
+- #4 PERSISTENT (+2.49%)
+- #5 MPHASIS (+2.33%)
+- #6 KALYANKJIL (+2.22%)
+- #7 TCS (+2.13%)
+- #8 NHPC (+1.98%)
+- #9 HCLTECH (+1.88%)
+- #10 ULTRACEMCO (+1.51%)
 
-**Consistent top-5 leaders across all snapshots:** UNIONBANK, PNB, BANKBARODA, BANKINDIA, FEDERALBNK
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 AXISBANK (-4.19%)
-- #2 INOXWIND (-4.05%)
-- #3 SUZLON (-3.86%)
-- #4 NAUKRI (-3.56%)
-- #5 YESBANK (-3.54%)
-- #6 MOTILALOFS (-3.46%)
-- #7 CROMPTON (-3.27%)
-- #8 POLICYBZR (-3.27%)
-- #9 KPITTECH (-3.25%)
-- #10 TMPV (-3.09%)
+- #1 ABB (-6.19%)
+- #2 MANAPPURAM (-6.16%)
+- #3 COCHINSHIP (-5.89%)
+- #4 RBLBANK (-5.39%)
+- #5 UNITDSPR (-5.36%)
+- #6 SIEMENS (-5.25%)
+- #7 UJJIVANSFB (-4.89%)
+- #8 CGPOWER (-4.67%)
+- #9 IDEA (-4.64%)
+- #10 KEI (-4.59%)
 
-**Consistent bottom-5 laggards across all snapshots:** AXISBANK, INOXWIND, SUZLON, NAUKRI, YESBANK
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Banking: UNIONBANK, PNB, BANKBARODA, FEDERALBNK, CANBK, SBIN
-- Capital Goods: ABB, CGPOWER, LT
-- Other/Unmapped: BANKINDIA, MAHABANK
-- Energy: ONGC, OIL
-- Metal: JSWSTEEL
-- NBFC/Finance: ANGELONE
+- IT: WIPRO, INFY, TECHM, PERSISTENT, MPHASIS, TCS, HCLTECH, COFORGE
+- Other/Unmapped: KALYANKJIL, NHPC, ANANDRATHI, TATAELXSI, KPITTECH
+- Cement: ULTRACEMCO
+- FMCG: GODREJCP
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: INOXWIND, SUZLON, YESBANK, KPITTECH, TMPV, SAGILITY
-- Pharma: AUROPHARMA, BIOCON
-- Banking: AXISBANK
-- Tech/Internet: NAUKRI
-- NBFC/Finance: MOTILALOFS
-- Consumer Durables: CROMPTON
-- Fintech/Insurance: POLICYBZR
-- IT: LTM
-- Realty: LODHA
+- Capital Goods: ABB, SIEMENS, CGPOWER, KEI, GVT&D, CUMMINSIND
+- Other/Unmapped: COCHINSHIP, UNITDSPR, UJJIVANSFB
+- FMCG: VMM, VBL
+- NBFC/Finance: MANAPPURAM
+- Banking: RBLBANK
+- Telecom: IDEA
+- Tech/Internet: ETERNAL
 
 ## 🟢 Strongest Bullish Theme
-**Banking** leads gainers with 6 names in the top 15: UNIONBANK, PNB, BANKBARODA, FEDERALBNK, CANBK, SBIN
+**IT** leads gainers with 8 names in the top 15: WIPRO, INFY, TECHM, PERSISTENT, MPHASIS, TCS, HCLTECH, COFORGE
 
 ## 🔴 Weakest Bearish Theme
-**Pharma** leads losers with 2 names in the top 15: AUROPHARMA, BIOCON
+**Capital Goods** leads losers with 6 names in the top 15: ABB, SIEMENS, CGPOWER, KEI, GVT&D, CUMMINSIND
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in UNIONBANK, PNB, BANKBARODA; Banking sector rotation on the buy side; pressure building in Pharma.
+Session theme: IT sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

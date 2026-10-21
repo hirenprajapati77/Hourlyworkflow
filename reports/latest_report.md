@@ -1,61 +1,64 @@
-# NSE F&O Gainers/Losers - 2026-10-21 1523 IST
+# NSE F&O Gainers/Losers - 2026-10-21 1653 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 WIPRO (+3.38%)
-- #2 PERSISTENT (+3.13%)
-- #3 INFY (+3.03%)
-- #4 MPHASIS (+3.00%)
-- #5 TECHM (+2.74%)
-- #6 NHPC (+2.39%)
-- #7 TCS (+2.23%)
-- #8 HCLTECH (+1.96%)
-- #9 COFORGE (+1.71%)
-- #10 ULTRACEMCO (+1.54%)
+- #1 WIPRO (+3.86%)
+- #2 INFY (+3.30%)
+- #3 HCLTECH (+3.21%)
+- #4 TECHM (+3.13%)
+- #5 MPHASIS (+3.00%)
+- #6 PERSISTENT (+2.96%)
+- #7 TCS (+2.77%)
+- #8 NHPC (+2.76%)
+- #9 ULTRACEMCO (+1.87%)
+- #10 ANANDRATHI (+1.67%)
 
-**New entrants this session:** MANKIND, OFSS, SAGILITY
+**New entrants this session:** LUPIN, NAUKRI, DIVISLAB
+
+**Sharp rank climbs:**
+- HCLTECH: rank 8 → 3 (+5)
 
 **Fading gainers (dropping ranks):**
-- KALYANKJIL: rank 8 → 15 (-7)
+- COFORGE: rank 9 → 15 (-6)
+- KALYANKJIL: rank 15 → 20 (-5)
 
-**Consistent top-5 leaders across all snapshots:** WIPRO, INFY, MPHASIS, TECHM
+**Consistent top-5 leaders across all snapshots:** WIPRO, INFY, TECHM, MPHASIS
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 ABB (-5.89%)
-- #2 MANAPPURAM (-5.70%)
-- #3 SRF (-5.59%)
-- #4 SIEMENS (-5.08%)
-- #5 UNITDSPR (-5.06%)
-- #6 COCHINSHIP (-5.01%)
-- #7 IDEA (-4.89%)
-- #8 VMM (-4.80%)
-- #9 KEI (-4.73%)
-- #10 RBLBANK (-4.72%)
+- #1 ABB (-5.94%)
+- #2 MANAPPURAM (-5.62%)
+- #3 SIEMENS (-5.59%)
+- #4 SRF (-5.22%)
+- #5 IDEA (-5.21%)
+- #6 UNITDSPR (-4.96%)
+- #7 COCHINSHIP (-4.84%)
+- #8 KEI (-4.76%)
+- #9 VMM (-4.70%)
+- #10 RBLBANK (-4.51%)
 
-**New weak entrants this session:** SONACOMS, ADANIPOWER, BHEL
+**New weak entrants this session:** NAM-INDIA, CROMPTON
 
 **Sharp downside acceleration (worsening rank):**
-- IDEA: rank 12 → 7
+- BHEL: rank 19 → 12
 
 **Recovering losers (climbing out of bottom ranks):**
-- RBLBANK: rank 5 → 10
-- ETERNAL: rank 15 → 20
+- SONACOMS: rank 15 → 20
 
-**Consistent bottom-5 laggards across all snapshots:** ABB, MANAPPURAM, UNITDSPR
+**Consistent bottom-5 laggards across all snapshots:** ABB, MANAPPURAM
 
 ## 🚀 Direct High Rank Entries
 - None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- IT: WIPRO, PERSISTENT, INFY, MPHASIS, TECHM, TCS, HCLTECH, COFORGE
-- Other/Unmapped: NHPC, ANANDRATHI, TATAELXSI, KPITTECH, KALYANKJIL
+- IT: WIPRO, INFY, HCLTECH, TECHM, MPHASIS, PERSISTENT, TCS, COFORGE
+- Other/Unmapped: NHPC, ANANDRATHI, TATAELXSI, KPITTECH, MANKIND
 - Cement: ULTRACEMCO
 - FMCG: GODREJCP
 
 **Loser-side sector concentration (top 15):**
-- Capital Goods: ABB, SIEMENS, KEI, CGPOWER, CUMMINSIND
+- Capital Goods: ABB, SIEMENS, KEI, BHEL, CGPOWER, CUMMINSIND
 - Other/Unmapped: UNITDSPR, COCHINSHIP, UJJIVANSFB
 - NBFC/Finance: MANAPPURAM
 - Chemicals: SRF
@@ -63,15 +66,14 @@
 - FMCG: VMM
 - Banking: RBLBANK
 - Auto: FORCEMOT
-- Auto Ancillary: SONACOMS
 
 ## 🟢 Strongest Bullish Theme
-**IT** leads gainers with 8 names in the top 15: WIPRO, PERSISTENT, INFY, MPHASIS, TECHM, TCS, HCLTECH, COFORGE
+**IT** leads gainers with 8 names in the top 15: WIPRO, INFY, HCLTECH, TECHM, MPHASIS, PERSISTENT, TCS, COFORGE
 
 ## 🔴 Weakest Bearish Theme
-**Capital Goods** leads losers with 5 names in the top 15: ABB, SIEMENS, KEI, CGPOWER, CUMMINSIND
+**Capital Goods** leads losers with 6 names in the top 15: ABB, SIEMENS, KEI, BHEL, CGPOWER, CUMMINSIND
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in WIPRO, INFY, MPHASIS; IT sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in WIPRO, INFY, TECHM; IT sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

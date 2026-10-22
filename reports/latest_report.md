@@ -1,77 +1,82 @@
-# NSE F&O Gainers/Losers - 2026-10-22 1502 IST
+# NSE F&O Gainers/Losers - 2026-10-22 1524 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 INDHOTEL (+4.71%)
-- #2 KAYNES (+4.20%)
-- #3 AMBUJACEM (+2.45%)
-- #4 BAJAJHLDNG (+2.39%)
-- #5 POLICYBZR (+2.23%)
-- #6 SRF (+1.91%)
-- #7 PHOENIXLTD (+1.82%)
-- #8 ZYDUSLIFE (+1.75%)
-- #9 SAGILITY (+1.67%)
-- #10 AUROPHARMA (+1.60%)
+- #1 INDHOTEL (+4.18%)
+- #2 KAYNES (+4.07%)
+- #3 BAJAJHLDNG (+2.90%)
+- #4 POLICYBZR (+2.78%)
+- #5 SAGILITY (+2.41%)
+- #6 PATANJALI (+2.24%)
+- #7 ZYDUSLIFE (+1.76%)
+- #8 TORNTPHARM (+1.67%)
+- #9 BAJFINANCE (+1.59%)
+- #10 AUROPHARMA (+1.41%)
 
-**New entrants this session:** 360ONE, HAVELLS
+**New entrants this session:** PATANJALI
+
+**Sharp rank climbs:**
+- TORNTPHARM: rank 17 → 8 (+9)
 
 **Fading gainers (dropping ranks):**
-- ANANDRATHI: rank 8 → 16 (-8)
+- AMBUJACEM: rank 3 → 15 (-12)
+- SRF: rank 6 → 12 (-6)
+- PHOENIXLTD: rank 7 → 13 (-6)
+- FEDERALBNK: rank 14 → 19 (-5)
 
-**Consistent top-5 leaders across all snapshots:** INDHOTEL, KAYNES, AMBUJACEM, BAJAJHLDNG, POLICYBZR
+**Consistent top-5 leaders across all snapshots:** INDHOTEL, KAYNES, BAJAJHLDNG, POLICYBZR
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 KEI (-8.07%)
-- #2 SWIGGY (-6.73%)
-- #3 MAZDOCK (-4.30%)
-- #4 KALYANKJIL (-4.23%)
-- #5 WAAREEENER (-3.81%)
-- #6 RADICO (-3.59%)
-- #7 POWERINDIA (-3.58%)
-- #8 OFSS (-3.44%)
-- #9 NESTLEIND (-3.06%)
-- #10 BHEL (-3.02%)
+- #1 KEI (-8.54%)
+- #2 SWIGGY (-6.10%)
+- #3 KALYANKJIL (-4.53%)
+- #4 MAZDOCK (-4.03%)
+- #5 RADICO (-3.74%)
+- #6 OFSS (-3.73%)
+- #7 WAAREEENER (-3.58%)
+- #8 POWERINDIA (-3.48%)
+- #9 NESTLEIND (-3.16%)
+- #10 NAM-INDIA (-3.11%)
 
-**New weak entrants this session:** MUTHOOTFIN, MPHASIS
+**New weak entrants this session:** NAM-INDIA, MFSL
 
-**Recovering losers (climbing out of bottom ranks):**
-- DMART: rank 11 → 17
+**Sharp downside acceleration (worsening rank):**
+- MPHASIS: rank 18 → 13
 
-**Consistent bottom-5 laggards across all snapshots:** KEI, SWIGGY, MAZDOCK, KALYANKJIL, WAAREEENER
+**Consistent bottom-5 laggards across all snapshots:** KEI, SWIGGY, KALYANKJIL, MAZDOCK
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- PATANJALI: entered directly at rank #6 (Gainer, +2.24%) - no earlier presence
+- NAM-INDIA: entered directly at rank #10 (Loser, -3.11%) - no earlier presence
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: INDHOTEL, BAJAJHLDNG, ZYDUSLIFE, SAGILITY, BLUESTARCO
-- NBFC/Finance: BAJFINANCE, SBICARD, 360ONE
+- Other/Unmapped: INDHOTEL, BAJAJHLDNG, SAGILITY, PATANJALI, ZYDUSLIFE
+- Pharma: TORNTPHARM, AUROPHARMA, CIPLA
+- NBFC/Finance: BAJFINANCE, SBICARD
 - Capital Goods: KAYNES
-- Cement: AMBUJACEM
 - Fintech/Insurance: POLICYBZR
 - Chemicals: SRF
 - Realty: PHOENIXLTD
-- Pharma: AUROPHARMA
-- Banking: FEDERALBNK
+- Cement: AMBUJACEM
 
 **Loser-side sector concentration (top 15):**
 - Capital Goods: KEI, POWERINDIA, BHEL
-- Other/Unmapped: MAZDOCK, KALYANKJIL, WAAREEENER
-- FMCG: RADICO, NESTLEIND, VMM
-- NBFC/Finance: MUTHOOTFIN, ABCAPITAL
+- Other/Unmapped: KALYANKJIL, MAZDOCK, WAAREEENER
+- NBFC/Finance: NAM-INDIA, MUTHOOTFIN, ABCAPITAL
+- FMCG: RADICO, NESTLEIND
+- IT: OFSS, MPHASIS
 - Tech/Internet: SWIGGY
-- IT: OFSS
 - Insurance: HDFCLIFE
-- Tech/Retail: NYKAA
 
 ## 🟢 Strongest Bullish Theme
-**NBFC/Finance** leads gainers with 3 names in the top 15: BAJFINANCE, SBICARD, 360ONE
+**Pharma** leads gainers with 3 names in the top 15: TORNTPHARM, AUROPHARMA, CIPLA
 
 ## 🔴 Weakest Bearish Theme
 **Capital Goods** leads losers with 3 names in the top 15: KEI, POWERINDIA, BHEL
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in INDHOTEL, KAYNES, AMBUJACEM; NBFC/Finance sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in INDHOTEL, KAYNES, BAJAJHLDNG; fresh momentum bursts in PATANJALI; Pharma sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

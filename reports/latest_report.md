@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-22 1653 IST
+# NSE F&O Gainers/Losers - 2026-10-22 1834 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -12,11 +12,6 @@
 - #8 PHOENIXLTD (+1.89%)
 - #9 BAJFINANCE (+1.74%)
 - #10 ZYDUSLIFE (+1.58%)
-
-**New entrants this session:** UJJIVANSFB, IOC, JINDALSTEL
-
-**Sharp rank climbs:**
-- PHOENIXLTD: rank 13 → 8 (+5)
 
 **Consistent top-5 leaders across all snapshots:** KAYNES, INDHOTEL, POLICYBZR, BAJAJHLDNG
 
@@ -33,15 +28,10 @@
 - #9 MUTHOOTFIN (-3.00%)
 - #10 MPHASIS (-2.93%)
 
-**New weak entrants this session:** AMBER
-
-**Recovering losers (climbing out of bottom ranks):**
-- NAM-INDIA: rank 10 → 20
-
 **Consistent bottom-5 laggards across all snapshots:** KEI, SWIGGY, KALYANKJIL, MAZDOCK
 
 ## 🚀 Direct High Rank Entries
-- UJJIVANSFB: entered directly at rank #5 (Gainer, +2.55%) - no earlier presence
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -70,6 +60,6 @@
 **Capital Goods** leads losers with 3 names in the top 15: KEI, POWERINDIA, BHEL
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in KAYNES, INDHOTEL, POLICYBZR; fresh momentum bursts in UJJIVANSFB; Pharma sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in KAYNES, INDHOTEL, POLICYBZR; Pharma sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

@@ -1,82 +1,75 @@
-# NSE F&O Gainers/Losers - 2026-10-22 1524 IST
+# NSE F&O Gainers/Losers - 2026-10-22 1653 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 INDHOTEL (+4.18%)
-- #2 KAYNES (+4.07%)
-- #3 BAJAJHLDNG (+2.90%)
-- #4 POLICYBZR (+2.78%)
-- #5 SAGILITY (+2.41%)
-- #6 PATANJALI (+2.24%)
-- #7 ZYDUSLIFE (+1.76%)
-- #8 TORNTPHARM (+1.67%)
-- #9 BAJFINANCE (+1.59%)
-- #10 AUROPHARMA (+1.41%)
+- #1 KAYNES (+4.07%)
+- #2 INDHOTEL (+3.89%)
+- #3 POLICYBZR (+2.97%)
+- #4 BAJAJHLDNG (+2.90%)
+- #5 UJJIVANSFB (+2.55%)
+- #6 SAGILITY (+2.21%)
+- #7 AUROPHARMA (+2.03%)
+- #8 PHOENIXLTD (+1.89%)
+- #9 BAJFINANCE (+1.74%)
+- #10 ZYDUSLIFE (+1.58%)
 
-**New entrants this session:** PATANJALI
+**New entrants this session:** UJJIVANSFB, IOC, JINDALSTEL
 
 **Sharp rank climbs:**
-- TORNTPHARM: rank 17 → 8 (+9)
+- PHOENIXLTD: rank 13 → 8 (+5)
 
-**Fading gainers (dropping ranks):**
-- AMBUJACEM: rank 3 → 15 (-12)
-- SRF: rank 6 → 12 (-6)
-- PHOENIXLTD: rank 7 → 13 (-6)
-- FEDERALBNK: rank 14 → 19 (-5)
-
-**Consistent top-5 leaders across all snapshots:** INDHOTEL, KAYNES, BAJAJHLDNG, POLICYBZR
+**Consistent top-5 leaders across all snapshots:** KAYNES, INDHOTEL, POLICYBZR, BAJAJHLDNG
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 KEI (-8.54%)
-- #2 SWIGGY (-6.10%)
-- #3 KALYANKJIL (-4.53%)
-- #4 MAZDOCK (-4.03%)
-- #5 RADICO (-3.74%)
-- #6 OFSS (-3.73%)
-- #7 WAAREEENER (-3.58%)
-- #8 POWERINDIA (-3.48%)
-- #9 NESTLEIND (-3.16%)
-- #10 NAM-INDIA (-3.11%)
+- #1 KEI (-8.45%)
+- #2 SWIGGY (-5.48%)
+- #3 KALYANKJIL (-4.78%)
+- #4 OFSS (-4.09%)
+- #5 MAZDOCK (-3.76%)
+- #6 POWERINDIA (-3.62%)
+- #7 RADICO (-3.55%)
+- #8 WAAREEENER (-3.46%)
+- #9 MUTHOOTFIN (-3.00%)
+- #10 MPHASIS (-2.93%)
 
-**New weak entrants this session:** NAM-INDIA, MFSL
+**New weak entrants this session:** AMBER
 
-**Sharp downside acceleration (worsening rank):**
-- MPHASIS: rank 18 → 13
+**Recovering losers (climbing out of bottom ranks):**
+- NAM-INDIA: rank 10 → 20
 
 **Consistent bottom-5 laggards across all snapshots:** KEI, SWIGGY, KALYANKJIL, MAZDOCK
 
 ## 🚀 Direct High Rank Entries
-- PATANJALI: entered directly at rank #6 (Gainer, +2.24%) - no earlier presence
-- NAM-INDIA: entered directly at rank #10 (Loser, -3.11%) - no earlier presence
+- UJJIVANSFB: entered directly at rank #5 (Gainer, +2.55%) - no earlier presence
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: INDHOTEL, BAJAJHLDNG, SAGILITY, PATANJALI, ZYDUSLIFE
-- Pharma: TORNTPHARM, AUROPHARMA, CIPLA
+- Other/Unmapped: INDHOTEL, BAJAJHLDNG, UJJIVANSFB, SAGILITY, ZYDUSLIFE
+- Pharma: AUROPHARMA, TORNTPHARM, CIPLA
 - NBFC/Finance: BAJFINANCE, SBICARD
 - Capital Goods: KAYNES
 - Fintech/Insurance: POLICYBZR
-- Chemicals: SRF
 - Realty: PHOENIXLTD
-- Cement: AMBUJACEM
+- Chemicals: SRF
+- Banking: FEDERALBNK
 
 **Loser-side sector concentration (top 15):**
 - Capital Goods: KEI, POWERINDIA, BHEL
 - Other/Unmapped: KALYANKJIL, MAZDOCK, WAAREEENER
-- NBFC/Finance: NAM-INDIA, MUTHOOTFIN, ABCAPITAL
-- FMCG: RADICO, NESTLEIND
+- FMCG: RADICO, DABUR, NESTLEIND
 - IT: OFSS, MPHASIS
+- NBFC/Finance: MUTHOOTFIN, ABCAPITAL
 - Tech/Internet: SWIGGY
-- Insurance: HDFCLIFE
+- Retail: DMART
 
 ## 🟢 Strongest Bullish Theme
-**Pharma** leads gainers with 3 names in the top 15: TORNTPHARM, AUROPHARMA, CIPLA
+**Pharma** leads gainers with 3 names in the top 15: AUROPHARMA, TORNTPHARM, CIPLA
 
 ## 🔴 Weakest Bearish Theme
 **Capital Goods** leads losers with 3 names in the top 15: KEI, POWERINDIA, BHEL
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in INDHOTEL, KAYNES, BAJAJHLDNG; fresh momentum bursts in PATANJALI; Pharma sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in KAYNES, INDHOTEL, POLICYBZR; fresh momentum bursts in UJJIVANSFB; Pharma sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

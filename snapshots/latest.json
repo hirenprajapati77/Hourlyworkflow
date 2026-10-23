@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-23T19:49:48.064789+05:30",
-  "label": "2026-10-23_1949",
+  "captured_at_ist": "2026-10-23T20:08:23.585020+05:30",
+  "label": "2026-10-23_2008",
   "gainers": [
     {
       "symbol": "ETERNAL",
@@ -258,21 +258,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "INFY",
-      "series": "EQ",
-      "ltp": 1153.8,
-      "pct_change": 0.04,
-      "prev_close": 1153.35,
-      "volume": 33044499,
-      "value": 384803.190855,
-      "open_price": 1187,
-      "high_price": 1197.8,
-      "low_price": 1038.05,
-      "rank": 18,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
-    },
-    {
       "symbol": "HCLTECH",
       "series": "EQ",
       "ltp": 1422.2,
@@ -283,6 +268,21 @@
       "open_price": 1450.4,
       "high_price": 1467.5,
       "low_price": 1415,
+      "rank": 18,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "INFY",
+      "series": "EQ",
+      "ltp": 1153.8,
+      "pct_change": 0.04,
+      "prev_close": 1153.35,
+      "volume": 33044499,
+      "value": 384803.190855,
+      "open_price": 1187,
+      "high_price": 1197.8,
+      "low_price": 1038.05,
       "rank": 19,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1

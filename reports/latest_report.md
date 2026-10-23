@@ -1,89 +1,91 @@
-# NSE F&O Gainers/Losers - 2026-10-23 1517 IST
+# NSE F&O Gainers/Losers - 2026-10-23 1643 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 ETERNAL (+3.99%)
-- #2 SHREECEM (+1.88%)
-- #3 APOLLOHOSP (+1.33%)
-- #4 TCS (+0.75%)
-- #5 ANANDRATHI (+0.54%)
-- #6 MARUTI (+0.54%)
-- #7 ASIANPAINT (+0.45%)
-- #8 ONGC (+0.24%)
-- #9 BOSCHLTD (+0.20%)
-- #10 LUPIN (+0.16%)
+- #1 ETERNAL (+4.25%)
+- #2 SHREECEM (+1.81%)
+- #3 APOLLOHOSP (+1.65%)
+- #4 ONGC (+1.11%)
+- #5 ASIANPAINT (+0.97%)
+- #6 TCS (+0.92%)
+- #7 ULTRACEMCO (+0.84%)
+- #8 ANANDRATHI (+0.54%)
+- #9 MARUTI (+0.54%)
+- #10 CIPLA (+0.53%)
 
-**New entrants this session:** ONGC, LUPIN, TVSMOTOR, RELIANCE, LT
+**New entrants this session:** ULTRACEMCO, CIPLA, PIDILITIND, TATACONSUM
 
 **Fading gainers (dropping ranks):**
-- INFY: rank 7 → 13 (-6)
+- BOSCHLTD: rank 9 → 20 (-11)
+- TVSMOTOR: rank 11 → 17 (-6)
+- INFY: rank 13 → 19 (-6)
+- LUPIN: rank 10 → 15 (-5)
 
-**Consistent top-5 leaders across all snapshots:** ETERNAL, SHREECEM, APOLLOHOSP, TCS
+**Consistent top-5 leaders across all snapshots:** ETERNAL, SHREECEM, APOLLOHOSP
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 SWIGGY (-15.80%)
-- #2 UJJIVANSFB (-6.76%)
-- #3 ADANIENSOL (-5.90%)
-- #4 BANDHANBNK (-5.33%)
-- #5 MOTILALOFS (-5.32%)
-- #6 ABB (-5.31%)
-- #7 NAM-INDIA (-5.15%)
-- #8 DELHIVERY (-5.13%)
-- #9 INOXWIND (-5.09%)
-- #10 COLPAL (-5.04%)
+- #1 SWIGGY (-16.75%)
+- #2 UJJIVANSFB (-6.28%)
+- #3 ADANIENSOL (-5.82%)
+- #4 NAM-INDIA (-5.47%)
+- #5 BANDHANBNK (-5.40%)
+- #6 MOTILALOFS (-5.24%)
+- #7 MANAPPURAM (-5.23%)
+- #8 ADANIGREEN (-5.19%)
+- #9 KFINTECH (-5.15%)
+- #10 DELHIVERY (-5.13%)
 
-**New weak entrants this session:** 360ONE, BLUESTARCO, NMDC, RBLBANK
+**New weak entrants this session:** PNBHOUSING, HINDZINC
 
 **Sharp downside acceleration (worsening rank):**
-- ABB: rank 12 → 6
-- LODHA: rank 17 → 11
-- BANDHANBNK: rank 9 → 4
-- DELHIVERY: rank 13 → 8
+- KFINTECH: rank 15 → 9
+- MANAPPURAM: rank 12 → 7
 
 **Recovering losers (climbing out of bottom ranks):**
-- KFINTECH: rank 6 → 15
-- COLPAL: rank 3 → 10
+- ABB: rank 6 → 12
+- LODHA: rank 11 → 17
 
 **Consistent bottom-5 laggards across all snapshots:** SWIGGY, UJJIVANSFB
 
 ## 🚀 Direct High Rank Entries
-- ONGC: entered directly at rank #8 (Gainer, +0.24%) - no earlier presence
-- LUPIN: entered directly at rank #10 (Gainer, +0.16%) - no earlier presence
+- ULTRACEMCO: entered directly at rank #7 (Gainer, +0.84%) - no earlier presence
+- CIPLA: entered directly at rank #10 (Gainer, +0.53%) - no earlier presence
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- IT: TCS, INFY
-- Auto: MARUTI, TVSMOTOR
+- Cement: SHREECEM, ULTRACEMCO
 - Energy: ONGC, RELIANCE
+- Pharma: CIPLA, LUPIN
 - Tech/Internet: ETERNAL
-- Cement: SHREECEM
 - Healthcare: APOLLOHOSP
-- Other/Unmapped: ANANDRATHI
 - Paints/Chemicals: ASIANPAINT
-- Auto Ancillary: BOSCHLTD
-- Pharma: LUPIN
-- Capital Goods: LT
+- IT: TCS
+- Other/Unmapped: ANANDRATHI
+- Auto: MARUTI
+- Banking: AXISBANK
+- Chemicals: PIDILITIND
+- FMCG: TATACONSUM
 
 **Loser-side sector concentration (top 15):**
-- NBFC/Finance: MOTILALOFS, NAM-INDIA, MANAPPURAM, 360ONE
+- NBFC/Finance: NAM-INDIA, MOTILALOFS, MANAPPURAM, CHOLAFIN
 - Other/Unmapped: UJJIVANSFB, INOXWIND
-- Realty: LODHA, GODREJPROP
+- Adani Group: ADANIENSOL, ADANIGREEN
 - Tech/Internet: SWIGGY
-- Adani Group: ADANIENSOL
 - Banking: BANDHANBNK
-- Capital Goods: ABB
-- Logistics: DELHIVERY
-- FMCG: COLPAL
 - Fintech/Tech: KFINTECH
+- Logistics: DELHIVERY
+- Capital Goods: ABB
+- FMCG: COLPAL
+- Realty: GODREJPROP
 
 ## 🟢 Strongest Bullish Theme
-**IT** leads gainers with 2 names in the top 15: TCS, INFY
+**Cement** leads gainers with 2 names in the top 15: SHREECEM, ULTRACEMCO
 
 ## 🔴 Weakest Bearish Theme
-**NBFC/Finance** leads losers with 4 names in the top 15: MOTILALOFS, NAM-INDIA, MANAPPURAM, 360ONE
+**NBFC/Finance** leads losers with 4 names in the top 15: NAM-INDIA, MOTILALOFS, MANAPPURAM, CHOLAFIN
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in ETERNAL, SHREECEM, APOLLOHOSP; fresh momentum bursts in ONGC, LUPIN; IT sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: sustained strength in ETERNAL, SHREECEM, APOLLOHOSP; fresh momentum bursts in ULTRACEMCO, CIPLA; Cement sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

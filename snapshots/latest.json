@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-23T18:13:20.120650+05:30",
-  "label": "2026-10-23_1813",
+  "captured_at_ist": "2026-10-23T19:35:00.802652+05:30",
+  "label": "2026-10-23_1935",
   "gainers": [
     {
       "symbol": "ETERNAL",
@@ -119,8 +119,8 @@
       "high_price": 11258,
       "low_price": 11000,
       "rank": 8,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ANANDRATHI",
@@ -134,8 +134,8 @@
       "high_price": 2242,
       "low_price": 2214.2,
       "rank": 9,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "CIPLA",
@@ -258,21 +258,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "INFY",
-      "series": "EQ",
-      "ltp": 1153.8,
-      "pct_change": 0.04,
-      "prev_close": 1153.35,
-      "volume": 33044499,
-      "value": 384803.190855,
-      "open_price": 1187,
-      "high_price": 1197.8,
-      "low_price": 1038.05,
-      "rank": 18,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
-    },
-    {
       "symbol": "HCLTECH",
       "series": "EQ",
       "ltp": 1422.2,
@@ -283,6 +268,21 @@
       "open_price": 1450.4,
       "high_price": 1467.5,
       "low_price": 1415,
+      "rank": 18,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "INFY",
+      "series": "EQ",
+      "ltp": 1153.8,
+      "pct_change": 0.04,
+      "prev_close": 1153.35,
+      "volume": 33044499,
+      "value": 384803.190855,
+      "open_price": 1187,
+      "high_price": 1197.8,
+      "low_price": 1038.05,
       "rank": 19,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1
@@ -511,8 +511,8 @@
       "high_price": 1500.3,
       "low_price": 1450,
       "rank": 14,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "GODREJPROP",
@@ -526,8 +526,8 @@
       "high_price": 1574.3,
       "low_price": 1468.4,
       "rank": 15,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "PNBHOUSING",

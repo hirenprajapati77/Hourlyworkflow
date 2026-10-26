@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-26 1551 IST
+# NSE F&O Gainers/Losers - 2026-10-26 1620 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -12,11 +12,6 @@
 - #8 JUBLFOOD (+4.68%)
 - #9 KEI (+4.68%)
 - #10 LAURUSLABS (+4.51%)
-
-**New entrants this session:** GMRAIRPORT, ABB, SHREECEM
-
-**Fading gainers (dropping ranks):**
-- KAYNES: rank 13 → 18 (-5)
 
 **Consistent top-5 leaders across all snapshots:** ATHERENERG, DRREDDY, SWIGGY, ADANIGREEN
 
@@ -32,8 +27,6 @@
 - #8 GODREJCP (-2.71%)
 - #9 360ONE (-2.22%)
 - #10 UPL (-2.15%)
-
-**New weak entrants this session:** ICICILIFE
 
 **Consistent bottom-5 laggards across all snapshots:** AUBANK, UJJIVANSFB, SHRIRAMFIN, SUPREMEIND, BANKINDIA
 
@@ -55,7 +48,7 @@
 - Auto Ancillary: SONACOMS
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: UJJIVANSFB, SUPREMEIND, BANKINDIA, ICICILIFE, ASHOKLEY, AMBER
+- Other/Unmapped: UJJIVANSFB, SUPREMEIND, BANKINDIA, ASHOKLEY, ICICILIFE, AMBER
 - NBFC/Finance: SHRIRAMFIN, 360ONE
 - FMCG: TATACONSUM, GODREJCP
 - Banking: AUBANK

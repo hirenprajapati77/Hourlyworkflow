@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-26T16:20:35.822860+05:30",
-  "label": "2026-10-26_1620",
+  "captured_at_ist": "2026-10-26T17:59:19.725605+05:30",
+  "label": "2026-10-26_1759",
   "gainers": [
     {
       "symbol": "ATHERENERG",
@@ -466,8 +466,8 @@
       "high_price": 144.9,
       "low_price": 140.01,
       "rank": 11,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ICICILIFE",
@@ -481,8 +481,8 @@
       "high_price": 422.9,
       "low_price": 413.35,
       "rank": 12,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HAVELLS",

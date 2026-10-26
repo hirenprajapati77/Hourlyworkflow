@@ -1,69 +1,76 @@
-# NSE F&O Gainers/Losers - 2026-10-26 1527 IST
+# NSE F&O Gainers/Losers - 2026-10-26 1551 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 ATHERENERG (+13.96%)
-- #2 DRREDDY (+6.82%)
-- #3 SWIGGY (+5.54%)
-- #4 ADANIGREEN (+5.06%)
-- #5 COFORGE (+4.86%)
-- #6 JSWSTEEL (+4.85%)
-- #7 KEI (+4.70%)
-- #8 JUBLFOOD (+4.69%)
-- #9 IDEA (+4.58%)
-- #10 MANKIND (+4.49%)
+- #1 ATHERENERG (+14.13%)
+- #2 DRREDDY (+6.62%)
+- #3 JSWSTEEL (+6.28%)
+- #4 SWIGGY (+5.54%)
+- #5 ADANIGREEN (+5.48%)
+- #6 IDEA (+5.19%)
+- #7 COFORGE (+4.87%)
+- #8 JUBLFOOD (+4.68%)
+- #9 KEI (+4.68%)
+- #10 LAURUSLABS (+4.51%)
 
-*Initial session baseline captured.*
+**New entrants this session:** GMRAIRPORT, ABB, SHREECEM
+
+**Fading gainers (dropping ranks):**
+- KAYNES: rank 13 → 18 (-5)
+
+**Consistent top-5 leaders across all snapshots:** ATHERENERG, DRREDDY, SWIGGY, ADANIGREEN
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 AUBANK (-7.06%)
-- #2 UJJIVANSFB (-5.51%)
-- #3 SHRIRAMFIN (-4.80%)
-- #4 SUPREMEIND (-4.08%)
-- #5 BANKINDIA (-3.58%)
-- #6 TATAPOWER (-3.17%)
-- #7 TATACONSUM (-3.00%)
-- #8 UPL (-2.40%)
-- #9 GODREJCP (-2.38%)
-- #10 OBEROIRLTY (-2.33%)
+- #1 AUBANK (-6.85%)
+- #2 UJJIVANSFB (-5.34%)
+- #3 SHRIRAMFIN (-4.62%)
+- #4 SUPREMEIND (-4.13%)
+- #5 BANKINDIA (-3.57%)
+- #6 TATACONSUM (-2.84%)
+- #7 TATAPOWER (-2.76%)
+- #8 GODREJCP (-2.71%)
+- #9 360ONE (-2.22%)
+- #10 UPL (-2.15%)
 
-*Initial session baseline captured.*
+**New weak entrants this session:** ICICILIFE
+
+**Consistent bottom-5 laggards across all snapshots:** AUBANK, UJJIVANSFB, SHRIRAMFIN, SUPREMEIND, BANKINDIA
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: ATHERENERG, JUBLFOOD, MANKIND, LAURUSLABS
-- Capital Goods: KEI, KAYNES, POLYCAB
+- Other/Unmapped: ATHERENERG, JUBLFOOD, LAURUSLABS, MANKIND
+- Capital Goods: KEI, POLYCAB
 - Pharma: DRREDDY
+- Metal: JSWSTEEL
 - Tech/Internet: SWIGGY
 - Adani Group: ADANIGREEN
-- IT: COFORGE
-- Metal: JSWSTEEL
 - Telecom: IDEA
+- IT: COFORGE
+- Infrastructure: GMRAIRPORT
 - Exchanges/Finance: BSE
-- Fintech/Tech: KFINTECH
+- Auto Ancillary: SONACOMS
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: UJJIVANSFB, SUPREMEIND, BANKINDIA, ASHOKLEY, WAAREEENER
+- Other/Unmapped: UJJIVANSFB, SUPREMEIND, BANKINDIA, ICICILIFE, ASHOKLEY, AMBER
 - NBFC/Finance: SHRIRAMFIN, 360ONE
 - FMCG: TATACONSUM, GODREJCP
 - Banking: AUBANK
 - Power: TATAPOWER
 - Chemicals: UPL
-- Realty: OBEROIRLTY
 - Consumer Durables: HAVELLS
-- IT: LTM
+- Realty: OBEROIRLTY
 
 ## 🟢 Strongest Bullish Theme
-**Capital Goods** leads gainers with 3 names in the top 15: KEI, KAYNES, POLYCAB
+**Capital Goods** leads gainers with 2 names in the top 15: KEI, POLYCAB
 
 ## 🔴 Weakest Bearish Theme
 **NBFC/Finance** leads losers with 2 names in the top 15: SHRIRAMFIN, 360ONE
 
 ## 📊 Final Market Conclusion
-Session theme: Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: sustained strength in ATHERENERG, DRREDDY, SWIGGY; Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

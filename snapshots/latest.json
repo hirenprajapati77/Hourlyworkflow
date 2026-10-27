@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-27T17:17:52.791994+05:30",
-  "label": "2026-10-27_1717",
+  "captured_at_ist": "2026-10-27T18:57:02.390997+05:30",
+  "label": "2026-10-27_1857",
   "gainers": [
     {
       "symbol": "SONACOMS",
@@ -436,8 +436,8 @@
       "high_price": 2353.4,
       "low_price": 2259,
       "rank": 9,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "SBICARD",
@@ -451,8 +451,8 @@
       "high_price": 540.4,
       "low_price": 526.75,
       "rank": 10,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "PIDILITIND",

@@ -1,68 +1,69 @@
-# NSE F&O Gainers/Losers - 2026-10-27 2111 IST
+# NSE F&O Gainers/Losers - 2026-10-28 1558 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 SONACOMS (+8.95%)
-- #2 MANKIND (+8.24%)
-- #3 TATACONSUM (+6.78%)
-- #4 APLAPOLLO (+6.55%)
-- #5 ATHERENERG (+6.29%)
-- #6 POWERINDIA (+5.75%)
-- #7 PGEL (+5.38%)
-- #8 MAHABANK (+5.10%)
-- #9 DIVISLAB (+5.03%)
-- #10 GVT&D (+5.01%)
+- #1 PGEL (+7.16%)
+- #2 VOLTAS (+6.94%)
+- #3 PATANJALI (+6.22%)
+- #4 BIOCON (+5.49%)
+- #5 CHOLAFIN (+5.19%)
+- #6 NATIONALUM (+4.96%)
+- #7 BLUESTARCO (+4.72%)
+- #8 BOSCHLTD (+4.44%)
+- #9 APOLLOHOSP (+4.43%)
+- #10 CROMPTON (+3.95%)
 
-**Consistent top-5 leaders across all snapshots:** SONACOMS, MANKIND, APLAPOLLO, ATHERENERG
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 MAZDOCK (-6.45%)
-- #2 AMBUJACEM (-5.22%)
-- #3 RECLTD (-3.92%)
-- #4 PAYTM (-3.21%)
-- #5 AUBANK (-2.42%)
-- #6 BDL (-2.24%)
-- #7 IREDA (-2.13%)
-- #8 ASIANPAINT (-1.94%)
-- #9 WAAREEENER (-1.90%)
-- #10 SBICARD (-1.90%)
+- #1 KAYNES (-6.28%)
+- #2 SAIL (-5.37%)
+- #3 PIDILITIND (-4.17%)
+- #4 MPHASIS (-3.83%)
+- #5 PETRONET (-3.75%)
+- #6 RADICO (-3.61%)
+- #7 INFY (-3.43%)
+- #8 UNITDSPR (-3.35%)
+- #9 DATAPATTNS (-3.26%)
+- #10 INDUSTOWER (-3.19%)
 
-**Consistent bottom-5 laggards across all snapshots:** MAZDOCK, AMBUJACEM, RECLTD, PAYTM
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: MANKIND, APLAPOLLO, ATHERENERG, PGEL, MAHABANK, BANKINDIA, JSWENERGY
-- Capital Goods: POWERINDIA, GVT&D
-- Auto Ancillary: SONACOMS
-- FMCG: TATACONSUM
-- Pharma: DIVISLAB
-- Fintech/Tech: KFINTECH
-- Auto: FORCEMOT
-- Chemicals: UPL
+- Other/Unmapped: PGEL, PATANJALI, BLUESTARCO, KPITTECH
+- Consumer Durables: VOLTAS, CROMPTON
+- NBFC/Finance: CHOLAFIN, PNBHOUSING
+- Pharma: BIOCON
+- Metal: NATIONALUM
+- Auto Ancillary: BOSCHLTD
+- Healthcare: APOLLOHOSP
+- Auto: TVSMOTOR
+- Capital Goods: LT
+- Banking: AUBANK
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: MAZDOCK, IREDA, WAAREEENER, GRASIM
-- NBFC/Finance: RECLTD, SBICARD
-- Banking: AUBANK, SBIN
-- Cement: AMBUJACEM
-- Fintech/Tech: PAYTM
-- Defense: BDL
-- Paints/Chemicals: ASIANPAINT
+- Energy: PETRONET, RELIANCE, BPCL
+- Other/Unmapped: UNITDSPR, DATAPATTNS, PAGEIND
+- IT: MPHASIS, INFY
+- FMCG: RADICO, VBL
+- Capital Goods: KAYNES
+- Metal: SAIL
 - Chemicals: PIDILITIND
-- Mining: COALINDIA
-- Energy: GAIL
+- Telecom: INDUSTOWER
+- Tech/Internet: SWIGGY
 
 ## 🟢 Strongest Bullish Theme
-**Capital Goods** leads gainers with 2 names in the top 15: POWERINDIA, GVT&D
+**Consumer Durables** leads gainers with 2 names in the top 15: VOLTAS, CROMPTON
 
 ## 🔴 Weakest Bearish Theme
-**NBFC/Finance** leads losers with 2 names in the top 15: RECLTD, SBICARD
+**Energy** leads losers with 3 names in the top 15: PETRONET, RELIANCE, BPCL
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in SONACOMS, MANKIND, APLAPOLLO; Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: Consumer Durables sector rotation on the buy side; pressure building in Energy.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

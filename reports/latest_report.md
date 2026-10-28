@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-28 1558 IST
+# NSE F&O Gainers/Losers - 2026-10-28 1612 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 APOLLOHOSP (+4.43%)
 - #10 CROMPTON (+3.95%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** PGEL, VOLTAS, PATANJALI, BIOCON, CHOLAFIN
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 DATAPATTNS (-3.26%)
 - #10 INDUSTOWER (-3.19%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** KAYNES, SAIL, PIDILITIND, MPHASIS, PETRONET
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -64,6 +64,6 @@
 **Energy** leads losers with 3 names in the top 15: PETRONET, RELIANCE, BPCL
 
 ## 📊 Final Market Conclusion
-Session theme: Consumer Durables sector rotation on the buy side; pressure building in Energy.
+Session theme: sustained strength in PGEL, VOLTAS, PATANJALI; Consumer Durables sector rotation on the buy side; pressure building in Energy.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

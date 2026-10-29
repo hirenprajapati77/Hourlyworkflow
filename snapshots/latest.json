@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-29T18:01:09.394938+05:30",
-  "label": "2026-10-29_1801",
+  "captured_at_ist": "2026-10-29T20:02:55.677294+05:30",
+  "label": "2026-10-29_2002",
   "gainers": [
     {
       "symbol": "SYRMA",
@@ -153,21 +153,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "MARICO",
-      "series": "EQ",
-      "ltp": 802.9,
-      "pct_change": 4.32,
-      "prev_close": 769.65,
-      "volume": 3393736,
-      "value": 26857.347956799997,
-      "open_price": 769,
-      "high_price": 804.75,
-      "low_price": 764.7,
-      "rank": 11,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "KOTAKBANK",
       "series": "EQ",
       "ltp": 459,
@@ -178,9 +163,24 @@
       "open_price": 441.8,
       "high_price": 460.2,
       "low_price": 439.25,
+      "rank": 11,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "MARICO",
+      "series": "EQ",
+      "ltp": 802.9,
+      "pct_change": 4.32,
+      "prev_close": 769.65,
+      "volume": 3393736,
+      "value": 26857.347956799997,
+      "open_price": 769,
+      "high_price": 804.75,
+      "low_price": 764.7,
       "rank": 12,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "DLF",
@@ -455,21 +455,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "SAGILITY",
-      "series": "EQ",
-      "ltp": 44.66,
-      "pct_change": -1.39,
-      "prev_close": 45.29,
-      "volume": 12535710,
-      "value": 5628.53379,
-      "open_price": 45.4,
-      "high_price": 45.67,
-      "low_price": 44.5,
-      "rank": 11,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "FORCEMOT",
       "series": "EQ",
       "ltp": 16856,
@@ -480,9 +465,24 @@
       "open_price": 16860,
       "high_price": 17390,
       "low_price": 16779,
+      "rank": 11,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "SAGILITY",
+      "series": "EQ",
+      "ltp": 44.66,
+      "pct_change": -1.39,
+      "prev_close": 45.29,
+      "volume": 12535710,
+      "value": 5628.53379,
+      "open_price": 45.4,
+      "high_price": 45.67,
+      "low_price": 44.5,
       "rank": 12,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "SUZLON",

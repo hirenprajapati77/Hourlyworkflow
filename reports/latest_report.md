@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-29 1617 IST
+# NSE F&O Gainers/Losers - 2026-10-29 1630 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 MANAPPURAM (+4.62%)
 - #10 MUTHOOTFIN (+4.36%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** SYRMA, ADANIPORTS, JSWENERGY, CUB, ADANIENSOL
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 NAUKRI (-1.43%)
 - #10 HINDPETRO (-1.40%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** HEROMOTOCO, NAVINFLUOR, GMRAIRPORT, CUMMINSIND, CROMPTON
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -60,6 +60,6 @@
 **Auto** leads losers with 3 names in the top 15: HEROMOTOCO, FORCEMOT, MARUTI
 
 ## 📊 Final Market Conclusion
-Session theme: Adani Group sector rotation on the buy side; pressure building in Auto.
+Session theme: sustained strength in SYRMA, ADANIPORTS, JSWENERGY; Adani Group sector rotation on the buy side; pressure building in Auto.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

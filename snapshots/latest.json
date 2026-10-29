@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-10-29T20:02:55.677294+05:30",
-  "label": "2026-10-29_2002",
+  "captured_at_ist": "2026-10-29T21:22:42.151393+05:30",
+  "label": "2026-10-29_2122",
   "gainers": [
     {
       "symbol": "SYRMA",
@@ -164,8 +164,8 @@
       "high_price": 460.2,
       "low_price": 439.25,
       "rank": 11,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "MARICO",
@@ -179,8 +179,8 @@
       "high_price": 804.75,
       "low_price": 764.7,
       "rank": 12,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "DLF",
@@ -466,8 +466,8 @@
       "high_price": 17390,
       "low_price": 16779,
       "rank": 11,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "SAGILITY",
@@ -481,8 +481,8 @@
       "high_price": 45.67,
       "low_price": 44.5,
       "rank": 12,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "SUZLON",

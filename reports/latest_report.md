@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-10-30 1617 IST
+# NSE F&O Gainers/Losers - 2026-10-30 1627 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 UNITDSPR (+3.43%)
 - #10 LTM (+3.39%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** LAURUSLABS, ATHERENERG, TRENT, ZYDUSLIFE, NAVINFLUOR
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 UJJIVANSFB (-5.42%)
 - #10 UPL (-5.28%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** SUZLON, INOXWIND, CAMS, AMBER, CUB
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -58,6 +58,6 @@
 **NBFC/Finance** leads losers with 3 names in the top 15: PNBHOUSING, MOTILALOFS, MANAPPURAM
 
 ## 📊 Final Market Conclusion
-Session theme: IT sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: sustained strength in LAURUSLABS, ATHERENERG, TRENT; IT sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

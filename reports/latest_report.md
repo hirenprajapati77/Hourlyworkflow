@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-02 1845 IST
+# NSE F&O Gainers/Losers - 2026-11-02 2034 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -45,7 +45,7 @@
 - Mining: COALINDIA
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: SYRMA, KARURVYSYA, NAVINFLUOR, MAHABANK, LAURUSLABS, BLUESTARCO, MFSL, CUB, CDSL
+- Other/Unmapped: SYRMA, KARURVYSYA, NAVINFLUOR, MAHABANK, LAURUSLABS, BLUESTARCO, MFSL, CUB, FORTIS
 - IT: OFSS, INFY, WIPRO
 - Fintech/Insurance: POLICYBZR
 - Realty: LODHA

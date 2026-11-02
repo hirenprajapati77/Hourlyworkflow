@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-02T18:45:16.497519+05:30",
-  "label": "2026-11-02_1845",
+  "captured_at_ist": "2026-11-02T20:34:32.608102+05:30",
+  "label": "2026-11-02_2034",
   "gainers": [
     {
       "symbol": "DIXON",
@@ -515,21 +515,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "CDSL",
-      "series": "EQ",
-      "ltp": 1252,
-      "pct_change": -0.87,
-      "prev_close": 1263,
-      "volume": "26.77 L",
-      "value": "339.71 Cr",
-      "open_price": 1268,
-      "high_price": 1302.9,
-      "low_price": 1240.8,
-      "rank": 15,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "FORTIS",
       "series": "EQ",
       "ltp": 761.5,
@@ -540,9 +525,24 @@
       "open_price": 768.15,
       "high_price": 772.65,
       "low_price": 754.65,
+      "rank": 15,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "CDSL",
+      "series": "EQ",
+      "ltp": 1252,
+      "pct_change": -0.87,
+      "prev_close": 1263,
+      "volume": "26.77 L",
+      "value": "339.71 Cr",
+      "open_price": 1268,
+      "high_price": 1302.9,
+      "low_price": 1240.8,
       "rank": 16,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "ICICIBANK",

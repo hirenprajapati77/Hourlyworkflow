@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-02T18:13:51.858961+05:30",
-  "label": "2026-11-02_1813",
+  "captured_at_ist": "2026-11-02T18:45:16.497519+05:30",
+  "label": "2026-11-02_1845",
   "gainers": [
     {
       "symbol": "DIXON",
@@ -526,8 +526,8 @@
       "high_price": 1302.9,
       "low_price": 1240.8,
       "rank": 15,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "FORTIS",
@@ -541,8 +541,8 @@
       "high_price": 772.65,
       "low_price": 754.65,
       "rank": 16,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ICICIBANK",

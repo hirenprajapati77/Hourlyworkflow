@@ -1,63 +1,63 @@
-# NSE F&O Gainers/Losers - 2026-10-30 2201 IST
+# NSE F&O Gainers/Losers - 2026-11-02 1741 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 LAURUSLABS (+7.20%)
-- #2 ATHERENERG (+5.59%)
-- #3 TRENT (+5.44%)
-- #4 ZYDUSLIFE (+5.16%)
-- #5 NAVINFLUOR (+5.08%)
-- #6 INDIGO (+4.33%)
-- #7 WIPRO (+4.32%)
-- #8 COFORGE (+4.23%)
-- #9 UNITDSPR (+3.43%)
-- #10 LTM (+3.39%)
+- #1 DIXON (+11.99%)
+- #2 RELIANCE (+11.60%)
+- #3 NBCC (+9.29%)
+- #4 INOXWIND (+8.30%)
+- #5 IEX (+6.56%)
+- #6 AMBER (+6.10%)
+- #7 DELHIVERY (+5.89%)
+- #8 TATASTEEL (+5.83%)
+- #9 NAM-INDIA (+5.83%)
+- #10 UJJIVANSFB (+5.76%)
 
-**Consistent top-5 leaders across all snapshots:** LAURUSLABS, ATHERENERG, TRENT, ZYDUSLIFE, NAVINFLUOR
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 SUZLON (-7.86%)
-- #2 INOXWIND (-6.73%)
-- #3 CAMS (-6.22%)
-- #4 AMBER (-5.93%)
-- #5 CUB (-5.60%)
-- #6 DATAPATTNS (-5.51%)
-- #7 VBL (-5.50%)
-- #8 SAGILITY (-5.46%)
-- #9 UJJIVANSFB (-5.42%)
-- #10 UPL (-5.28%)
+- #1 SYRMA (-6.97%)
+- #2 POLICYBZR (-6.91%)
+- #3 LODHA (-3.30%)
+- #4 KARURVYSYA (-3.26%)
+- #5 NAVINFLUOR (-3.16%)
+- #6 MAHABANK (-2.91%)
+- #7 OFSS (-2.51%)
+- #8 LAURUSLABS (-2.39%)
+- #9 BLUESTARCO (-2.08%)
+- #10 INFY (-2.03%)
 
-**Consistent bottom-5 laggards across all snapshots:** SUZLON, INOXWIND, CAMS, AMBER, CUB
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: LAURUSLABS, ATHERENERG, ZYDUSLIFE, NAVINFLUOR, UNITDSPR
-- IT: WIPRO, COFORGE, LTM, INFY, PERSISTENT
-- Retail: TRENT
-- Aviation: INDIGO
-- NBFC/Finance: ABCAPITAL
-- Healthcare: APOLLOHOSP
-- Auto: FORCEMOT
+- Other/Unmapped: NBCC, INOXWIND, IEX, AMBER, UJJIVANSFB
+- Energy: RELIANCE, GAIL
+- Metal: TATASTEEL, JSWSTEEL
+- NBFC/Finance: NAM-INDIA, SHRIRAMFIN
+- Consumer Durables: DIXON
+- Logistics: DELHIVERY
+- FMCG: VMM
+- Mining: COALINDIA
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: SUZLON, INOXWIND, CAMS, AMBER, CUB, DATAPATTNS, SAGILITY, UJJIVANSFB
-- NBFC/Finance: PNBHOUSING, MOTILALOFS, MANAPPURAM
-- FMCG: VBL
-- Chemicals: UPL
-- Tech/Internet: SWIGGY
-- Banking: BANDHANBNK
+- Other/Unmapped: SYRMA, KARURVYSYA, NAVINFLUOR, MAHABANK, LAURUSLABS, BLUESTARCO, MFSL, CUB, FORTIS
+- IT: OFSS, INFY, WIPRO
+- Fintech/Insurance: POLICYBZR
+- Realty: LODHA
+- Insurance: ICICIGI
 
 ## 🟢 Strongest Bullish Theme
-**IT** leads gainers with 5 names in the top 15: WIPRO, COFORGE, LTM, INFY, PERSISTENT
+**Energy** leads gainers with 2 names in the top 15: RELIANCE, GAIL
 
 ## 🔴 Weakest Bearish Theme
-**NBFC/Finance** leads losers with 3 names in the top 15: PNBHOUSING, MOTILALOFS, MANAPPURAM
+**IT** leads losers with 3 names in the top 15: OFSS, INFY, WIPRO
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in LAURUSLABS, ATHERENERG, TRENT; IT sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: Energy sector rotation on the buy side; pressure building in IT.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-02 1741 IST
+# NSE F&O Gainers/Losers - 2026-11-02 1813 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 NAM-INDIA (+5.83%)
 - #10 UJJIVANSFB (+5.76%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** DIXON, RELIANCE, NBCC, INOXWIND, IEX
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 BLUESTARCO (-2.08%)
 - #10 INFY (-2.03%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** SYRMA, POLICYBZR, LODHA, KARURVYSYA, NAVINFLUOR
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -45,7 +45,7 @@
 - Mining: COALINDIA
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: SYRMA, KARURVYSYA, NAVINFLUOR, MAHABANK, LAURUSLABS, BLUESTARCO, MFSL, CUB, FORTIS
+- Other/Unmapped: SYRMA, KARURVYSYA, NAVINFLUOR, MAHABANK, LAURUSLABS, BLUESTARCO, MFSL, CUB, CDSL
 - IT: OFSS, INFY, WIPRO
 - Fintech/Insurance: POLICYBZR
 - Realty: LODHA
@@ -58,6 +58,6 @@
 **IT** leads losers with 3 names in the top 15: OFSS, INFY, WIPRO
 
 ## 📊 Final Market Conclusion
-Session theme: Energy sector rotation on the buy side; pressure building in IT.
+Session theme: sustained strength in DIXON, RELIANCE, NBCC; Energy sector rotation on the buy side; pressure building in IT.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-03 1740 IST
+# NSE F&O Gainers/Losers - 2026-11-03 1810 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -42,7 +42,7 @@
 
 **Loser-side sector concentration (top 15):**
 - Other/Unmapped: ENRIN, KARURVYSYA, KPITTECH, INDIANB, TATAELXSI, CUB
-- Banking: PNB, SBIN, UNIONBANK
+- Banking: SBIN, PNB, UNIONBANK
 - Capital Goods: GVT&D, POWERINDIA
 - Pharma: BIOCON
 - Metal: NATIONALUM
@@ -53,7 +53,7 @@
 **FMCG** leads gainers with 4 names in the top 15: MARICO, BRITANNIA, NESTLEIND, TATACONSUM
 
 ## 🔴 Weakest Bearish Theme
-**Banking** leads losers with 3 names in the top 15: PNB, SBIN, UNIONBANK
+**Banking** leads losers with 3 names in the top 15: SBIN, PNB, UNIONBANK
 
 ## 📊 Final Market Conclusion
 Session theme: FMCG sector rotation on the buy side; pressure building in Banking.

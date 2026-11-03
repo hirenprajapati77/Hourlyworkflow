@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-03T17:40:08.087304+05:30",
-  "label": "2026-11-03_1740",
+  "captured_at_ist": "2026-11-03T18:10:25.990202+05:30",
+  "label": "2026-11-03_1810",
   "gainers": [
     {
       "symbol": "MARICO",
@@ -470,21 +470,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "PNB",
-      "series": "EQ",
-      "ltp": 120.97,
-      "pct_change": -1.7,
-      "prev_close": 123.06,
-      "volume": "190.95 L",
-      "value": "232.26 Cr",
-      "open_price": 123.49,
-      "high_price": 123.7,
-      "low_price": 120.17,
-      "rank": 12,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "SBIN",
       "series": "EQ",
       "ltp": 970.25,
@@ -495,9 +480,24 @@
       "open_price": 992.7,
       "high_price": 1006.55,
       "low_price": 961.2,
+      "rank": 12,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "PNB",
+      "series": "EQ",
+      "ltp": 120.97,
+      "pct_change": -1.7,
+      "prev_close": 123.06,
+      "volume": "190.95 L",
+      "value": "232.26 Cr",
+      "open_price": 123.49,
+      "high_price": 123.7,
+      "low_price": 120.17,
       "rank": 13,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "CUB",

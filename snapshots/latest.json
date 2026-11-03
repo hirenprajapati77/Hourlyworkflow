@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-03T18:10:25.990202+05:30",
-  "label": "2026-11-03_1810",
+  "captured_at_ist": "2026-11-03T19:19:39.656093+05:30",
+  "label": "2026-11-03_1919",
   "gainers": [
     {
       "symbol": "MARICO",
@@ -481,8 +481,8 @@
       "high_price": 1006.55,
       "low_price": 961.2,
       "rank": 12,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "PNB",
@@ -496,8 +496,8 @@
       "high_price": 123.7,
       "low_price": 120.17,
       "rank": 13,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "CUB",

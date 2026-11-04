@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-04 1728 IST
+# NSE F&O Gainers/Losers - 2026-11-04 1753 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 MFSL (+5.00%)
 - #10 SUZLON (+4.76%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** MUTHOOTFIN, INOXWIND, POWERINDIA, UNOMINDA, BHEL
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 ETERNAL (-1.42%)
 - #10 SOLARINDS (-1.33%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** MCX, ZYDUSLIFE, MPHASIS, TCS, HCLTECH
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -60,6 +60,6 @@
 **IT** leads losers with 5 names in the top 15: MPHASIS, TCS, HCLTECH, WIPRO, INFY
 
 ## 📊 Final Market Conclusion
-Session theme: Capital Goods sector rotation on the buy side; pressure building in IT.
+Session theme: sustained strength in MUTHOOTFIN, INOXWIND, POWERINDIA; Capital Goods sector rotation on the buy side; pressure building in IT.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

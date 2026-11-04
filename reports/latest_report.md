@@ -1,61 +1,65 @@
-# NSE F&O Gainers/Losers - 2026-11-03 2259 IST
+# NSE F&O Gainers/Losers - 2026-11-04 1728 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 MARICO (+10.00%)
-- #2 MCX (+7.42%)
-- #3 ANGELONE (+7.03%)
-- #4 BRITANNIA (+6.36%)
-- #5 LODHA (+5.78%)
-- #6 CDSL (+5.43%)
-- #7 360ONE (+5.34%)
-- #8 BSE (+5.03%)
-- #9 MOTILALOFS (+4.73%)
-- #10 NESTLEIND (+4.47%)
+- #1 MUTHOOTFIN (+7.18%)
+- #2 INOXWIND (+6.87%)
+- #3 POWERINDIA (+6.67%)
+- #4 UNOMINDA (+6.44%)
+- #5 BHEL (+5.96%)
+- #6 LODHA (+5.77%)
+- #7 BDL (+5.70%)
+- #8 GVT&D (+5.31%)
+- #9 MFSL (+5.00%)
+- #10 SUZLON (+4.76%)
+
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 BIOCON (-3.30%)
-- #2 NATIONALUM (-3.19%)
-- #3 ENRIN (-3.16%)
-- #4 POWERGRID (-3.04%)
-- #5 GVT&D (-3.01%)
-- #6 POWERINDIA (-2.85%)
-- #7 KARURVYSYA (-2.44%)
-- #8 KPITTECH (-2.28%)
-- #9 COFORGE (-1.82%)
-- #10 INDIANB (-1.80%)
+- #1 MCX (-5.02%)
+- #2 ZYDUSLIFE (-4.23%)
+- #3 MPHASIS (-2.64%)
+- #4 TCS (-2.52%)
+- #5 HCLTECH (-2.37%)
+- #6 BSE (-1.75%)
+- #7 WIPRO (-1.74%)
+- #8 INFY (-1.73%)
+- #9 ETERNAL (-1.42%)
+- #10 SOLARINDS (-1.33%)
+
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- FMCG: MARICO, BRITANNIA, NESTLEIND, TATACONSUM
-- NBFC/Finance: ANGELONE, 360ONE, MOTILALOFS
-- Exchanges/Finance: MCX, BSE
-- Other/Unmapped: CDSL, COROMANDEL
+- Other/Unmapped: INOXWIND, MFSL, SUZLON
+- Capital Goods: POWERINDIA, BHEL, GVT&D
+- NBFC/Finance: MUTHOOTFIN, LTF
+- Defense: BDL, BEL
+- Auto Ancillary: UNOMINDA
 - Realty: LODHA
-- Fintech/Tech: PAYTM
-- Retail: DMART
-- Paints/Chemicals: ASIANPAINT
+- Metal: HINDZINC
+- Adani Group: ADANIENT
+- Infrastructure: GMRAIRPORT
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: ENRIN, KARURVYSYA, KPITTECH, INDIANB, TATAELXSI, CUB
-- Banking: SBIN, PNB, UNIONBANK
-- Capital Goods: GVT&D, POWERINDIA
-- Pharma: BIOCON
-- Metal: NATIONALUM
-- Power: POWERGRID
-- IT: COFORGE
+- IT: MPHASIS, TCS, HCLTECH, WIPRO, INFY
+- Other/Unmapped: ZYDUSLIFE, MAHABANK, NHPC, BLUESTARCO
+- Exchanges/Finance: MCX, BSE
+- Tech/Internet: ETERNAL, NAUKRI
+- Defense: SOLARINDS
+- Banking: KOTAKBANK
 
 ## 🟢 Strongest Bullish Theme
-**FMCG** leads gainers with 4 names in the top 15: MARICO, BRITANNIA, NESTLEIND, TATACONSUM
+**Capital Goods** leads gainers with 3 names in the top 15: POWERINDIA, BHEL, GVT&D
 
 ## 🔴 Weakest Bearish Theme
-**Banking** leads losers with 3 names in the top 15: SBIN, PNB, UNIONBANK
+**IT** leads losers with 5 names in the top 15: MPHASIS, TCS, HCLTECH, WIPRO, INFY
 
 ## 📊 Final Market Conclusion
-Session theme: FMCG sector rotation on the buy side; pressure building in Banking.
+Session theme: Capital Goods sector rotation on the buy side; pressure building in IT.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

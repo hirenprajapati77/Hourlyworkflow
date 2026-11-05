@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-05 2301 IST
+# NSE F&O Gainers/Losers - 2026-11-05 2319 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**

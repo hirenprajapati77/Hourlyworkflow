@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-05 1733 IST
+# NSE F&O Gainers/Losers - 2026-11-05 1807 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 CHOLAFIN (+6.15%)
 - #10 SHRIRAMFIN (+6.08%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** UNOMINDA, ASHOKLEY, MOTILALOFS, BAJFINANCE, PATANJALI
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 POWERINDIA (-3.09%)
 - #10 DATAPATTNS (-2.90%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** PIIND, CUMMINSIND, SOLARINDS, OIL, CGPOWER
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -60,6 +60,6 @@
 **Capital Goods** leads losers with 4 names in the top 15: CUMMINSIND, CGPOWER, POWERINDIA, GVT&D
 
 ## 📊 Final Market Conclusion
-Session theme: NBFC/Finance sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in UNOMINDA, ASHOKLEY, MOTILALOFS; NBFC/Finance sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

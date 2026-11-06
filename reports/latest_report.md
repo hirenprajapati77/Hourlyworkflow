@@ -1,65 +1,65 @@
-# NSE F&O Gainers/Losers - 2026-11-05 2319 IST
+# NSE F&O Gainers/Losers - 2026-11-06 1727 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 UNOMINDA (+11.54%)
-- #2 ASHOKLEY (+10.50%)
-- #3 MOTILALOFS (+8.09%)
-- #4 BAJFINANCE (+7.65%)
-- #5 PATANJALI (+6.98%)
-- #6 MAHABANK (+6.90%)
-- #7 NAM-INDIA (+6.88%)
-- #8 360ONE (+6.76%)
-- #9 CHOLAFIN (+6.15%)
-- #10 SHRIRAMFIN (+6.08%)
+- #1 YESBANK (+5.91%)
+- #2 HAVELLS (+5.61%)
+- #3 KALYANKJIL (+5.49%)
+- #4 M&M (+5.11%)
+- #5 MCX (+4.81%)
+- #6 ICICIBANK (+4.75%)
+- #7 CROMPTON (+4.42%)
+- #8 GLENMARK (+4.36%)
+- #9 HDFCLIFE (+3.95%)
+- #10 SIEMENS (+3.73%)
 
-**Consistent top-5 leaders across all snapshots:** UNOMINDA, ASHOKLEY, MOTILALOFS, BAJFINANCE, PATANJALI
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 PIIND (-19.07%)
-- #2 CUMMINSIND (-14.11%)
-- #3 SOLARINDS (-4.50%)
-- #4 OIL (-3.98%)
-- #5 CGPOWER (-3.88%)
-- #6 ENRIN (-3.51%)
-- #7 ATHERENERG (-3.34%)
-- #8 BHARATFORG (-3.30%)
-- #9 POWERINDIA (-3.09%)
-- #10 DATAPATTNS (-2.90%)
+- #1 ASTRAL (-9.68%)
+- #2 FORTIS (-6.45%)
+- #3 TIINDIA (-5.65%)
+- #4 MOTHERSON (-5.63%)
+- #5 DATAPATTNS (-4.85%)
+- #6 CGPOWER (-4.43%)
+- #7 SUPREMEIND (-4.07%)
+- #8 COROMANDEL (-4.00%)
+- #9 BRITANNIA (-3.92%)
+- #10 SYRMA (-3.68%)
 
-**Consistent bottom-5 laggards across all snapshots:** PIIND, CUMMINSIND, SOLARINDS, OIL, CGPOWER
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- NBFC/Finance: MOTILALOFS, BAJFINANCE, NAM-INDIA, 360ONE, CHOLAFIN, SHRIRAMFIN, SBICARD, LTF
-- Other/Unmapped: ASHOKLEY, PATANJALI, MAHABANK, KALYANKJIL
-- Auto Ancillary: UNOMINDA
-- Tech/Internet: SWIGGY
-- Auto: M&M
+- Consumer Durables: HAVELLS, CROMPTON, TITAN
+- Banking: ICICIBANK, HDFCBANK, AXISBANK
+- Other/Unmapped: YESBANK, KALYANKJIL
+- Auto: M&M, FORCEMOT
+- Exchanges/Finance: MCX
+- Pharma: GLENMARK
+- Insurance: HDFCLIFE
+- Capital Goods: SIEMENS
+- Power: NTPC
 
 **Loser-side sector concentration (top 15):**
-- Capital Goods: CUMMINSIND, CGPOWER, POWERINDIA, GVT&D
-- Other/Unmapped: ENRIN, ATHERENERG, DATAPATTNS
-- Chemicals: PIIND
-- Defense: SOLARINDS
-- Energy: OIL
-- Auto Ancillary: BHARATFORG
-- Healthcare: APOLLOHOSP
-- FMCG: DABUR
+- Other/Unmapped: FORTIS, DATAPATTNS, SUPREMEIND, COROMANDEL, SYRMA, LICI, NBCC
+- Auto Ancillary: TIINDIA, MOTHERSON, BOSCHLTD
+- Capital Goods: CGPOWER, GVT&D
 - Building Materials: ASTRAL
-- Clean Energy: PREMIERENE
+- FMCG: BRITANNIA
+- Power: TATAPOWER
 
 ## 🟢 Strongest Bullish Theme
-**NBFC/Finance** leads gainers with 8 names in the top 15: MOTILALOFS, BAJFINANCE, NAM-INDIA, 360ONE, CHOLAFIN, SHRIRAMFIN, SBICARD, LTF
+**Consumer Durables** leads gainers with 3 names in the top 15: HAVELLS, CROMPTON, TITAN
 
 ## 🔴 Weakest Bearish Theme
-**Capital Goods** leads losers with 4 names in the top 15: CUMMINSIND, CGPOWER, POWERINDIA, GVT&D
+**Auto Ancillary** leads losers with 3 names in the top 15: TIINDIA, MOTHERSON, BOSCHLTD
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in UNOMINDA, ASHOKLEY, MOTILALOFS; NBFC/Finance sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: Consumer Durables sector rotation on the buy side; pressure building in Auto Ancillary.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

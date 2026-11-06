@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-06 1727 IST
+# NSE F&O Gainers/Losers - 2026-11-06 1750 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 HDFCLIFE (+3.95%)
 - #10 SIEMENS (+3.73%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** YESBANK, HAVELLS, KALYANKJIL, M&M, MCX
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 BRITANNIA (-3.92%)
 - #10 SYRMA (-3.68%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** ASTRAL, FORTIS, TIINDIA, MOTHERSON, DATAPATTNS
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -60,6 +60,6 @@
 **Auto Ancillary** leads losers with 3 names in the top 15: TIINDIA, MOTHERSON, BOSCHLTD
 
 ## 📊 Final Market Conclusion
-Session theme: Consumer Durables sector rotation on the buy side; pressure building in Auto Ancillary.
+Session theme: sustained strength in YESBANK, HAVELLS, KALYANKJIL; Consumer Durables sector rotation on the buy side; pressure building in Auto Ancillary.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

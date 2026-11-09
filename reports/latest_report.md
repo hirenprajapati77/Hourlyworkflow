@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-09 1812 IST
+# NSE F&O Gainers/Losers - 2026-11-09 1841 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 DIVISLAB (+4.22%)
 - #10 CANBK (+4.02%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** DATAPATTNS, IREDA, UNIONBANK, PNB, BANKINDIA
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 AMBER (-1.95%)
 - #10 MFSL (-1.91%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** JUBLFOOD, SYRMA, TATASTEEL, MPHASIS, BOSCHLTD
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -58,6 +58,6 @@
 **IT** leads losers with 2 names in the top 15: MPHASIS, HCLTECH
 
 ## 📊 Final Market Conclusion
-Session theme: Banking sector rotation on the buy side; pressure building in IT.
+Session theme: sustained strength in DATAPATTNS, IREDA, UNIONBANK; Banking sector rotation on the buy side; pressure building in IT.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

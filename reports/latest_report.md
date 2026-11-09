@@ -1,65 +1,63 @@
-# NSE F&O Gainers/Losers - 2026-11-06 1816 IST
+# NSE F&O Gainers/Losers - 2026-11-09 1812 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 YESBANK (+5.91%)
-- #2 HAVELLS (+5.61%)
-- #3 KALYANKJIL (+5.49%)
-- #4 M&M (+5.11%)
-- #5 MCX (+4.81%)
-- #6 ICICIBANK (+4.75%)
-- #7 CROMPTON (+4.42%)
-- #8 GLENMARK (+4.36%)
-- #9 HDFCLIFE (+3.95%)
-- #10 SIEMENS (+3.73%)
+- #1 DATAPATTNS (+8.67%)
+- #2 IREDA (+7.47%)
+- #3 UNIONBANK (+5.60%)
+- #4 PNB (+5.27%)
+- #5 BANKINDIA (+4.53%)
+- #6 BANKBARODA (+4.46%)
+- #7 INDIANB (+4.35%)
+- #8 COCHINSHIP (+4.33%)
+- #9 DIVISLAB (+4.22%)
+- #10 CANBK (+4.02%)
 
-**Consistent top-5 leaders across all snapshots:** YESBANK, HAVELLS, KALYANKJIL, M&M, MCX
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 ASTRAL (-9.68%)
-- #2 FORTIS (-6.45%)
-- #3 TIINDIA (-5.65%)
-- #4 MOTHERSON (-5.63%)
-- #5 DATAPATTNS (-4.85%)
-- #6 CGPOWER (-4.43%)
-- #7 SUPREMEIND (-4.07%)
-- #8 COROMANDEL (-4.00%)
-- #9 BRITANNIA (-3.92%)
-- #10 SYRMA (-3.68%)
+- #1 JUBLFOOD (-4.99%)
+- #2 SYRMA (-2.86%)
+- #3 TATASTEEL (-2.81%)
+- #4 MPHASIS (-2.73%)
+- #5 BOSCHLTD (-2.46%)
+- #6 HCLTECH (-2.43%)
+- #7 SWIGGY (-2.24%)
+- #8 PIIND (-2.16%)
+- #9 AMBER (-1.95%)
+- #10 MFSL (-1.91%)
 
-**Consistent bottom-5 laggards across all snapshots:** ASTRAL, FORTIS, TIINDIA, MOTHERSON, DATAPATTNS
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Consumer Durables: HAVELLS, CROMPTON, TITAN
-- Banking: ICICIBANK, HDFCBANK, AXISBANK
-- Other/Unmapped: YESBANK, KALYANKJIL
-- Auto: M&M, FORCEMOT
-- Exchanges/Finance: MCX
-- Pharma: GLENMARK
-- Insurance: HDFCLIFE
-- Capital Goods: SIEMENS
-- Power: NTPC
+- Other/Unmapped: DATAPATTNS, IREDA, BANKINDIA, INDIANB, COCHINSHIP, IRFC, PGEL, RVNL, LAURUSLABS
+- Banking: UNIONBANK, PNB, BANKBARODA, CANBK
+- Pharma: DIVISLAB
+- Defense: BDL
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: FORTIS, DATAPATTNS, SUPREMEIND, COROMANDEL, SYRMA, LICI, NBCC
-- Auto Ancillary: TIINDIA, MOTHERSON, BOSCHLTD
-- Capital Goods: CGPOWER, GVT&D
-- Building Materials: ASTRAL
-- FMCG: BRITANNIA
-- Power: TATAPOWER
+- Other/Unmapped: JUBLFOOD, SYRMA, AMBER, MFSL, ASHOKLEY, YESBANK
+- IT: MPHASIS, HCLTECH
+- Metal: TATASTEEL
+- Auto Ancillary: BOSCHLTD
+- Tech/Internet: SWIGGY
+- Chemicals: PIIND
+- Cement: ULTRACEMCO
+- FMCG: ITC
+- NBFC/Finance: BAJFINANCE
 
 ## 🟢 Strongest Bullish Theme
-**Consumer Durables** leads gainers with 3 names in the top 15: HAVELLS, CROMPTON, TITAN
+**Banking** leads gainers with 4 names in the top 15: UNIONBANK, PNB, BANKBARODA, CANBK
 
 ## 🔴 Weakest Bearish Theme
-**Auto Ancillary** leads losers with 3 names in the top 15: TIINDIA, MOTHERSON, BOSCHLTD
+**IT** leads losers with 2 names in the top 15: MPHASIS, HCLTECH
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in YESBANK, HAVELLS, KALYANKJIL; Consumer Durables sector rotation on the buy side; pressure building in Auto Ancillary.
+Session theme: Banking sector rotation on the buy side; pressure building in IT.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

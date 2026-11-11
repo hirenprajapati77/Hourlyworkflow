@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-11T19:17:01.521154+05:30",
-  "label": "2026-11-11_1917",
+  "captured_at_ist": "2026-11-11T20:59:20.689277+05:30",
+  "label": "2026-11-11_2059",
   "gainers": [
     {
       "symbol": "KALYANKJIL",
@@ -284,8 +284,8 @@
       "high_price": 397.5,
       "low_price": 383.3,
       "rank": 19,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HDFCAMC",
@@ -299,8 +299,8 @@
       "high_price": 2715,
       "low_price": 2650,
       "rank": 20,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     }
   ],
   "losers": [
@@ -586,8 +586,8 @@
       "high_price": 68.39,
       "low_price": 65.3,
       "rank": 19,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HEROMOTOCO",
@@ -601,8 +601,8 @@
       "high_price": 5485,
       "low_price": 5302.5,
       "rank": 20,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     }
   ]
 }

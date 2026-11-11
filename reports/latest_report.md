@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-11 1716 IST
+# NSE F&O Gainers/Losers - 2026-11-11 1730 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 PNB (+4.77%)
 - #10 VMM (+4.50%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** KALYANKJIL, NAVINFLUOR, COROMANDEL, BANKBARODA, FORCEMOT
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 OBEROIRLTY (-1.73%)
 - #10 LODHA (-1.72%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** COCHINSHIP, ADANIGREEN, NHPC, MPHASIS, RADICO
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -57,6 +57,6 @@
 **Adani Group** leads losers with 3 names in the top 15: ADANIGREEN, ADANIPORTS, ADANIENSOL
 
 ## 📊 Final Market Conclusion
-Session theme: Banking sector rotation on the buy side; pressure building in Adani Group.
+Session theme: sustained strength in KALYANKJIL, NAVINFLUOR, COROMANDEL; Banking sector rotation on the buy side; pressure building in Adani Group.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

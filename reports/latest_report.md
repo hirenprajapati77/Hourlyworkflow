@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-11 1730 IST
+# NSE F&O Gainers/Losers - 2026-11-11 1800 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -26,7 +26,7 @@
 - #7 INDHOTEL (-2.09%)
 - #8 ADANIPORTS (-1.84%)
 - #9 OBEROIRLTY (-1.73%)
-- #10 LODHA (-1.72%)
+- #10 DIVISLAB (-1.72%)
 
 **Consistent bottom-5 laggards across all snapshots:** COCHINSHIP, ADANIGREEN, NHPC, MPHASIS, RADICO
 

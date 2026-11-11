@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-11T17:30:13.234650+05:30",
-  "label": "2026-11-11_1730",
+  "captured_at_ist": "2026-11-11T18:00:58.799556+05:30",
+  "label": "2026-11-11_1800",
   "gainers": [
     {
       "symbol": "KALYANKJIL",
@@ -440,21 +440,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "LODHA",
-      "series": "EQ",
-      "ltp": 1174.5,
-      "pct_change": -1.72,
-      "prev_close": 1195,
-      "volume": "16.05 L",
-      "value": "188.80 Cr",
-      "open_price": 1204.4,
-      "high_price": 1204.4,
-      "low_price": 1161.6,
-      "rank": 10,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "DIVISLAB",
       "series": "EQ",
       "ltp": 11367,
@@ -465,9 +450,24 @@
       "open_price": 11760,
       "high_price": 11800.5,
       "low_price": 11190,
+      "rank": 10,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "LODHA",
+      "series": "EQ",
+      "ltp": 1174.5,
+      "pct_change": -1.72,
+      "prev_close": 1195,
+      "volume": "16.05 L",
+      "value": "188.80 Cr",
+      "open_price": 1204.4,
+      "high_price": 1204.4,
+      "low_price": 1161.6,
       "rank": 11,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "SAGILITY",

@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-11T18:00:58.799556+05:30",
-  "label": "2026-11-11_1800",
+  "captured_at_ist": "2026-11-11T19:17:01.521154+05:30",
+  "label": "2026-11-11_1917",
   "gainers": [
     {
       "symbol": "KALYANKJIL",
@@ -273,21 +273,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "HDFCAMC",
-      "series": "EQ",
-      "ltp": 2715,
-      "pct_change": 3.64,
-      "prev_close": 2619.6,
-      "volume": "11.02 L",
-      "value": "297.18 Cr",
-      "open_price": 2658,
-      "high_price": 2715,
-      "low_price": 2650,
-      "rank": 19,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "INDUSTOWER",
       "series": "EQ",
       "ltp": 397.5,
@@ -298,9 +283,24 @@
       "open_price": 387.9,
       "high_price": 397.5,
       "low_price": 383.3,
+      "rank": 19,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "HDFCAMC",
+      "series": "EQ",
+      "ltp": 2715,
+      "pct_change": 3.64,
+      "prev_close": 2619.6,
+      "volume": "11.02 L",
+      "value": "297.18 Cr",
+      "open_price": 2658,
+      "high_price": 2715,
+      "low_price": 2650,
       "rank": 20,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     }
   ],
   "losers": [
@@ -451,8 +451,8 @@
       "high_price": 11800.5,
       "low_price": 11190,
       "rank": 10,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "LODHA",
@@ -466,8 +466,8 @@
       "high_price": 1204.4,
       "low_price": 1161.6,
       "rank": 11,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "SAGILITY",
@@ -575,21 +575,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "HEROMOTOCO",
-      "series": "EQ",
-      "ltp": 5345,
-      "pct_change": -1.21,
-      "prev_close": 5410.5,
-      "volume": "5.87 L",
-      "value": "315.60 Cr",
-      "open_price": 5485,
-      "high_price": 5485,
-      "low_price": 5302.5,
-      "rank": 19,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "INOXWIND",
       "series": "EQ",
       "ltp": 65.88,
@@ -600,9 +585,24 @@
       "open_price": 67.6,
       "high_price": 68.39,
       "low_price": 65.3,
+      "rank": 19,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "series": "EQ",
+      "ltp": 5345,
+      "pct_change": -1.21,
+      "prev_close": 5410.5,
+      "volume": "5.87 L",
+      "value": "315.60 Cr",
+      "open_price": 5485,
+      "high_price": 5485,
+      "low_price": 5302.5,
       "rank": 20,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     }
   ]
 }

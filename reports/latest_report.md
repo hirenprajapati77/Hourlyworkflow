@@ -1,62 +1,68 @@
-# NSE F&O Gainers/Losers - 2026-11-11 2310 IST
+# NSE F&O Gainers/Losers - 2026-11-12 1755 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 KALYANKJIL (+8.63%)
-- #2 NAVINFLUOR (+5.97%)
-- #3 COROMANDEL (+5.95%)
-- #4 BANKBARODA (+5.77%)
-- #5 FORCEMOT (+5.49%)
-- #6 M&M (+5.30%)
-- #7 FEDERALBNK (+5.09%)
-- #8 MOTHERSON (+4.81%)
-- #9 PNB (+4.77%)
-- #10 VMM (+4.50%)
+- #1 POLICYBZR (+7.59%)
+- #2 PAYTM (+7.31%)
+- #3 KALYANKJIL (+7.10%)
+- #4 ABCAPITAL (+5.93%)
+- #5 PHOENIXLTD (+5.57%)
+- #6 MFSL (+5.53%)
+- #7 MOTILALOFS (+5.21%)
+- #8 GODREJPROP (+4.50%)
+- #9 RADICO (+4.46%)
+- #10 DATAPATTNS (+4.42%)
 
-**Consistent top-5 leaders across all snapshots:** KALYANKJIL, NAVINFLUOR, COROMANDEL, BANKBARODA, FORCEMOT
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 COCHINSHIP (-6.82%)
-- #2 ADANIGREEN (-3.26%)
-- #3 NHPC (-3.10%)
-- #4 MPHASIS (-2.65%)
-- #5 RADICO (-2.64%)
-- #6 LTM (-2.16%)
-- #7 INDHOTEL (-2.09%)
-- #8 ADANIPORTS (-1.84%)
-- #9 OBEROIRLTY (-1.73%)
-- #10 DIVISLAB (-1.72%)
+- #1 PAGEIND (-12.91%)
+- #2 BDL (-4.08%)
+- #3 ALKEM (-2.68%)
+- #4 INDUSTOWER (-2.65%)
+- #5 MARICO (-2.49%)
+- #6 HYUNDAI (-2.49%)
+- #7 HINDPETRO (-2.39%)
+- #8 MOTHERSON (-2.27%)
+- #9 HAL (-2.13%)
+- #10 NESTLEIND (-2.10%)
 
-**Consistent bottom-5 laggards across all snapshots:** COCHINSHIP, ADANIGREEN, NHPC, MPHASIS, RADICO
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Other/Unmapped: KALYANKJIL, NAVINFLUOR, COROMANDEL, ENRIN, KARURVYSYA, BANKINDIA, IRFC
-- Banking: BANKBARODA, FEDERALBNK, PNB
-- Auto: FORCEMOT, M&M
-- Auto Ancillary: MOTHERSON
-- FMCG: VMM
-- Aviation: INDIGO
+- Realty: PHOENIXLTD, GODREJPROP, LODHA, PRESTIGE, OBEROIRLTY
+- Other/Unmapped: KALYANKJIL, MFSL, DATAPATTNS
+- NBFC/Finance: ABCAPITAL, MOTILALOFS, LTF
+- Fintech/Insurance: POLICYBZR
+- Fintech/Tech: PAYTM
+- FMCG: RADICO
+- Insurance: HDFCLIFE
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: COCHINSHIP, NHPC, INDHOTEL, SAGILITY, UNITDSPR
-- Adani Group: ADANIGREEN, ADANIPORTS, ADANIENSOL
-- Realty: OBEROIRLTY, LODHA, DLF
-- IT: MPHASIS, LTM
-- FMCG: RADICO
-- Pharma: DIVISLAB
+- Other/Unmapped: PAGEIND, RVNL
+- Defense: BDL, HAL
+- FMCG: MARICO, NESTLEIND
+- Auto: HYUNDAI, M&M
+- Pharma: ALKEM
+- Telecom: INDUSTOWER
+- Energy: HINDPETRO
+- Auto Ancillary: MOTHERSON
+- Metal: HINDZINC
+- Capital Goods: POWERINDIA
+- NBFC/Finance: RECLTD
 
 ## 🟢 Strongest Bullish Theme
-**Banking** leads gainers with 3 names in the top 15: BANKBARODA, FEDERALBNK, PNB
+**Realty** leads gainers with 5 names in the top 15: PHOENIXLTD, GODREJPROP, LODHA, PRESTIGE, OBEROIRLTY
 
 ## 🔴 Weakest Bearish Theme
-**Adani Group** leads losers with 3 names in the top 15: ADANIGREEN, ADANIPORTS, ADANIENSOL
+**Defense** leads losers with 2 names in the top 15: BDL, HAL
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in KALYANKJIL, NAVINFLUOR, COROMANDEL; Banking sector rotation on the buy side; pressure building in Adani Group.
+Session theme: Realty sector rotation on the buy side; pressure building in Defense.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-12T23:10:57.588689+05:30",
-  "label": "2026-11-12_2310",
+  "captured_at_ist": "2026-11-12T23:23:13.167729+05:30",
+  "label": "2026-11-12_2323",
   "gainers": [
     {
       "symbol": "POLICYBZR",
@@ -365,21 +365,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "HYUNDAI",
-      "series": "EQ",
-      "ltp": 2103,
-      "pct_change": -2.49,
-      "prev_close": 2156.7,
-      "volume": "3.64 L",
-      "value": "77.14 Cr",
-      "open_price": 2156.7,
-      "high_price": 2164.7,
-      "low_price": 2099.8,
-      "rank": 5,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "MARICO",
       "series": "EQ",
       "ltp": 902,
@@ -390,9 +375,24 @@
       "open_price": 915,
       "high_price": 915,
       "low_price": 897.5,
+      "rank": 5,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "HYUNDAI",
+      "series": "EQ",
+      "ltp": 2103,
+      "pct_change": -2.49,
+      "prev_close": 2156.7,
+      "volume": "3.64 L",
+      "value": "77.14 Cr",
+      "open_price": 2156.7,
+      "high_price": 2164.7,
+      "low_price": 2099.8,
       "rank": 6,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "HINDPETRO",
@@ -470,21 +470,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "RVNL",
-      "series": "EQ",
-      "ltp": 205.4,
-      "pct_change": -1.91,
-      "prev_close": 209.4,
-      "volume": "111.95 L",
-      "value": "232.55 Cr",
-      "open_price": 210.74,
-      "high_price": 212.5,
-      "low_price": 204.76,
-      "rank": 12,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "POWERINDIA",
       "series": "EQ",
       "ltp": 28545,
@@ -495,9 +480,24 @@
       "open_price": 29370,
       "high_price": 29370,
       "low_price": 28210,
+      "rank": 12,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "RVNL",
+      "series": "EQ",
+      "ltp": 205.4,
+      "pct_change": -1.91,
+      "prev_close": 209.4,
+      "volume": "111.95 L",
+      "value": "232.55 Cr",
+      "open_price": 210.74,
+      "high_price": 212.5,
+      "low_price": 204.76,
       "rank": 13,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "M&M",

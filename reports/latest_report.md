@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-12 2310 IST
+# NSE F&O Gainers/Losers - 2026-11-12 2323 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -21,8 +21,8 @@
 - #2 BDL (-4.08%)
 - #3 ALKEM (-2.68%)
 - #4 INDUSTOWER (-2.65%)
-- #5 HYUNDAI (-2.49%)
-- #6 MARICO (-2.49%)
+- #5 MARICO (-2.49%)
+- #6 HYUNDAI (-2.49%)
 - #7 HINDPETRO (-2.39%)
 - #8 MOTHERSON (-2.27%)
 - #9 HAL (-2.13%)
@@ -46,8 +46,8 @@
 **Loser-side sector concentration (top 15):**
 - Other/Unmapped: PAGEIND, RVNL
 - Defense: BDL, HAL
-- Auto: HYUNDAI, M&M
 - FMCG: MARICO, NESTLEIND
+- Auto: HYUNDAI, M&M
 - Pharma: ALKEM
 - Telecom: INDUSTOWER
 - Energy: HINDPETRO

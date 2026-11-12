@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-12T18:31:59.494228+05:30",
-  "label": "2026-11-12_1831",
+  "captured_at_ist": "2026-11-12T19:06:19.045902+05:30",
+  "label": "2026-11-12_1906",
   "gainers": [
     {
       "symbol": "POLICYBZR",
@@ -376,8 +376,8 @@
       "high_price": 2164.7,
       "low_price": 2099.8,
       "rank": 5,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "MARICO",
@@ -391,8 +391,8 @@
       "high_price": 915,
       "low_price": 897.5,
       "rank": 6,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HINDPETRO",
@@ -481,8 +481,8 @@
       "high_price": 212.5,
       "low_price": 204.76,
       "rank": 12,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "POWERINDIA",
@@ -496,8 +496,8 @@
       "high_price": 29370,
       "low_price": 28210,
       "rank": 13,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "M&M",
@@ -511,8 +511,8 @@
       "high_price": 3429.9,
       "low_price": 3368,
       "rank": 14,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "RECLTD",
@@ -526,8 +526,8 @@
       "high_price": 313.75,
       "low_price": 302.8,
       "rank": 15,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "IRFC",
@@ -541,8 +541,8 @@
       "high_price": 87.33,
       "low_price": 84.9,
       "rank": 16,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "POWERGRID",
@@ -556,8 +556,8 @@
       "high_price": 264.5,
       "low_price": 258.5,
       "rank": 17,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "PFC",

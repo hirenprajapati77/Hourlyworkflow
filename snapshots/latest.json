@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-12T20:20:14.683947+05:30",
-  "label": "2026-11-12_2020",
+  "captured_at_ist": "2026-11-12T21:35:48.421435+05:30",
+  "label": "2026-11-12_2135",
   "gainers": [
     {
       "symbol": "POLICYBZR",
@@ -365,21 +365,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "MARICO",
-      "series": "EQ",
-      "ltp": 902,
-      "pct_change": -2.49,
-      "prev_close": 925,
-      "volume": "13.89 L",
-      "value": "125.54 Cr",
-      "open_price": 915,
-      "high_price": 915,
-      "low_price": 897.5,
-      "rank": 5,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
-    },
-    {
       "symbol": "HYUNDAI",
       "series": "EQ",
       "ltp": 2103,
@@ -390,6 +375,21 @@
       "open_price": 2156.7,
       "high_price": 2164.7,
       "low_price": 2099.8,
+      "rank": 5,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "MARICO",
+      "series": "EQ",
+      "ltp": 902,
+      "pct_change": -2.49,
+      "prev_close": 925,
+      "volume": "13.89 L",
+      "value": "125.54 Cr",
+      "open_price": 915,
+      "high_price": 915,
+      "low_price": 897.5,
       "rank": 6,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1
@@ -470,21 +470,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "POWERINDIA",
-      "series": "EQ",
-      "ltp": 28545,
-      "pct_change": -1.91,
-      "prev_close": 29100,
-      "volume": "2.68 L",
-      "value": "766.06 Cr",
-      "open_price": 29370,
-      "high_price": 29370,
-      "low_price": 28210,
-      "rank": 12,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
-    },
-    {
       "symbol": "RVNL",
       "series": "EQ",
       "ltp": 205.4,
@@ -495,6 +480,21 @@
       "open_price": 210.74,
       "high_price": 212.5,
       "low_price": 204.76,
+      "rank": 12,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "POWERINDIA",
+      "series": "EQ",
+      "ltp": 28545,
+      "pct_change": -1.91,
+      "prev_close": 29100,
+      "volume": "2.68 L",
+      "value": "766.06 Cr",
+      "open_price": 29370,
+      "high_price": 29370,
+      "low_price": 28210,
       "rank": 13,
       "rank_change_str": "\u25bc -1",
       "rank_change": -1

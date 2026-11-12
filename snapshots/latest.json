@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-12T21:35:48.421435+05:30",
-  "label": "2026-11-12_2135",
+  "captured_at_ist": "2026-11-12T22:52:27.195104+05:30",
+  "label": "2026-11-12_2252",
   "gainers": [
     {
       "symbol": "POLICYBZR",
@@ -376,8 +376,8 @@
       "high_price": 2164.7,
       "low_price": 2099.8,
       "rank": 5,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "MARICO",
@@ -391,8 +391,8 @@
       "high_price": 915,
       "low_price": 897.5,
       "rank": 6,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HINDPETRO",
@@ -481,8 +481,8 @@
       "high_price": 212.5,
       "low_price": 204.76,
       "rank": 12,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "POWERINDIA",
@@ -496,8 +496,8 @@
       "high_price": 29370,
       "low_price": 28210,
       "rank": 13,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "M&M",

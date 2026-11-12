@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-12 1755 IST
+# NSE F&O Gainers/Losers - 2026-11-12 1831 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 RADICO (+4.46%)
 - #10 DATAPATTNS (+4.42%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** POLICYBZR, PAYTM, KALYANKJIL, ABCAPITAL, PHOENIXLTD
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -21,17 +21,17 @@
 - #2 BDL (-4.08%)
 - #3 ALKEM (-2.68%)
 - #4 INDUSTOWER (-2.65%)
-- #5 MARICO (-2.49%)
-- #6 HYUNDAI (-2.49%)
+- #5 HYUNDAI (-2.49%)
+- #6 MARICO (-2.49%)
 - #7 HINDPETRO (-2.39%)
 - #8 MOTHERSON (-2.27%)
 - #9 HAL (-2.13%)
 - #10 NESTLEIND (-2.10%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** PAGEIND, BDL, ALKEM, INDUSTOWER
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -46,8 +46,8 @@
 **Loser-side sector concentration (top 15):**
 - Other/Unmapped: PAGEIND, RVNL
 - Defense: BDL, HAL
-- FMCG: MARICO, NESTLEIND
 - Auto: HYUNDAI, M&M
+- FMCG: MARICO, NESTLEIND
 - Pharma: ALKEM
 - Telecom: INDUSTOWER
 - Energy: HINDPETRO
@@ -63,6 +63,6 @@
 **Defense** leads losers with 2 names in the top 15: BDL, HAL
 
 ## 📊 Final Market Conclusion
-Session theme: Realty sector rotation on the buy side; pressure building in Defense.
+Session theme: sustained strength in POLICYBZR, PAYTM, KALYANKJIL; Realty sector rotation on the buy side; pressure building in Defense.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

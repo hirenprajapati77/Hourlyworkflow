@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-13T17:58:38.947197+05:30",
-  "label": "2026-11-13_1758",
+  "captured_at_ist": "2026-11-13T18:24:53.620474+05:30",
+  "label": "2026-11-13_1824",
   "gainers": [
     {
       "symbol": "POWERINDIA",
@@ -149,8 +149,8 @@
       "high_price": 1401.1,
       "low_price": 1351.9,
       "rank": 10,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ABB",
@@ -164,8 +164,8 @@
       "high_price": 7120,
       "low_price": 6922,
       "rank": 11,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "MPHASIS",
@@ -601,7 +601,7 @@
       "high_price": 386.3,
       "low_price": 380.5,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ]

@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-13 1758 IST
+# NSE F&O Gainers/Losers - 2026-11-13 1824 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -27,8 +27,6 @@
 - #8 IDEA (-3.08%)
 - #9 BPCL (-3.05%)
 - #10 RVNL (-2.89%)
-
-**New weak entrants this session:** HINDPETRO
 
 **Consistent bottom-5 laggards across all snapshots:** MANAPPURAM, ALKEM, PIDILITIND, SHRIRAMFIN, TMPV
 

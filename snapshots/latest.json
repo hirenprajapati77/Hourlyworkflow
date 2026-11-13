@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-13T18:24:53.620474+05:30",
-  "label": "2026-11-13_1824",
+  "captured_at_ist": "2026-11-13T19:40:57.565127+05:30",
+  "label": "2026-11-13_1940",
   "gainers": [
     {
       "symbol": "POWERINDIA",
@@ -590,18 +590,18 @@
       "rank_change": 0
     },
     {
-      "symbol": "HINDPETRO",
+      "symbol": "IRFC",
       "series": "EQ",
-      "ltp": 381.5,
+      "ltp": 83.3,
       "pct_change": -2.33,
-      "prev_close": 390.6,
-      "volume": "24.32 L",
-      "value": "93.22 Cr",
-      "open_price": 385,
-      "high_price": 386.3,
-      "low_price": 380.5,
+      "prev_close": 85.29,
+      "volume": "127.92 L",
+      "value": "107.24 Cr",
+      "open_price": 84.7,
+      "high_price": 85.08,
+      "low_price": 82.9,
       "rank": 20,
-      "rank_change_str": "- 0",
+      "rank_change_str": "NEW",
       "rank_change": 0
     }
   ]

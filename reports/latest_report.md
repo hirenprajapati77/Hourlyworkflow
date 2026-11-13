@@ -1,68 +1,67 @@
-# NSE F&O Gainers/Losers - 2026-11-12 2323 IST
+# NSE F&O Gainers/Losers - 2026-11-13 1731 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 POLICYBZR (+7.59%)
-- #2 PAYTM (+7.31%)
-- #3 KALYANKJIL (+7.10%)
-- #4 ABCAPITAL (+5.93%)
-- #5 PHOENIXLTD (+5.57%)
-- #6 MFSL (+5.53%)
-- #7 MOTILALOFS (+5.21%)
-- #8 GODREJPROP (+4.50%)
-- #9 RADICO (+4.46%)
-- #10 DATAPATTNS (+4.42%)
+- #1 POWERINDIA (+10.68%)
+- #2 AMBER (+9.07%)
+- #3 GVT&D (+5.24%)
+- #4 POLICYBZR (+5.23%)
+- #5 ENRIN (+2.90%)
+- #6 MCX (+2.63%)
+- #7 CUMMINSIND (+2.60%)
+- #8 ANGELONE (+2.35%)
+- #9 INDUSTOWER (+2.34%)
+- #10 ABB (+1.90%)
 
-**Consistent top-5 leaders across all snapshots:** POLICYBZR, PAYTM, KALYANKJIL, ABCAPITAL, PHOENIXLTD
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 PAGEIND (-12.91%)
-- #2 BDL (-4.08%)
-- #3 ALKEM (-2.68%)
-- #4 INDUSTOWER (-2.65%)
-- #5 MARICO (-2.49%)
-- #6 HYUNDAI (-2.49%)
-- #7 HINDPETRO (-2.39%)
-- #8 MOTHERSON (-2.27%)
-- #9 HAL (-2.13%)
-- #10 NESTLEIND (-2.10%)
+- #1 MANAPPURAM (-3.73%)
+- #2 ALKEM (-3.55%)
+- #3 PIDILITIND (-3.42%)
+- #4 SHRIRAMFIN (-3.37%)
+- #5 TMPV (-3.31%)
+- #6 PETRONET (-3.27%)
+- #7 MUTHOOTFIN (-3.17%)
+- #8 IDEA (-3.08%)
+- #9 BPCL (-3.05%)
+- #10 RVNL (-2.89%)
 
-**Consistent bottom-5 laggards across all snapshots:** PAGEIND, BDL, ALKEM, INDUSTOWER
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Realty: PHOENIXLTD, GODREJPROP, LODHA, PRESTIGE, OBEROIRLTY
-- Other/Unmapped: KALYANKJIL, MFSL, DATAPATTNS
-- NBFC/Finance: ABCAPITAL, MOTILALOFS, LTF
+- Capital Goods: POWERINDIA, GVT&D, CUMMINSIND, ABB
+- Other/Unmapped: AMBER, ENRIN, MFSL, BANKINDIA
 - Fintech/Insurance: POLICYBZR
-- Fintech/Tech: PAYTM
-- FMCG: RADICO
-- Insurance: HDFCLIFE
+- Exchanges/Finance: MCX
+- NBFC/Finance: ANGELONE
+- Telecom: INDUSTOWER
+- IT: MPHASIS
+- Consumer Durables: VOLTAS
+- Tech/Retail: NYKAA
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: PAGEIND, RVNL
-- Defense: BDL, HAL
-- FMCG: MARICO, NESTLEIND
-- Auto: HYUNDAI, M&M
+- NBFC/Finance: MANAPPURAM, SHRIRAMFIN, MUTHOOTFIN, ABCAPITAL
+- Other/Unmapped: TMPV, RVNL, ASHOKLEY, GRASIM
+- Energy: PETRONET, BPCL
 - Pharma: ALKEM
-- Telecom: INDUSTOWER
-- Energy: HINDPETRO
-- Auto Ancillary: MOTHERSON
-- Metal: HINDZINC
-- Capital Goods: POWERINDIA
-- NBFC/Finance: RECLTD
+- Chemicals: PIDILITIND
+- Telecom: IDEA
+- Tech/Internet: SWIGGY
+- Realty: PRESTIGE
 
 ## 🟢 Strongest Bullish Theme
-**Realty** leads gainers with 5 names in the top 15: PHOENIXLTD, GODREJPROP, LODHA, PRESTIGE, OBEROIRLTY
+**Capital Goods** leads gainers with 4 names in the top 15: POWERINDIA, GVT&D, CUMMINSIND, ABB
 
 ## 🔴 Weakest Bearish Theme
-**Defense** leads losers with 2 names in the top 15: BDL, HAL
+**NBFC/Finance** leads losers with 4 names in the top 15: MANAPPURAM, SHRIRAMFIN, MUTHOOTFIN, ABCAPITAL
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in POLICYBZR, PAYTM, KALYANKJIL; Realty sector rotation on the buy side; pressure building in Defense.
+Session theme: Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

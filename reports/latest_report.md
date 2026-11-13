@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-13 1731 IST
+# NSE F&O Gainers/Losers - 2026-11-13 1758 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -11,9 +11,9 @@
 - #7 CUMMINSIND (+2.60%)
 - #8 ANGELONE (+2.35%)
 - #9 INDUSTOWER (+2.34%)
-- #10 ABB (+1.90%)
+- #10 MFSL (+1.90%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** POWERINDIA, AMBER, GVT&D, POLICYBZR, ENRIN
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,12 @@
 - #9 BPCL (-3.05%)
 - #10 RVNL (-2.89%)
 
-*Initial session baseline captured.*
+**New weak entrants this session:** HINDPETRO
+
+**Consistent bottom-5 laggards across all snapshots:** MANAPPURAM, ALKEM, PIDILITIND, SHRIRAMFIN, TMPV
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -62,6 +64,6 @@
 **NBFC/Finance** leads losers with 4 names in the top 15: MANAPPURAM, SHRIRAMFIN, MUTHOOTFIN, ABCAPITAL
 
 ## 📊 Final Market Conclusion
-Session theme: Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: sustained strength in POWERINDIA, AMBER, GVT&D; Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

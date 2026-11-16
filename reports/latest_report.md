@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-16 1803 IST
+# NSE F&O Gainers/Losers - 2026-11-16 1831 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 NESTLEIND (+2.68%)
 - #10 GODREJCP (+2.52%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** MAXHEALTH, FORTIS, TATACONSUM, ITC, LICHSGFIN
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 SAIL (-4.23%)
 - #10 WAAREEENER (-4.12%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** KAYNES, TMPV, LAURUSLABS, PREMIERENE, INOXWIND
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -59,6 +59,6 @@
 **Capital Goods** leads losers with 2 names in the top 15: KAYNES, CUMMINSIND
 
 ## 📊 Final Market Conclusion
-Session theme: FMCG sector rotation on the buy side; pressure building in Capital Goods.
+Session theme: sustained strength in MAXHEALTH, FORTIS, TATACONSUM; FMCG sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

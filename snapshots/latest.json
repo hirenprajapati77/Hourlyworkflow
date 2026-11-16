@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-16T20:41:06.250710+05:30",
-  "label": "2026-11-16_2041",
+  "captured_at_ist": "2026-11-16T22:43:19.773758+05:30",
+  "label": "2026-11-16_2243",
   "gainers": [
     {
       "symbol": "MAXHEALTH",
@@ -365,21 +365,6 @@
       "rank_change": 0
     },
     {
-      "symbol": "AMBER",
-      "series": "EQ",
-      "ltp": 6252,
-      "pct_change": -7.68,
-      "prev_close": 6772,
-      "volume": "10.21 L",
-      "value": "643.86 Cr",
-      "open_price": 6690,
-      "high_price": 6728,
-      "low_price": 6155,
-      "rank": 5,
-      "rank_change_str": "- 0",
-      "rank_change": 0
-    },
-    {
       "symbol": "INOXWIND",
       "series": "EQ",
       "ltp": 59.5,
@@ -390,9 +375,24 @@
       "open_price": 62.2,
       "high_price": 62.6,
       "low_price": 57.7,
+      "rank": 5,
+      "rank_change_str": "\u25b2 +1",
+      "rank_change": 1
+    },
+    {
+      "symbol": "AMBER",
+      "series": "EQ",
+      "ltp": 6252,
+      "pct_change": -7.68,
+      "prev_close": 6772,
+      "volume": "10.21 L",
+      "value": "643.86 Cr",
+      "open_price": 6690,
+      "high_price": 6728,
+      "low_price": 6155,
       "rank": 6,
-      "rank_change_str": "- 0",
-      "rank_change": 0
+      "rank_change_str": "\u25bc -1",
+      "rank_change": -1
     },
     {
       "symbol": "PGEL",

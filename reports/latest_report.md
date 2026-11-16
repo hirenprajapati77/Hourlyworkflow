@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-16 2041 IST
+# NSE F&O Gainers/Losers - 2026-11-16 2243 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -21,8 +21,8 @@
 - #2 TMPV (-8.70%)
 - #3 LAURUSLABS (-8.42%)
 - #4 PREMIERENE (-8.19%)
-- #5 AMBER (-7.68%)
-- #6 INOXWIND (-7.68%)
+- #5 INOXWIND (-7.68%)
+- #6 AMBER (-7.68%)
 - #7 PGEL (-6.07%)
 - #8 PATANJALI (-4.82%)
 - #9 SAIL (-4.23%)
@@ -45,7 +45,7 @@
 - Tech/Internet: SWIGGY
 
 **Loser-side sector concentration (top 15):**
-- Other/Unmapped: TMPV, LAURUSLABS, AMBER, INOXWIND, PGEL, PATANJALI, WAAREEENER, SYRMA
+- Other/Unmapped: TMPV, LAURUSLABS, INOXWIND, AMBER, PGEL, PATANJALI, WAAREEENER, SYRMA
 - Capital Goods: KAYNES, CUMMINSIND
 - Metal: SAIL, NATIONALUM
 - Clean Energy: PREMIERENE

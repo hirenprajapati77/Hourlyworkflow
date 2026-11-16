@@ -1,67 +1,64 @@
-# NSE F&O Gainers/Losers - 2026-11-13 2258 IST
+# NSE F&O Gainers/Losers - 2026-11-16 1803 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
-- #1 POWERINDIA (+10.68%)
-- #2 AMBER (+9.07%)
-- #3 GVT&D (+5.24%)
-- #4 POLICYBZR (+5.23%)
-- #5 ENRIN (+2.90%)
-- #6 MCX (+2.63%)
-- #7 CUMMINSIND (+2.60%)
-- #8 ANGELONE (+2.35%)
-- #9 INDUSTOWER (+2.34%)
-- #10 MFSL (+1.90%)
+- #1 MAXHEALTH (+6.63%)
+- #2 FORTIS (+5.13%)
+- #3 TATACONSUM (+3.57%)
+- #4 ITC (+3.54%)
+- #5 LICHSGFIN (+3.49%)
+- #6 YESBANK (+3.44%)
+- #7 APOLLOHOSP (+2.87%)
+- #8 GMRAIRPORT (+2.83%)
+- #9 NESTLEIND (+2.68%)
+- #10 GODREJCP (+2.52%)
 
-**Consistent top-5 leaders across all snapshots:** POWERINDIA, AMBER, GVT&D, POLICYBZR, ENRIN
+*Initial session baseline captured.*
 
 ## 📉 Losers Analysis
 **Current Top 10:**
-- #1 MANAPPURAM (-3.73%)
-- #2 ALKEM (-3.55%)
-- #3 PIDILITIND (-3.42%)
-- #4 SHRIRAMFIN (-3.37%)
-- #5 TMPV (-3.31%)
-- #6 PETRONET (-3.27%)
-- #7 MUTHOOTFIN (-3.17%)
-- #8 IDEA (-3.08%)
-- #9 BPCL (-3.05%)
-- #10 RVNL (-2.89%)
+- #1 KAYNES (-13.12%)
+- #2 TMPV (-8.70%)
+- #3 LAURUSLABS (-8.42%)
+- #4 PREMIERENE (-8.19%)
+- #5 INOXWIND (-7.68%)
+- #6 AMBER (-7.68%)
+- #7 PGEL (-6.07%)
+- #8 PATANJALI (-4.82%)
+- #9 SAIL (-4.23%)
+- #10 WAAREEENER (-4.12%)
 
-**Consistent bottom-5 laggards across all snapshots:** MANAPPURAM, ALKEM, PIDILITIND, SHRIRAMFIN, TMPV
+*Initial session baseline captured.*
 
 ## 🚀 Direct High Rank Entries
-- None this session - all current top ranks were already present in earlier snapshots.
+- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
-- Capital Goods: POWERINDIA, GVT&D, CUMMINSIND, ABB
-- Other/Unmapped: AMBER, ENRIN, MFSL, BANKINDIA
-- Fintech/Insurance: POLICYBZR
-- Exchanges/Finance: MCX
-- NBFC/Finance: ANGELONE
-- Telecom: INDUSTOWER
-- IT: MPHASIS
-- Consumer Durables: VOLTAS
-- Tech/Retail: NYKAA
+- Other/Unmapped: FORTIS, YESBANK, BLUESTARCO, KARURVYSYA
+- FMCG: TATACONSUM, ITC, NESTLEIND, GODREJCP
+- Healthcare: MAXHEALTH, APOLLOHOSP
+- NBFC/Finance: LICHSGFIN
+- Infrastructure: GMRAIRPORT
+- Telecom: BHARTIARTL
+- Banking: IDFCFIRSTB
+- Tech/Internet: SWIGGY
 
 **Loser-side sector concentration (top 15):**
-- NBFC/Finance: MANAPPURAM, SHRIRAMFIN, MUTHOOTFIN, ABCAPITAL
-- Other/Unmapped: TMPV, RVNL, ASHOKLEY, GRASIM
-- Energy: PETRONET, BPCL
-- Pharma: ALKEM
-- Chemicals: PIDILITIND
-- Telecom: IDEA
-- Tech/Internet: SWIGGY
-- Realty: PRESTIGE
+- Other/Unmapped: TMPV, LAURUSLABS, INOXWIND, AMBER, PGEL, PATANJALI, WAAREEENER, SYRMA
+- Capital Goods: KAYNES, CUMMINSIND
+- Metal: SAIL, NATIONALUM
+- Clean Energy: PREMIERENE
+- Pharma: DIVISLAB
+- Auto Ancillary: UNOMINDA
 
 ## 🟢 Strongest Bullish Theme
-**Capital Goods** leads gainers with 4 names in the top 15: POWERINDIA, GVT&D, CUMMINSIND, ABB
+**FMCG** leads gainers with 4 names in the top 15: TATACONSUM, ITC, NESTLEIND, GODREJCP
 
 ## 🔴 Weakest Bearish Theme
-**NBFC/Finance** leads losers with 4 names in the top 15: MANAPPURAM, SHRIRAMFIN, MUTHOOTFIN, ABCAPITAL
+**Capital Goods** leads losers with 2 names in the top 15: KAYNES, CUMMINSIND
 
 ## 📊 Final Market Conclusion
-Session theme: sustained strength in POWERINDIA, AMBER, GVT&D; Capital Goods sector rotation on the buy side; pressure building in NBFC/Finance.
+Session theme: FMCG sector rotation on the buy side; pressure building in Capital Goods.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

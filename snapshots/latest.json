@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-16T18:56:32.901451+05:30",
-  "label": "2026-11-16_1856",
+  "captured_at_ist": "2026-11-16T20:41:06.250710+05:30",
+  "label": "2026-11-16_2041",
   "gainers": [
     {
       "symbol": "MAXHEALTH",
@@ -376,8 +376,8 @@
       "high_price": 6728,
       "low_price": 6155,
       "rank": 5,
-      "rank_change_str": "\u25b2 +1",
-      "rank_change": 1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "INOXWIND",
@@ -391,8 +391,8 @@
       "high_price": 62.6,
       "low_price": 57.7,
       "rank": 6,
-      "rank_change_str": "\u25bc -1",
-      "rank_change": -1
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "PGEL",

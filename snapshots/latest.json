@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-17T18:28:40.385822+05:30",
-  "label": "2026-11-17_1828",
+  "captured_at_ist": "2026-11-17T19:12:49.980799+05:30",
+  "label": "2026-11-17_1912",
   "gainers": [
     {
       "symbol": "LAURUSLABS",
@@ -14,7 +14,7 @@
       "high_price": 2348.8,
       "low_price": 2214.8,
       "rank": 1,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -29,7 +29,7 @@
       "high_price": 96.1,
       "low_price": 92,
       "rank": 2,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -44,7 +44,7 @@
       "high_price": 159.96,
       "low_price": 153.21,
       "rank": 3,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -59,7 +59,7 @@
       "high_price": 465.8,
       "low_price": 439.05,
       "rank": 4,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -74,7 +74,7 @@
       "high_price": 151.67,
       "low_price": 143.9,
       "rank": 5,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -89,7 +89,7 @@
       "high_price": 2757.2,
       "low_price": 2659.1,
       "rank": 6,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -104,7 +104,7 @@
       "high_price": 1704.1,
       "low_price": 1629.9,
       "rank": 7,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -119,7 +119,7 @@
       "high_price": 7848,
       "low_price": 7610.5,
       "rank": 8,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -134,7 +134,7 @@
       "high_price": 1394.8,
       "low_price": 1335,
       "rank": 9,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -149,7 +149,7 @@
       "high_price": 20239,
       "low_price": 19280,
       "rank": 10,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -164,7 +164,7 @@
       "high_price": 772,
       "low_price": 720.25,
       "rank": 11,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -179,7 +179,7 @@
       "high_price": 985,
       "low_price": 932.75,
       "rank": 12,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -194,7 +194,7 @@
       "high_price": 1493.7,
       "low_price": 1443.7,
       "rank": 13,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -224,8 +224,8 @@
       "high_price": 623.3,
       "low_price": 596.15,
       "rank": 15,
-      "rank_change_str": "\u25bc -10",
-      "rank_change": -10
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "GODREJPROP",
@@ -239,7 +239,7 @@
       "high_price": 1912.4,
       "low_price": 1834,
       "rank": 16,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -254,8 +254,8 @@
       "high_price": 105.26,
       "low_price": 101.5,
       "rank": 17,
-      "rank_change_str": "\u25bc -9",
-      "rank_change": -9
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "OBEROIRLTY",
@@ -269,7 +269,7 @@
       "high_price": 1835,
       "low_price": 1761.7,
       "rank": 18,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -284,7 +284,7 @@
       "high_price": 1000,
       "low_price": 966.9,
       "rank": 19,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -299,7 +299,7 @@
       "high_price": 391.75,
       "low_price": 380,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ],
@@ -316,7 +316,7 @@
       "high_price": 4020,
       "low_price": 3835.3,
       "rank": 1,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -331,7 +331,7 @@
       "high_price": 172.8,
       "low_price": 160.5,
       "rank": 2,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -346,8 +346,8 @@
       "high_price": 3024.6,
       "low_price": 2850,
       "rank": 3,
-      "rank_change_str": "\u25bc -2",
-      "rank_change": -2
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "CUMMINSIND",
@@ -361,8 +361,8 @@
       "high_price": 4199,
       "low_price": 4042.2,
       "rank": 4,
-      "rank_change_str": "\u25b2 +10",
-      "rank_change": 10
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "KALYANKJIL",
@@ -376,7 +376,7 @@
       "high_price": 714.9,
       "low_price": 676.2,
       "rank": 5,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -391,7 +391,7 @@
       "high_price": 7985.5,
       "low_price": 7695,
       "rank": 6,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -406,7 +406,7 @@
       "high_price": 2257.7,
       "low_price": 2180.8,
       "rank": 7,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -421,7 +421,7 @@
       "high_price": 1094.9,
       "low_price": 1037.3,
       "rank": 8,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -436,7 +436,7 @@
       "high_price": 3092.2,
       "low_price": 3021.5,
       "rank": 9,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -451,7 +451,7 @@
       "high_price": 305.9,
       "low_price": 296,
       "rank": 10,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -466,7 +466,7 @@
       "high_price": 9988,
       "low_price": 9725.5,
       "rank": 11,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -481,7 +481,7 @@
       "high_price": 819.15,
       "low_price": 799,
       "rank": 12,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -496,7 +496,7 @@
       "high_price": 1381.3,
       "low_price": 1350.6,
       "rank": 13,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -511,7 +511,7 @@
       "high_price": 571,
       "low_price": 551.4,
       "rank": 14,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -526,7 +526,7 @@
       "high_price": 95.87,
       "low_price": 92.9,
       "rank": 15,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -541,7 +541,7 @@
       "high_price": 4234,
       "low_price": 4085.1,
       "rank": 16,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -556,7 +556,7 @@
       "high_price": 214.71,
       "low_price": 208.82,
       "rank": 17,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -571,7 +571,7 @@
       "high_price": 193.32,
       "low_price": 189.89,
       "rank": 18,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -586,7 +586,7 @@
       "high_price": 12.69,
       "low_price": 12.18,
       "rank": 19,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -601,7 +601,7 @@
       "high_price": 440.55,
       "low_price": 429.7,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "captured_at_ist": "2026-11-20T18:10:38.309557+05:30",
-  "label": "2026-11-20_1810",
+  "captured_at_ist": "2026-11-20T18:53:53.166415+05:30",
+  "label": "2026-11-20_1853",
   "gainers": [
     {
       "symbol": "INDUSINDBK",
@@ -14,7 +14,7 @@
       "high_price": 1003,
       "low_price": 906,
       "rank": 1,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -29,7 +29,7 @@
       "high_price": 251,
       "low_price": 230.15,
       "rank": 2,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -44,7 +44,7 @@
       "high_price": 9282.5,
       "low_price": 8800,
       "rank": 3,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -59,7 +59,7 @@
       "high_price": 1450,
       "low_price": 1368.8,
       "rank": 4,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -74,7 +74,7 @@
       "high_price": 219.1,
       "low_price": 206.76,
       "rank": 5,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -89,7 +89,7 @@
       "high_price": 6215,
       "low_price": 5831,
       "rank": 6,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -104,7 +104,7 @@
       "high_price": 1090,
       "low_price": 1050.05,
       "rank": 7,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -119,7 +119,7 @@
       "high_price": 350.9,
       "low_price": 331.35,
       "rank": 8,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -134,7 +134,7 @@
       "high_price": 3939,
       "low_price": 3680.1,
       "rank": 9,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -149,7 +149,7 @@
       "high_price": 1204.4,
       "low_price": 1139.6,
       "rank": 10,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -164,8 +164,8 @@
       "high_price": 14047,
       "low_price": 13505,
       "rank": 11,
-      "rank_change_str": "\u25bc -7",
-      "rank_change": -7
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "ULTRACEMCO",
@@ -179,7 +179,7 @@
       "high_price": 12939,
       "low_price": 12575,
       "rank": 12,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -194,7 +194,7 @@
       "high_price": 850.35,
       "low_price": 815.5,
       "rank": 13,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -209,7 +209,7 @@
       "high_price": 1740.3,
       "low_price": 1677.3,
       "rank": 14,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -224,7 +224,7 @@
       "high_price": 2459,
       "low_price": 2338,
       "rank": 15,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -239,7 +239,7 @@
       "high_price": 1125,
       "low_price": 1078.15,
       "rank": 16,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -254,7 +254,7 @@
       "high_price": 1942,
       "low_price": 1848.6,
       "rank": 17,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -269,7 +269,7 @@
       "high_price": 1435.1,
       "low_price": 1376.1,
       "rank": 18,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -284,7 +284,7 @@
       "high_price": 516.6,
       "low_price": 499,
       "rank": 19,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -299,7 +299,7 @@
       "high_price": 913,
       "low_price": 882.9,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ],
@@ -316,7 +316,7 @@
       "high_price": 648.9,
       "low_price": 617,
       "rank": 1,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -331,7 +331,7 @@
       "high_price": 3605,
       "low_price": 3497,
       "rank": 2,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -346,7 +346,7 @@
       "high_price": 182.62,
       "low_price": 177.95,
       "rank": 3,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -361,8 +361,8 @@
       "high_price": 57.07,
       "low_price": 55.04,
       "rank": 4,
-      "rank_change_str": "\u25b2 +13",
-      "rank_change": 13
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "GVT&D",
@@ -376,7 +376,7 @@
       "high_price": 4357.4,
       "low_price": 4144,
       "rank": 5,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -391,8 +391,8 @@
       "high_price": 2576.4,
       "low_price": 2480,
       "rank": 6,
-      "rank_change_str": "\u25b2 +13",
-      "rank_change": 13
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "CGPOWER",
@@ -406,7 +406,7 @@
       "high_price": 802,
       "low_price": 785.1,
       "rank": 7,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -421,7 +421,7 @@
       "high_price": 238.2,
       "low_price": 231.85,
       "rank": 8,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -436,7 +436,7 @@
       "high_price": 2967.8,
       "low_price": 2897.7,
       "rank": 9,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -451,7 +451,7 @@
       "high_price": 195,
       "low_price": 190.61,
       "rank": 10,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -466,7 +466,7 @@
       "high_price": 1632.3,
       "low_price": 1595,
       "rank": 11,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -481,7 +481,7 @@
       "high_price": 30370,
       "low_price": 29675,
       "rank": 12,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -496,8 +496,8 @@
       "high_price": 386.85,
       "low_price": 374.2,
       "rank": 13,
-      "rank_change_str": "\u25b2 +7",
-      "rank_change": 7
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "IEX",
@@ -511,7 +511,7 @@
       "high_price": 115.66,
       "low_price": 112.54,
       "rank": 14,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -526,7 +526,7 @@
       "high_price": 4620,
       "low_price": 4524,
       "rank": 15,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -541,7 +541,7 @@
       "high_price": 179.07,
       "low_price": 173.88,
       "rank": 16,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -556,8 +556,8 @@
       "high_price": 60.6,
       "low_price": 59.5,
       "rank": 17,
-      "rank_change_str": "\u25bc -4",
-      "rank_change": -4
+      "rank_change_str": "- 0",
+      "rank_change": 0
     },
     {
       "symbol": "HINDZINC",
@@ -571,7 +571,7 @@
       "high_price": 525.5,
       "low_price": 503,
       "rank": 18,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -586,7 +586,7 @@
       "high_price": 441.9,
       "low_price": 435.7,
       "rank": 19,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     },
     {
@@ -601,7 +601,7 @@
       "high_price": 307.55,
       "low_price": 294.5,
       "rank": 20,
-      "rank_change_str": "NEW",
+      "rank_change_str": "- 0",
       "rank_change": 0
     }
   ]

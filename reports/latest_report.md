@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-23 1946 IST
+# NSE F&O Gainers/Losers - 2026-11-23 2037 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
@@ -13,7 +13,7 @@
 - #9 ATHERENERG (+2.26%)
 - #10 KALYANKJIL (+2.22%)
 
-*Initial session baseline captured.*
+**Consistent top-5 leaders across all snapshots:** POLICYBZR, TCS, LAURUSLABS, VMM, COFORGE
 
 ## 📉 Losers Analysis
 **Current Top 10:**
@@ -28,10 +28,10 @@
 - #9 FEDERALBNK (-3.67%)
 - #10 IOC (-3.65%)
 
-*Initial session baseline captured.*
+**Consistent bottom-5 laggards across all snapshots:** APLAPOLLO, TATASTEEL, UNIONBANK, BHEL, INDUSINDBK
 
 ## 🚀 Direct High Rank Entries
-- Initial session baseline snapshot — rank progression tracking will begin on subsequent runs.
+- None this session - all current top ranks were already present in earlier snapshots.
 
 ## 🔄 Sector Rotation
 **Gainer-side sector concentration (top 15):**
@@ -57,6 +57,6 @@
 **Banking** leads losers with 7 names in the top 15: UNIONBANK, INDUSINDBK, BANKBARODA, AXISBANK, CANBK, FEDERALBNK, PNB
 
 ## 📊 Final Market Conclusion
-Session theme: IT sector rotation on the buy side; pressure building in Banking.
+Session theme: sustained strength in POLICYBZR, TCS, LAURUSLABS; IT sector rotation on the buy side; pressure building in Banking.
 
 *Note: This is a mechanical read of rank/price movement across F&O gainers/losers snapshots, not a trade recommendation. Cross-check against your existing CPR/BTST signals before acting.*

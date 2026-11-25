@@ -1,4 +1,4 @@
-# NSE F&O Gainers/Losers - 2026-11-25 2015 IST
+# NSE F&O Gainers/Losers - 2026-11-25 2052 IST
 
 ## 📈 Gainers Analysis
 **Current Top 10:**
